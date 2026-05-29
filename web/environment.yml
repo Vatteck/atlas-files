@@ -1,0 +1,9 @@
+nodejs:
+  version: '12.18.0'
+  url: 'https://nodejs.org/dist/v12.18.0/node-v12.18.0-linux-x64.tar.xz'
+
+nativefier:
+  version: '7.7.1'
+
+electron:
+  version: '5.0.13'

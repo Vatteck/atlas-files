@@ -1,0 +1,237 @@
+youtube:
+  name: YouTube
+  url: https://www.youtube.com
+  category: Network
+  priority: 1
+
+facebook:
+  name: Facebook
+  url: https://www.facebook.com
+  category: Network
+  priority: 3
+
+instagram:
+  name: Instagram
+  url: https://www.instagram.com
+  category: Network
+  save_icon: true
+  priority: 3
+
+twitch:
+  name: Twitch
+  description:
+    en: Streaming service
+    pt: Serviço de streaming
+    es: Servicio de streaming
+    it: Servizio di streaming
+    ca: Servei de streaming
+    de: Streaming-Dienst
+  url: https://www.twitch.tv
+  category: Network
+  priority: 1
+
+whatsapp:
+  name: WhatsApp
+  description: 
+    en: Messaging and call service
+    pt: Serviço de mensagens e chamadas
+    es: Servicio de mensajes y llamadas
+    it: Servizio di messaggi e chiamate
+    ca: Servei de missatges i trucades
+    de: Ein Nachrichten- und Anrufservice
+  url: https://web.whatsapp.com
+  icon_url: https://web.whatsapp.com/apple-touch-icon.png
+  category: Network
+  options: [tray_min]
+  priority: 3
+
+telegram:
+  name: Telegram
+  description: 
+    en: Messaging and call service
+    pt: Serviço de mensagens e chamadas
+    es: Servicio de mensajes y llamadas
+    it: Servizio di messaggi e chiamate
+    ca: Servei de missatges i trucades
+    de: Ein Nachrichten- und Anrufservice
+  url: https://web.telegram.org
+  category: Network
+  options: [tray_min]
+  priority: 2
+
+slack:
+  name: Slack
+  description: 
+    en: Cloud message service
+    pt: Serviço de mensagens na nuvem
+    es: Servicio de mensajes en la nube
+    it: Servizio di messaggi cloud
+    ca: Servei de missatges al núvol
+    de: Cloud-Nachrichtendienst
+  url: https://slack.com
+  category: Network
+  options: [tray_min]
+  priority: 3
+
+reddit:
+  name: Reddit
+  url: https://www.reddit.com
+  category: Network
+  priority: 0
+
+google-drive:
+  name: Google Drive
+  url: https://drive.google.com
+  category: Utility
+  priority: 1
+
+google-keep:
+  name: Google Keep
+  description:
+    en: Cloud notes service
+    pt: Serviço de notas em nuvem
+    es: Servicio de notas en la nube
+    it: Servizio note cloud
+    ca: Servei de notes al núvol
+    de: Cloud Notes-Dienst
+  url: https://keep.google.com
+  icon_url: https://ssl.gstatic.com/keep/icon_128.png
+  save_icon: false
+  category: Utility
+  options: [tray_min]
+  priority: 2
+
+google-photos:
+  name: Google Photos
+  url: https://photos.google.com
+  save_icon: false
+  category: Network
+  icon_url: "https://ssl.gstatic.com/social/photosui/images/logo/1x/photos_64dp.png"
+  priority: 2
+
+google-cal:
+  name: Google Calendar
+  url: https://calendar.google.com
+  icon_url: https://calendar.google.com/googlecalendar/images/favicon_v2018_256.png
+  category: Utility
+  options: [tray_min]
+  priority: 1
+
+google-sheets:
+  name: Google Sheets
+  url: https://docs.google.com/spreadsheets/
+  icon_url: https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico
+  category: Office
+  priority: 1
+
+google-docs:
+  name: Google Docs
+  url: https://docs.google.com/document
+  icon_url: https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico
+  category: Office
+  priority: 1
+
+google-pres:
+  name: Google Presentation
+  url: https://docs.google.com/presentation
+  icon_url: https://ssl.gstatic.com/docs/presentations/images/favicon5.ico
+  category: Office
+  priority: 1
+
+gmail:
+  name: GMail
+  url: https://gmail.com
+  icon_url: https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+  save_icon: true
+  category: Network
+  options: [tray_min]
+  priority: 2
+
+mega:
+  name: Mega
+  url: https://www.mega.nz
+  category: Utility
+  priority: 0
+
+evernote:
+  name: Evernote
+  url: https://www.evernote.com/client/web
+  icon_url: https://www.evernote.com/favicon.ico?v2
+  save_icon: false
+  category: Utility
+  description:
+    en: Cloud notes service
+    pt: Serviço de notas em nuvem
+    es: Servicio de notas en la nube
+    it: Servizio note cloud
+    ca: Servei de notes al núvol
+    de: Cloud Notes-Dienst
+  options: [tray_min]
+  priority: 2
+
+protonmail:
+  name: ProtonMail
+  url: https://mail.proton.me
+  save_icon: false
+  category: Network
+  options: [tray_min]
+  priority: 2
+
+trello:
+  name: Trello
+  url: https://trello.com
+  icon_url: https://a.trellocdn.com/prgb/dist/images/ios/apple-touch-icon-precomposed.8de2074e8a785dd5d498.png
+  save_icon: true
+  category: Network
+  options: [max]
+  priority: 1
+
+netflix:
+  name: Netflix
+  url: https://netflix.com
+  icon_url: https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico
+  save_icon: true
+  category: Video
+  options: [max, widevine]
+  priority: 3
+
+primevideo:
+  name: Prime Video
+  url: https://primevideo.com
+  icon_url: https://m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon._CB527404570_.png
+  save_icon: true
+  category: Video
+  options: [max, widevine]
+  priority: 3
+
+disneyplus:
+  name: Disney Plus
+  url: https://disneyplus.com
+  icon_url: https://prod-static.disney-plus.net/us-west-2/builds/9a2417ffbea5858e7ced61f994f7a565140a9e26_1605588680949/images/favicons/safari-pinned-tab.svg
+  save_icon: true
+  category: Video
+  options: [max, widevine]
+  priority: 3
+
+notion:
+  name: Notion
+  url: https://www.notion.so
+  save_icon: false
+  category: Network
+  options: [tray_min]
+  priority: 2
+
+chatgpt:
+  name: ChatGPT
+  description:
+    en: Sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response
+    pt: Modelo irmão do InstructGPT, que é treinado para seguir uma instrução rapidamente e fornecer uma resposta detalhada
+    es: Modelo hermano para InstructGPT, que está capacitado para seguir una instrucción en un mensaje y proporcionar una respuesta detallada
+    it: Modello fratello di InstructGPT, addestrato a seguire un'istruzione in un prompt e fornire una risposta dettagliata
+    ca: Model de germà d'InstructGPT, que està entrenat per seguir una instrucció en una indicació i proporcionar una resposta detallada
+    de: Geschwistermodell zu InstructGPT, das darauf trainiert ist, einer Anweisung in einer Eingabeaufforderung zu folgen und eine detaillierte Antwort zu geben
+  url: https://chat.openai.com
+  save_icon: true
+  category: Network
+  priority: 3
+  icon_url: https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png

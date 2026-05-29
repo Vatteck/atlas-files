@@ -1,0 +1,5 @@
+3=google-chrome
+1=xdman
+0=optimus-manager-qt
+1=mangohud
+1=vkbasalt
