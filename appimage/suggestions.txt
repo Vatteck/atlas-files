@@ -6,11 +6,9 @@
 1=cpu-x
 1=nextcloud
 1=rpcs3
-1=yuzu
 1=pcsx2
 1=duckstation
 1=emulationstation-de
-1=citra-nightly
 1=cemu
 1=xemu
 1=steam-rom-manager

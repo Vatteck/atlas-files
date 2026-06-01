@@ -1,5 +1,7 @@
 3=google-chrome
-1=xdman
-0=optimus-manager-qt
-1=mangohud
+3=visual-studio-code-bin
+2=brave-bin
+2=vesktop-bin
 1=vkbasalt
+0=optimus-manager-qt
+0=xdman
