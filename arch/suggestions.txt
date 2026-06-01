@@ -1,13 +1,16 @@
 3=firefox
 3=kodi
 3=steam
+3=visual-studio-code-bin
 2=audacity
+2=brave-bin
 2=cheese
 2=gimp
 2=kdenlive
 2=mpv
 2=obs-studio
 2=vlc
+2=vesktop-bin
 1=0ad
 1=blender
 1=inkscape
@@ -19,4 +22,5 @@
 0=baobab
 0=code
 0=drawing
+0=google-chrome
 0=remmina

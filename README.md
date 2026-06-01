@@ -14,7 +14,7 @@ AppImage**:
 
 | Path | Used by | Purpose |
 |------|---------|---------|
-| [`arch/suggestions.txt`](arch/suggestions.txt) | Arch gem | suggested apps (one per line, `priority=name`, 3 = top). **Official-repo names only** — Atlas filters suggestions against the repos, so AUR-only names won't appear. |
+| [`arch/suggestions.txt`](arch/suggestions.txt) | Arch gem | suggested apps (one per line, `priority=name`, 3 = top). May be **repo or AUR** names — Atlas resolves each against the official repos first, then the AUR (when AUR is enabled). |
 | [`arch/categories.txt`](arch/categories.txt) | Arch gem | category mapping for Arch packages |
 | [`flatpak/suggestions.txt`](flatpak/suggestions.txt) | Flatpak gem | suggested Flatpak apps (`priority=app.id`) |
 | [`appimage/suggestions.txt`](appimage/suggestions.txt) | AppImage gem | suggested AppImages (`priority=name`) |
