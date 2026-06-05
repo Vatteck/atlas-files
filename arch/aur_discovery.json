@@ -4,14 +4,14 @@
    {
     "Description": "Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)",
     "FirstSubmitted": 1513624448,
-    "LastModified": 1780578879,
+    "LastModified": 1780639966,
     "Maintainer": "dcelasun",
     "Name": "visual-studio-code-bin",
     "NumVotes": 1677,
     "PackageBase": "visual-studio-code-bin",
     "Popularity": 32.592339,
     "URL": "https://code.visualstudio.com/",
-    "Version": "1.123.0-3"
+    "Version": "1.123.0-4"
    },
    {
     "Description": "Send, receive & exchange cryptocurrency with ease on the world's leading Desktop, Mobile and Hardware wallets. Bitcoin wallet",
@@ -316,6 +316,18 @@
     "Version": "9.0.4-1"
    },
    {
+    "Description": "A fancy custom distribution of Valves Proton with various patches",
+    "FirstSubmitted": 1582283177,
+    "LastModified": 1775476537,
+    "Maintainer": "Jaja",
+    "Name": "proton-ge-custom-bin",
+    "NumVotes": 276,
+    "PackageBase": "proton-ge-custom-bin",
+    "Popularity": 5.45874,
+    "URL": "https://github.com/GloriousEggroll/proton-ge-custom",
+    "Version": "1:GE_Proton10_34-1"
+   },
+   {
     "Description": "Opensource API Client for Exploring and Testing APIs",
     "FirstSubmitted": 1694608147,
     "LastModified": 1780073188,
@@ -398,18 +410,6 @@
     "Popularity": 4.723015,
     "URL": "https://pandoc.org",
     "Version": "3.10-1"
-   },
-   {
-    "Description": "A fancy custom distribution of Valves Proton with various patches",
-    "FirstSubmitted": 1582283177,
-    "LastModified": 1775476537,
-    "Maintainer": "Jaja",
-    "Name": "proton-ge-custom-bin",
-    "NumVotes": 275,
-    "PackageBase": "proton-ge-custom-bin",
-    "Popularity": 4.694184,
-    "URL": "https://github.com/GloriousEggroll/proton-ge-custom",
-    "Version": "1:GE_Proton10_34-1"
    },
    {
     "Description": "Claude Desktop - Linux (unofficial, from official binary)",
@@ -766,14 +766,14 @@
    {
     "Description": "Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)",
     "FirstSubmitted": 1513624448,
-    "LastModified": 1780578879,
+    "LastModified": 1780639966,
     "Maintainer": "dcelasun",
     "Name": "visual-studio-code-bin",
     "NumVotes": 1677,
     "PackageBase": "visual-studio-code-bin",
     "Popularity": 32.592339,
     "URL": "https://code.visualstudio.com/",
-    "Version": "1.123.0-3"
+    "Version": "1.123.0-4"
    },
    {
     "Description": "Send, receive & exchange cryptocurrency with ease on the world's leading Desktop, Mobile and Hardware wallets. Bitcoin wallet",
@@ -946,14 +946,14 @@
    {
     "Description": "An agentic coding tool that lives in your terminal",
     "FirstSubmitted": 1740425758,
-    "LastModified": 1780610079,
+    "LastModified": 1780638403,
     "Maintainer": "cg505",
     "Name": "claude-code",
     "NumVotes": 69,
     "PackageBase": "claude-code",
     "Popularity": 16.641414,
     "URL": "https://github.com/anthropics/claude-code",
-    "Version": "2.1.163-1"
+    "Version": "2.1.165-1"
    },
    {
     "Description": "Private, fast, and honest web browser based on Chromium (Latest/Stable)",
@@ -1453,6 +1453,126 @@
   ],
   "recently_updated": [
    {
+    "Description": "Port of the 'Colossal Cave Adventure' text-based adventure game",
+    "FirstSubmitted": 1501452720,
+    "LastModified": 1780641009,
+    "Maintainer": "kleintux",
+    "Name": "open-adventure",
+    "NumVotes": 9,
+    "PackageBase": "open-adventure",
+    "Popularity": 0.0,
+    "URL": "http://www.catb.org/~esr/open-adventure/",
+    "Version": "1.21-1"
+   },
+   {
+    "Description": "Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)",
+    "FirstSubmitted": 1513624448,
+    "LastModified": 1780639966,
+    "Maintainer": "dcelasun",
+    "Name": "visual-studio-code-bin",
+    "NumVotes": 1677,
+    "PackageBase": "visual-studio-code-bin",
+    "Popularity": 32.592339,
+    "URL": "https://code.visualstudio.com/",
+    "Version": "1.123.0-4"
+   },
+   {
+    "Description": "Open source portable SIP softphone for Windows based on PJSIP stack",
+    "FirstSubmitted": 1514127630,
+    "LastModified": 1780639364,
+    "Maintainer": "ynnsn",
+    "Name": "microsip",
+    "NumVotes": 8,
+    "PackageBase": "microsip",
+    "Popularity": 0.009055,
+    "URL": "https://www.microsip.org",
+    "Version": "3.22.9-2"
+   },
+   {
+    "Description": "Signal Private Messenger for Linux - Beta version.",
+    "FirstSubmitted": 1597691358,
+    "LastModified": 1780638755,
+    "Maintainer": "Edu4rdSHL",
+    "Name": "signal-desktop-beta",
+    "NumVotes": 17,
+    "PackageBase": "signal-desktop-beta",
+    "Popularity": 0.376839,
+    "URL": "https://signal.org",
+    "Version": "8.14.0beta1-1"
+   },
+   {
+    "Description": "An agentic coding tool that lives in your terminal",
+    "FirstSubmitted": 1740425758,
+    "LastModified": 1780638403,
+    "Maintainer": "cg505",
+    "Name": "claude-code",
+    "NumVotes": 69,
+    "PackageBase": "claude-code",
+    "Popularity": 16.641414,
+    "URL": "https://github.com/anthropics/claude-code",
+    "Version": "2.1.165-1"
+   },
+   {
+    "Description": "Library and tools to access the Windows Shortcut File (LNK) format",
+    "FirstSubmitted": 1561225970,
+    "LastModified": 1780638191,
+    "Maintainer": "lmartinez-mirror",
+    "Name": "liblnk-git",
+    "NumVotes": 6,
+    "PackageBase": "liblnk-git",
+    "Popularity": 0.319713,
+    "URL": "https://github.com/libyal/liblnk",
+    "Version": "20260525.r1.g6579a99-1"
+   },
+   {
+    "Description": "Command line tools for liblnk",
+    "FirstSubmitted": 1561225970,
+    "LastModified": 1780638191,
+    "Maintainer": "lmartinez-mirror",
+    "Name": "liblnk-tools-git",
+    "NumVotes": 6,
+    "PackageBase": "liblnk-git",
+    "Popularity": 0.319713,
+    "URL": "https://github.com/libyal/liblnk",
+    "Version": "20260525.r1.g6579a99-1"
+   },
+   {
+    "Description": "Python3 bindings for liblnk",
+    "FirstSubmitted": 1561225970,
+    "LastModified": 1780638191,
+    "Maintainer": "lmartinez-mirror",
+    "Name": "python-liblnk-git",
+    "NumVotes": 6,
+    "PackageBase": "liblnk-git",
+    "Popularity": 0.319713,
+    "URL": "https://github.com/libyal/liblnk",
+    "Version": "20260525.r1.g6579a99-1"
+   },
+   {
+    "Description": "A collection of tools for Linux in a user-friendly way.",
+    "FirstSubmitted": 1749259231,
+    "LastModified": 1780637767,
+    "Maintainer": "psygreg",
+    "Name": "linuxtoys-bin",
+    "NumVotes": 6,
+    "PackageBase": "linuxtoys-bin",
+    "Popularity": 0.444124,
+    "URL": "https://github.com/psygreg/linuxtoys",
+    "Version": "6.2-1"
+   },
+   {
+    "Description": "The universal proxy platform (binary version)",
+    "FirstSubmitted": 1672820014,
+    "LastModified": 1780636901,
+    "Maintainer": "adityaphra",
+    "Name": "sing-box-bin",
+    "NumVotes": 13,
+    "PackageBase": "sing-box-bin",
+    "Popularity": 0.789682,
+    "URL": "https://github.com/SagerNet/sing-box",
+    "Version": "1.13.13-1"
+   },
+   {
     "Description": "T3 Code desktop app packaged from the upstream AppImage",
     "FirstSubmitted": 1772842332,
     "LastModified": 1780632081,
@@ -1897,18 +2017,6 @@
     "Version": "4.3.2606041540-1"
    },
    {
-    "Description": "An agentic coding tool that lives in your terminal",
-    "FirstSubmitted": 1740425758,
-    "LastModified": 1780610079,
-    "Maintainer": "cg505",
-    "Name": "claude-code",
-    "NumVotes": 69,
-    "PackageBase": "claude-code",
-    "Popularity": 16.641414,
-    "URL": "https://github.com/anthropics/claude-code",
-    "Version": "2.1.163-1"
-   },
-   {
     "Description": "A tool to add an OCR text layer to scanned PDF files, allowing them to be searched",
     "FirstSubmitted": 1390822592,
     "LastModified": 1780609458,
@@ -2063,113 +2171,6 @@
     "Popularity": 0.35556,
     "URL": "https://ntfy.sh",
     "Version": "2.24.0-1"
-   },
-   {
-    "Description": "The universal proxy platform.",
-    "FirstSubmitted": 1663235043,
-    "LastModified": 1780606118,
-    "Maintainer": "everyx",
-    "Name": "sing-box",
-    "NumVotes": 25,
-    "PackageBase": "sing-box",
-    "Popularity": 1.056709,
-    "URL": "https://sing-box.sagernet.org/",
-    "Version": "1.13.13-1"
-   },
-   {
-    "Description": "Google's agentic development platform (CLI companion)",
-    "FirstSubmitted": 1779224548,
-    "LastModified": 1780605267,
-    "Maintainer": "viridivn",
-    "Name": "antigravity-cli",
-    "NumVotes": 14,
-    "PackageBase": "antigravity-cli",
-    "Popularity": 10.853215,
-    "URL": "https://antigravity.google/",
-    "Version": "1.0.5_5009297080451072-1"
-   },
-   {
-    "Description": "Simple static file server for the Gemini network protocol, written in Rust",
-    "FirstSubmitted": 1603662893,
-    "LastModified": 1780605118,
-    "Maintainer": "z3ntu",
-    "Name": "agate",
-    "NumVotes": 9,
-    "PackageBase": "agate",
-    "Popularity": 0.000612,
-    "URL": "https://github.com/mbrubeck/agate",
-    "Version": "3.3.23-1"
-   },
-   {
-    "Description": "The LTS 5.10 Linux kernel and modules",
-    "FirstSubmitted": 1641860410,
-    "LastModified": 1780604800,
-    "Maintainer": "severach",
-    "Name": "linux-lts510",
-    "NumVotes": 10,
-    "PackageBase": "linux-lts510",
-    "Popularity": 0.0,
-    "URL": "https://www.kernel.org",
-    "Version": "5.10.258-1"
-   },
-   {
-    "Description": "Headers and scripts for building modules for the LTS 5.10 Linux kernel",
-    "FirstSubmitted": 1641860410,
-    "LastModified": 1780604800,
-    "Maintainer": "severach",
-    "Name": "linux-lts510-headers",
-    "NumVotes": 10,
-    "PackageBase": "linux-lts510",
-    "Popularity": 0.0,
-    "URL": "https://www.kernel.org",
-    "Version": "5.10.258-1"
-   },
-   {
-    "Description": "Documentation for the LTS 5.10 Linux kernel",
-    "FirstSubmitted": 1641860410,
-    "LastModified": 1780604800,
-    "Maintainer": "severach",
-    "Name": "linux-lts510-docs",
-    "NumVotes": 10,
-    "PackageBase": "linux-lts510",
-    "Popularity": 0.0,
-    "URL": "https://www.kernel.org",
-    "Version": "5.10.258-1"
-   },
-   {
-    "Description": "A free, open-source program to generate Digital Cinema Packages (DCPs) from videos or images",
-    "FirstSubmitted": 1384621281,
-    "LastModified": 1780604028,
-    "Maintainer": "markusk",
-    "Name": "dcpomatic",
-    "NumVotes": 7,
-    "PackageBase": "dcpomatic",
-    "Popularity": 0.000342,
-    "URL": "https://dcpomatic.com/",
-    "Version": "2.18.43-1"
-   },
-   {
-    "Description": "Command line tools for fly.io services",
-    "FirstSubmitted": 1587075321,
-    "LastModified": 1780603475,
-    "Maintainer": "ringo",
-    "Name": "flyctl-bin",
-    "NumVotes": 14,
-    "PackageBase": "flyctl-bin",
-    "Popularity": 0.186525,
-    "URL": "https://github.com/superfly/flyctl",
-    "Version": "0.4.58-1"
-   },
-   {
-    "FirstSubmitted": 1677593129,
-    "LastModified": 1780602896,
-    "Maintainer": "Windows10CE",
-    "Name": "dotnet-preview-bin",
-    "NumVotes": 23,
-    "PackageBase": "dotnet-preview-bin",
-    "Popularity": 0.7235,
-    "URL": "https://www.microsoft.com/net/core",
-    "Version": "11.0.0.sdk100+preview.4-2"
    }
   ],
   "vcs": [
@@ -2475,18 +2476,6 @@
     "Version": "3.2.0.r53.gf54b882-1"
    },
    {
-    "Description": "Collection of Alacritty color schemes.",
-    "FirstSubmitted": 1688040123,
-    "LastModified": 1713756136,
-    "Maintainer": "cyqsimon",
-    "Name": "alacritty-theme-git",
-    "NumVotes": 6,
-    "PackageBase": "alacritty-theme-git",
-    "Popularity": 2.643615,
-    "URL": "https://github.com/alacritty/alacritty-theme",
-    "Version": "1:r219.5f906a4-1"
-   },
-   {
     "Description": "Nintendo Switch emulator forked from yuzu.",
     "FirstSubmitted": 1747264682,
     "LastModified": 1780276679,
@@ -2533,6 +2522,18 @@
     "Popularity": 2.304879,
     "URL": "https://github.com/detiam/zenmonitor3",
     "Version": "3:r94.1e1ceec-2"
+   },
+   {
+    "Description": "Collection of Alacritty color schemes.",
+    "FirstSubmitted": 1688040123,
+    "LastModified": 1713756136,
+    "Maintainer": "cyqsimon",
+    "Name": "alacritty-theme-git",
+    "NumVotes": 6,
+    "PackageBase": "alacritty-theme-git",
+    "Popularity": 2.294295,
+    "URL": "https://github.com/alacritty/alacritty-theme",
+    "Version": "1:r219.5f906a4-1"
    },
    {
     "Description": "Nuvoton module for NCT6687-R synced with latest upstream kernel.",
@@ -2896,6 +2897,6 @@
    }
   ]
  },
- "generated": "2026-06-05T04:19:55Z",
+ "generated": "2026-06-05T06:47:18Z",
  "source": "https://aur.archlinux.org/packages-meta-ext-v1.json.gz"
 }
