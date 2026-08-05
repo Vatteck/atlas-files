@@ -2,19 +2,6 @@
  "buckets": {
   "bin": [
    {
-    "Description": "Send, receive & exchange cryptocurrency with ease on the world's leading Desktop, Mobile and Hardware wallets. Bitcoin wallet",
-    "FirstSubmitted": 1779779862,
-    "LastModified": 1779927197,
-    "Maintainer": "pierrebachmann",
-    "Name": "exodus-bin",
-    "NumVotes": 244,
-    "OutOfDate": 1784257057,
-    "PackageBase": "exodus-bin",
-    "Popularity": 216.993457,
-    "URL": "https://exodus.com",
-    "Version": "26.5.7-2"
-   },
-   {
     "Description": "Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)",
     "FirstSubmitted": 1513624448,
     "LastModified": 1785325863,
@@ -32,9 +19,9 @@
     "LastModified": 1785346832,
     "Maintainer": "lsf",
     "Name": "librewolf-bin",
-    "NumVotes": 652,
+    "NumVotes": 654,
     "PackageBase": "librewolf-bin",
-    "Popularity": 22.143942,
+    "Popularity": 23.234436,
     "URL": "https://librewolf.net/",
     "Version": "1:153.0.1_1-1"
    },
@@ -44,10 +31,22 @@
     "LastModified": 1785439824,
     "Maintainer": "brave",
     "Name": "brave-bin",
-    "NumVotes": 1025,
+    "NumVotes": 1026,
     "PackageBase": "brave-bin",
-    "Popularity": 22.074338,
+    "Popularity": 21.895662,
     "URL": "https://brave.com",
+    "Version": "1:1.93.129-1"
+   },
+   {
+    "Description": "The minimalist browser from the makers of Brave (binary release).",
+    "FirstSubmitted": 1780526329,
+    "LastModified": 1785439855,
+    "Maintainer": "brave",
+    "Name": "brave-origin-bin",
+    "NumVotes": 44,
+    "PackageBase": "brave-origin-bin",
+    "Popularity": 20.090232,
+    "URL": "https://brave.com/origin/download",
     "Version": "1:1.93.129-1"
    },
    {
@@ -58,21 +57,9 @@
     "Name": "zen-browser-bin",
     "NumVotes": 327,
     "PackageBase": "zen-browser-bin",
-    "Popularity": 20.188499,
+    "Popularity": 17.513522,
     "URL": "https://github.com/zen-browser/desktop",
     "Version": "1.21.10b-1"
-   },
-   {
-    "Description": "The minimalist browser from the makers of Brave (binary release).",
-    "FirstSubmitted": 1780526329,
-    "LastModified": 1785439855,
-    "Maintainer": "brave",
-    "Name": "brave-origin-bin",
-    "NumVotes": 43,
-    "PackageBase": "brave-origin-bin",
-    "Popularity": 19.975647,
-    "URL": "https://brave.com/origin/download",
-    "Version": "1:1.93.129-1"
    },
    {
     "Description": "A fancy custom distribution of Valves Proton with various patches",
@@ -86,18 +73,6 @@
     "Popularity": 16.301563,
     "URL": "https://github.com/GloriousEggroll/proton-ge-custom",
     "Version": "1:GE_Proton10_34-1"
-   },
-   {
-    "Description": "Microsoft Azure Storage Explorer is a standalone app from Microsoft that allows you to easily work with Azure Storage data on Windows, macOS and Linux.",
-    "FirstSubmitted": 1785430645,
-    "LastModified": 1785430645,
-    "Maintainer": "lourencopaiva",
-    "Name": "storageexplorer-bin",
-    "NumVotes": 16,
-    "PackageBase": "storageexplorer-bin",
-    "Popularity": 15.999956,
-    "URL": "https://github.com/microsoft/AzureStorageExplorer/releases",
-    "Version": "1.44.0-2"
    },
    {
     "Description": "An Open source Launcher for Epic, Amazon and GOG Games",
@@ -134,18 +109,6 @@
     "Popularity": 12.265477,
     "URL": "https://github.com/Vencord/Vesktop",
     "Version": "1.6.5-1"
-   },
-   {
-    "Description": "A multi-crypto wallet",
-    "FirstSubmitted": 1737587326,
-    "LastModified": 1785432436,
-    "Maintainer": "hugosousa",
-    "Name": "guarda-bin",
-    "NumVotes": 12,
-    "PackageBase": "guarda-bin",
-    "Popularity": 11.581568,
-    "URL": "https://guarda.com",
-    "Version": "1.1.1-1"
    },
    {
     "Description": "EN-US // Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
@@ -220,6 +183,19 @@
     "Version": "3.0.1+1-1"
    },
    {
+    "Description": "Send, receive & exchange cryptocurrency with ease on the world's leading Desktop, Mobile and Hardware wallets. Bitcoin wallet",
+    "FirstSubmitted": 1779779862,
+    "LastModified": 1779927197,
+    "Maintainer": "pierrebachmann",
+    "Name": "exodus-bin",
+    "NumVotes": 36,
+    "OutOfDate": 1784257057,
+    "PackageBase": "exodus-bin",
+    "Popularity": 8.807224,
+    "URL": "https://exodus.com",
+    "Version": "26.5.7-2"
+   },
+   {
     "Description": "An open source cross-platform alternative to AirDrop",
     "FirstSubmitted": 1675022925,
     "LastModified": 1776642696,
@@ -230,18 +206,6 @@
     "Popularity": 8.422905,
     "URL": "https://github.com/localsend/localsend",
     "Version": "1.17.0-1"
-   },
-   {
-    "Description": "Build cross platform desktop apps with web technologies — prebuilt",
-    "FirstSubmitted": 1761870986,
-    "LastModified": 1782966593,
-    "Maintainer": "zxp19821005",
-    "Name": "electron40-bin",
-    "NumVotes": 29,
-    "PackageBase": "electron40-bin",
-    "Popularity": 8.198316,
-    "URL": "https://electronjs.org",
-    "Version": "40.10.6-1"
    },
    {
     "Description": "Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.",
@@ -256,14 +220,40 @@
     "Version": "13.0.1-1"
    },
    {
+    "Description": "Build cross platform desktop apps with web technologies — prebuilt",
+    "FirstSubmitted": 1761870986,
+    "LastModified": 1782966593,
+    "Maintainer": "zxp19821005",
+    "Name": "electron40-bin",
+    "NumVotes": 28,
+    "PackageBase": "electron40-bin",
+    "Popularity": 7.201703,
+    "URL": "https://electronjs.org",
+    "Version": "40.10.6-1"
+   },
+   {
+    "Description": "Supervise multiple coding agents in one terminal",
+    "FirstSubmitted": 1776749641,
+    "LastModified": 1784671600,
+    "Maintainer": "czyt",
+    "Name": "herdr-bin",
+    "NumVotes": 10,
+    "OutOfDate": 1785786354,
+    "PackageBase": "herdr-bin",
+    "Popularity": 6.619228,
+    "URL": "https://github.com/ogulcancelik/herdr",
+    "Version": "0.7.5-1"
+   },
+   {
     "Description": "The future of osu! and the beginning of an open era! Commonly known by the codename osu!lazer. Pew pew.",
     "FirstSubmitted": 1605206696,
     "LastModified": 1785059145,
     "Maintainer": "DavidHusicka",
     "Name": "osu-lazer-bin",
     "NumVotes": 122,
+    "OutOfDate": 1785854970,
     "PackageBase": "osu-lazer-bin",
-    "Popularity": 7.125569,
+    "Popularity": 6.182252,
     "URL": "https://osu.ppy.sh",
     "Version": "2026.726.0-1"
    },
@@ -364,19 +354,6 @@
     "Version": "2026.3-1"
    },
    {
-    "Description": "Supervise multiple coding agents in one terminal",
-    "FirstSubmitted": 1776749641,
-    "LastModified": 1784671600,
-    "Maintainer": "czyt",
-    "Name": "herdr-bin",
-    "NumVotes": 9,
-    "OutOfDate": 1785786354,
-    "PackageBase": "herdr-bin",
-    "Popularity": 5.730962,
-    "URL": "https://github.com/ogulcancelik/herdr",
-    "Version": "0.7.5-1"
-   },
-   {
     "Description": "Current/modern generation of customizable privacy-conscious web browser.",
     "FirstSubmitted": 1695162781,
     "LastModified": 1784715072,
@@ -468,6 +445,7 @@
     "Maintainer": "networkException",
     "Name": "ungoogled-chromium-bin",
     "NumVotes": 153,
+    "OutOfDate": 1785891826,
     "PackageBase": "ungoogled-chromium-bin",
     "Popularity": 4.989607,
     "URL": "https://github.com/ungoogled-software/ungoogled-chromium",
@@ -656,6 +634,18 @@
     "Version": "0.24.0-1"
    },
    {
+    "Description": "T3 Code nightly desktop app packaged from the upstream AppImage",
+    "FirstSubmitted": 1776470037,
+    "LastModified": 1785572675,
+    "Maintainer": "maria_rcks",
+    "Name": "t3code-nightly-bin",
+    "NumVotes": 5,
+    "PackageBase": "t3code-nightly-bin",
+    "Popularity": 3.793306,
+    "URL": "https://t3.codes",
+    "Version": "0.0.32_nightly.20260801.970-1"
+   },
+   {
     "Description": "The AI coding agent built for the terminal.",
     "FirstSubmitted": 1745283185,
     "LastModified": 1785584571,
@@ -691,6 +681,18 @@
     "Popularity": 3.571933,
     "URL": "https://github.com/Bali10050/darkly",
     "Version": "0.5.38-1"
+   },
+   {
+    "Description": "Note Taking App. Debian Package.",
+    "FirstSubmitted": 1742457402,
+    "LastModified": 1782035649,
+    "Maintainer": "bacteriostat",
+    "Name": "joplin-bin",
+    "NumVotes": 15,
+    "PackageBase": "joplin-bin",
+    "Popularity": 3.49104,
+    "URL": "https://github.com/laurent22/joplin",
+    "Version": "3.6.15-1"
    },
    {
     "Description": "An open source desktop YouTube player built with privacy in mind.",
@@ -731,31 +733,6 @@
   ],
   "popular": [
    {
-    "Description": "An interactive update notifier & applier that assists you with important pre / post update tasks",
-    "FirstSubmitted": 1648670018,
-    "LastModified": 1785822738,
-    "Maintainer": "Antiz",
-    "Name": "arch-update",
-    "NumVotes": 617,
-    "PackageBase": "arch-update",
-    "Popularity": 566.218514,
-    "URL": "https://github.com/Antiz96/arch-update",
-    "Version": "4.1.3-1"
-   },
-   {
-    "Description": "Send, receive & exchange cryptocurrency with ease on the world's leading Desktop, Mobile and Hardware wallets. Bitcoin wallet",
-    "FirstSubmitted": 1779779862,
-    "LastModified": 1779927197,
-    "Maintainer": "pierrebachmann",
-    "Name": "exodus-bin",
-    "NumVotes": 244,
-    "OutOfDate": 1784257057,
-    "PackageBase": "exodus-bin",
-    "Popularity": 216.993457,
-    "URL": "https://exodus.com",
-    "Version": "26.5.7-2"
-   },
-   {
     "Description": "Syncing votes with the currently installed AUR packages",
     "FirstSubmitted": 1749828466,
     "LastModified": 1784958583,
@@ -785,9 +762,9 @@
     "LastModified": 1785548585,
     "Maintainer": "flxrbr",
     "Name": "faugus-launcher",
-    "NumVotes": 80,
+    "NumVotes": 83,
     "PackageBase": "faugus-launcher",
-    "Popularity": 32.991371,
+    "Popularity": 34.330877,
     "URL": "https://github.com/Faugus/faugus-launcher",
     "Version": "2.0.5-1"
    },
@@ -821,9 +798,9 @@
     "LastModified": 1785346832,
     "Maintainer": "lsf",
     "Name": "librewolf-bin",
-    "NumVotes": 652,
+    "NumVotes": 654,
     "PackageBase": "librewolf-bin",
-    "Popularity": 22.143942,
+    "Popularity": 23.234436,
     "URL": "https://librewolf.net/",
     "Version": "1:153.0.1_1-1"
    },
@@ -833,10 +810,22 @@
     "LastModified": 1785439824,
     "Maintainer": "brave",
     "Name": "brave-bin",
-    "NumVotes": 1025,
+    "NumVotes": 1026,
     "PackageBase": "brave-bin",
-    "Popularity": 22.074338,
+    "Popularity": 21.895662,
     "URL": "https://brave.com",
+    "Version": "1:1.93.129-1"
+   },
+   {
+    "Description": "The minimalist browser from the makers of Brave (binary release).",
+    "FirstSubmitted": 1780526329,
+    "LastModified": 1785439855,
+    "Maintainer": "brave",
+    "Name": "brave-origin-bin",
+    "NumVotes": 44,
+    "PackageBase": "brave-origin-bin",
+    "Popularity": 20.090232,
+    "URL": "https://brave.com/origin/download",
     "Version": "1:1.93.129-1"
    },
    {
@@ -847,21 +836,9 @@
     "Name": "zen-browser-bin",
     "NumVotes": 327,
     "PackageBase": "zen-browser-bin",
-    "Popularity": 20.188499,
+    "Popularity": 17.513522,
     "URL": "https://github.com/zen-browser/desktop",
     "Version": "1.21.10b-1"
-   },
-   {
-    "Description": "The minimalist browser from the makers of Brave (binary release).",
-    "FirstSubmitted": 1780526329,
-    "LastModified": 1785439855,
-    "Maintainer": "brave",
-    "Name": "brave-origin-bin",
-    "NumVotes": 43,
-    "PackageBase": "brave-origin-bin",
-    "Popularity": 19.975647,
-    "URL": "https://brave.com/origin/download",
-    "Version": "1:1.93.129-1"
    },
    {
     "Description": "GObject-based multi-platform GUI toolkit (legacy)",
@@ -913,24 +890,13 @@
     "Version": "1:GE_Proton10_34-1"
    },
    {
-    "Description": "Microsoft Azure Storage Explorer is a standalone app from Microsoft that allows you to easily work with Azure Storage data on Windows, macOS and Linux.",
-    "FirstSubmitted": 1785430645,
-    "LastModified": 1785430645,
-    "Maintainer": "lourencopaiva",
-    "Name": "storageexplorer-bin",
-    "NumVotes": 16,
-    "PackageBase": "storageexplorer-bin",
-    "Popularity": 15.999956,
-    "URL": "https://github.com/microsoft/AzureStorageExplorer/releases",
-    "Version": "1.44.0-2"
-   },
-   {
     "Description": "An agentic coding tool that lives in your terminal",
     "FirstSubmitted": 1740425758,
     "LastModified": 1785084007,
     "Maintainer": "cg505",
     "Name": "claude-code",
     "NumVotes": 87,
+    "OutOfDate": 1785879776,
     "PackageBase": "claude-code",
     "Popularity": 15.464372,
     "URL": "https://github.com/anthropics/claude-code",
@@ -1069,18 +1035,6 @@
     "Version": "0.7-8"
    },
    {
-    "Description": "A multi-crypto wallet",
-    "FirstSubmitted": 1737587326,
-    "LastModified": 1785432436,
-    "Maintainer": "hugosousa",
-    "Name": "guarda-bin",
-    "NumVotes": 12,
-    "PackageBase": "guarda-bin",
-    "Popularity": 11.581568,
-    "URL": "https://guarda.com",
-    "Version": "1.1.1-1"
-   },
-   {
     "Description": "EN-US // Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
     "FirstSubmitted": 1635144512,
     "LastModified": 1784830601,
@@ -1165,6 +1119,18 @@
     "Version": "3.0.1+1-1"
    },
    {
+    "Description": "An interactive update notifier & applier that assists you with important pre / post update tasks",
+    "FirstSubmitted": 1648670018,
+    "LastModified": 1785822738,
+    "Maintainer": "Antiz",
+    "Name": "arch-update",
+    "NumVotes": 61,
+    "PackageBase": "arch-update",
+    "Popularity": 9.947948,
+    "URL": "https://github.com/Antiz96/arch-update",
+    "Version": "4.1.3-1"
+   },
+   {
     "Description": "Video Conferencing and Web Conferencing Service",
     "FirstSubmitted": 1439644694,
     "LastModified": 1784634473,
@@ -1213,16 +1179,29 @@
     "Version": "26.6.2-1"
    },
    {
-    "Description": "A proprietary music streaming service",
-    "FirstSubmitted": 1675983116,
-    "LastModified": 1781263907,
-    "Maintainer": "gromit",
-    "Name": "spotify",
-    "NumVotes": 273,
-    "PackageBase": "spotify",
-    "Popularity": 8.809483,
-    "URL": "https://www.spotify.com",
-    "Version": "1:1.2.92.147-1"
+    "Description": "Official Claude AI desktop app from Anthropic — Chat, Cowork, and Claude Code",
+    "FirstSubmitted": 1783216682,
+    "LastModified": 1784951238,
+    "Maintainer": "kevindiaz314",
+    "Name": "claude-desktop",
+    "NumVotes": 13,
+    "PackageBase": "claude-desktop",
+    "Popularity": 8.998227,
+    "URL": "https://claude.com/download",
+    "Version": "1.24012.9-1"
+   },
+   {
+    "Description": "Send, receive & exchange cryptocurrency with ease on the world's leading Desktop, Mobile and Hardware wallets. Bitcoin wallet",
+    "FirstSubmitted": 1779779862,
+    "LastModified": 1779927197,
+    "Maintainer": "pierrebachmann",
+    "Name": "exodus-bin",
+    "NumVotes": 36,
+    "OutOfDate": 1784257057,
+    "PackageBase": "exodus-bin",
+    "Popularity": 8.807224,
+    "URL": "https://exodus.com",
+    "Version": "26.5.7-2"
    },
    {
     "Description": "NVIDIA drivers utilities (580xx)",
@@ -1276,16 +1255,16 @@
     "Version": "1.17.0-1"
    },
    {
-    "Description": "Build cross platform desktop apps with web technologies — prebuilt",
-    "FirstSubmitted": 1761870986,
-    "LastModified": 1782966593,
-    "Maintainer": "zxp19821005",
-    "Name": "electron40-bin",
-    "NumVotes": 29,
-    "PackageBase": "electron40-bin",
-    "Popularity": 8.198316,
-    "URL": "https://electronjs.org",
-    "Version": "40.10.6-1"
+    "Description": "The Open Source toolkit for Secure Sockets Layer and Transport Layer Security",
+    "FirstSubmitted": 1769545206,
+    "LastModified": 1781526271,
+    "Maintainer": "the-k",
+    "Name": "openssl-1.1",
+    "NumVotes": 37,
+    "PackageBase": "openssl-1.1",
+    "Popularity": 8.26793,
+    "URL": "https://www.openssl.org",
+    "Version": "1.1.1.w-11"
    },
    {
     "Description": "Reimplementation of OpenVR, translating calls to OpenXR",
@@ -1324,41 +1303,16 @@
     "Version": "0.5-1"
    },
    {
-    "Description": "Google's agentic development platform (CLI companion)",
-    "FirstSubmitted": 1779224548,
-    "LastModified": 1785001614,
-    "Maintainer": "viridivn",
-    "Name": "antigravity-cli",
-    "NumVotes": 22,
-    "OutOfDate": 1785244014,
-    "PackageBase": "antigravity-cli",
-    "Popularity": 8.138164,
-    "URL": "https://antigravity.google/product/antigravity-cli",
-    "Version": "1.1.7_5951805767680000-1"
-   },
-   {
-    "Description": "Official Claude AI desktop app from Anthropic — Chat, Cowork, and Claude Code",
-    "FirstSubmitted": 1783216682,
-    "LastModified": 1784951238,
-    "Maintainer": "kevindiaz314",
-    "Name": "claude-desktop",
-    "NumVotes": 12,
-    "PackageBase": "claude-desktop",
-    "Popularity": 8.121435,
-    "URL": "https://claude.com/download",
-    "Version": "1.24012.9-1"
-   },
-   {
-    "Description": "The Open Source toolkit for Secure Sockets Layer and Transport Layer Security",
-    "FirstSubmitted": 1769545206,
-    "LastModified": 1781526271,
-    "Maintainer": "the-k",
-    "Name": "openssl-1.1",
-    "NumVotes": 36,
-    "PackageBase": "openssl-1.1",
-    "Popularity": 8.119789,
-    "URL": "https://www.openssl.org",
-    "Version": "1.1.1.w-11"
+    "Description": "A proprietary music streaming service",
+    "FirstSubmitted": 1675983116,
+    "LastModified": 1781263907,
+    "Maintainer": "gromit",
+    "Name": "spotify",
+    "NumVotes": 272,
+    "PackageBase": "spotify",
+    "Popularity": 8.130138,
+    "URL": "https://www.spotify.com",
+    "Version": "1:1.2.92.147-1"
    },
    {
     "Description": "Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.",
@@ -1410,18 +1364,6 @@
     "Version": "0.4.1-1"
    },
    {
-    "Description": "A modern compatibility tools manager",
-    "FirstSubmitted": 1668538518,
-    "LastModified": 1784909127,
-    "Maintainer": "yochananmarqos",
-    "Name": "protonplus",
-    "NumVotes": 45,
-    "PackageBase": "protonplus",
-    "Popularity": 7.466323,
-    "URL": "https://github.com/Vysp3r/ProtonPlus",
-    "Version": "0.5.22-1"
-   },
-   {
     "Description": "The official Android IDE (Stable branch)",
     "FirstSubmitted": 1368647110,
     "LastModified": 1785519024,
@@ -1446,16 +1388,78 @@
     "Version": "2.15.1-1"
    },
    {
-    "Description": "The future of osu! and the beginning of an open era! Commonly known by the codename osu!lazer. Pew pew.",
-    "FirstSubmitted": 1605206696,
-    "LastModified": 1785059145,
-    "Maintainer": "DavidHusicka",
-    "Name": "osu-lazer-bin",
-    "NumVotes": 122,
-    "PackageBase": "osu-lazer-bin",
-    "Popularity": 7.125569,
-    "URL": "https://osu.ppy.sh",
-    "Version": "2026.726.0-1"
+    "Description": "Build cross platform desktop apps with web technologies — prebuilt",
+    "FirstSubmitted": 1761870986,
+    "LastModified": 1782966593,
+    "Maintainer": "zxp19821005",
+    "Name": "electron40-bin",
+    "NumVotes": 28,
+    "PackageBase": "electron40-bin",
+    "Popularity": 7.201703,
+    "URL": "https://electronjs.org",
+    "Version": "40.10.6-1"
+   },
+   {
+    "Description": "Google's agentic development platform (CLI companion)",
+    "FirstSubmitted": 1779224548,
+    "LastModified": 1785001614,
+    "Maintainer": "viridivn",
+    "Name": "antigravity-cli",
+    "NumVotes": 22,
+    "OutOfDate": 1785244014,
+    "PackageBase": "antigravity-cli",
+    "Popularity": 7.055665,
+    "URL": "https://antigravity.google/product/antigravity-cli",
+    "Version": "1.1.7_5951805767680000-1"
+   },
+   {
+    "Description": "Your way to enjoy VR on Linux! Access your Wayland/X11 desktop from SteamVR/Monado (OpenVR+OpenXR support)",
+    "FirstSubmitted": 1768046848,
+    "LastModified": 1784034970,
+    "Maintainer": "galister",
+    "Name": "wayvr",
+    "NumVotes": 50,
+    "PackageBase": "wayvr",
+    "Popularity": 6.888525,
+    "URL": "https://github.com/wayvr-org/wayvr",
+    "Version": "26.7.1-2"
+   },
+   {
+    "Description": "An open source OpenXR runtime",
+    "FirstSubmitted": 1613441004,
+    "LastModified": 1783218486,
+    "Maintainer": "dbermond",
+    "Name": "monado",
+    "NumVotes": 51,
+    "PackageBase": "monado",
+    "Popularity": 6.882177,
+    "URL": "https://monado.dev/",
+    "Version": "25.1.0-3"
+   },
+   {
+    "Description": "An open source OpenXR runtime (documentation)",
+    "FirstSubmitted": 1613441004,
+    "LastModified": 1783218486,
+    "Maintainer": "dbermond",
+    "Name": "monado-doc",
+    "NumVotes": 51,
+    "PackageBase": "monado",
+    "Popularity": 6.882177,
+    "URL": "https://monado.dev/",
+    "Version": "25.1.0-3"
+   },
+   {
+    "Description": "Manage all your JetBrains Projects and Tools",
+    "FirstSubmitted": 1464169437,
+    "LastModified": 1785325834,
+    "Maintainer": "freswa",
+    "Name": "jetbrains-toolbox",
+    "NumVotes": 218,
+    "OutOfDate": 1785842604,
+    "PackageBase": "jetbrains-toolbox",
+    "Popularity": 6.786406,
+    "URL": "https://www.jetbrains.com/toolbox/",
+    "Version": "3.6.3.86383-1"
    }
   ],
   "recently_updated": [
@@ -1465,9 +1469,9 @@
     "LastModified": 1785822738,
     "Maintainer": "Antiz",
     "Name": "arch-update",
-    "NumVotes": 617,
+    "NumVotes": 61,
     "PackageBase": "arch-update",
-    "Popularity": 566.218514,
+    "Popularity": 9.947948,
     "URL": "https://github.com/Antiz96/arch-update",
     "Version": "4.1.3-1"
    },
@@ -1636,7 +1640,7 @@
     "Name": "libsignal-client",
     "NumVotes": 9,
     "PackageBase": "libsignal-client",
-    "Popularity": 0.157821,
+    "Popularity": 0.136835,
     "URL": "https://github.com/signalapp/libsignal",
     "Version": "0.99.1-1"
    },
@@ -1785,6 +1789,18 @@
     "Version": "0.24.2307-1"
    },
    {
+    "Description": "T3 Code nightly desktop app packaged from the upstream AppImage",
+    "FirstSubmitted": 1776470037,
+    "LastModified": 1785572675,
+    "Maintainer": "maria_rcks",
+    "Name": "t3code-nightly-bin",
+    "NumVotes": 5,
+    "PackageBase": "t3code-nightly-bin",
+    "Popularity": 3.793306,
+    "URL": "https://t3.codes",
+    "Version": "0.0.32_nightly.20260801.970-1"
+   },
+   {
     "Description": "Modern popup emoji picker",
     "FirstSubmitted": 1602228382,
     "LastModified": 1785572274,
@@ -1888,7 +1904,7 @@
     "Name": "neovim-nightly-bin",
     "NumVotes": 62,
     "PackageBase": "neovim-nightly-bin",
-    "Popularity": 0.02375,
+    "Popularity": 0.020592,
     "URL": "https://neovim.io",
     "Version": "0.13.0+dev+1183+g7b28b1f4a9-1"
    },
@@ -1900,7 +1916,7 @@
     "Name": "nextcloud-client-appimage-daily",
     "NumVotes": 7,
     "PackageBase": "nextcloud-client-appimage-daily",
-    "Popularity": 0.490876,
+    "Popularity": 0.425592,
     "URL": "https://download.nextcloud.com/desktop/daily/linux",
     "Version": "1:20260801-1"
    },
@@ -2008,7 +2024,7 @@
     "Name": "shelly-git",
     "NumVotes": 5,
     "PackageBase": "shelly-git",
-    "Popularity": 1.305114,
+    "Popularity": 1.131405,
     "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
     "Version": "3.0.1+1r3798.g8d5bbe5-1"
    },
@@ -2020,7 +2036,7 @@
     "Name": "shelly-flatpak-backend-git",
     "NumVotes": 5,
     "PackageBase": "shelly-git",
-    "Popularity": 1.305114,
+    "Popularity": 1.131405,
     "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
     "Version": "3.0.1+1r3798.g8d5bbe5-1"
    },
@@ -2102,9 +2118,9 @@
     "LastModified": 1785548585,
     "Maintainer": "flxrbr",
     "Name": "faugus-launcher",
-    "NumVotes": 80,
+    "NumVotes": 83,
     "PackageBase": "faugus-launcher",
-    "Popularity": 32.991371,
+    "Popularity": 34.330877,
     "URL": "https://github.com/Faugus/faugus-launcher",
     "Version": "2.0.5-1"
    },
@@ -2164,19 +2180,7 @@
     "Name": "imagemagick-full",
     "NumVotes": 17,
     "PackageBase": "imagemagick-full",
-    "Popularity": 0.010495,
-    "URL": "https://www.imagemagick.org/",
-    "Version": "7.1.2.29-1"
-   },
-   {
-    "Description": "An image viewing/manipulation program (Q32 HDRI with all possible features) (manual and API docs)",
-    "FirstSubmitted": 1451223612,
-    "LastModified": 1785545474,
-    "Maintainer": "dbermond",
-    "Name": "imagemagick-full-doc",
-    "NumVotes": 17,
-    "PackageBase": "imagemagick-full",
-    "Popularity": 0.010495,
+    "Popularity": 0.0091,
     "URL": "https://www.imagemagick.org/",
     "Version": "7.1.2.29-1"
    }
@@ -2217,18 +2221,6 @@
     "Popularity": 3.558279,
     "URL": "https://github.com/morganamilo/paru",
     "Version": "2.1.0.r41.g789bead-1"
-   },
-   {
-    "Description": "A sleek, customizable desktop shell crafted for Wayland",
-    "FirstSubmitted": 1777305237,
-    "LastModified": 1785414485,
-    "Maintainer": "noctalia-dev",
-    "Name": "noctalia-git",
-    "NumVotes": 9,
-    "PackageBase": "noctalia-git",
-    "Popularity": 3.445518,
-    "URL": "https://github.com/noctalia-dev/noctalia",
-    "Version": "5.0.0.r1191.g39a4a335c-25"
    },
    {
     "Description": "GTK explorer and editor for Hyprland keyboard shortcuts",
@@ -2316,16 +2308,28 @@
     "Version": "r3918.25e5f59-1"
    },
    {
-    "Description": "A tool to change and program the mapping of your input device buttons.",
-    "FirstSubmitted": 1641039015,
-    "LastModified": 1766675508,
-    "Maintainer": "sezanzeb",
-    "Name": "input-remapper-git",
-    "NumVotes": 48,
-    "PackageBase": "input-remapper-git",
-    "Popularity": 2.958836,
-    "URL": "https://github.com/sezanzeb/input-remapper/",
-    "Version": "2.2.0.r9.g0e1e0be9-1"
+    "Description": "A Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
+    "FirstSubmitted": 1602430560,
+    "LastModified": 1749972825,
+    "Maintainer": "moson",
+    "Name": "ryzen_smu-dkms-git",
+    "NumVotes": 24,
+    "PackageBase": "ryzen_smu-dkms-git",
+    "Popularity": 3.249329,
+    "URL": "https://github.com/amkillam/ryzen_smu",
+    "Version": "181.9f9569f-1"
+   },
+   {
+    "Description": "A sleek, customizable desktop shell crafted for Wayland",
+    "FirstSubmitted": 1777305237,
+    "LastModified": 1785414485,
+    "Maintainer": "noctalia-dev",
+    "Name": "noctalia-git",
+    "NumVotes": 8,
+    "PackageBase": "noctalia-git",
+    "Popularity": 2.967548,
+    "URL": "https://github.com/noctalia-dev/noctalia",
+    "Version": "5.0.0.r1191.g39a4a335c-25"
    },
    {
     "Description": "Torify the system with multiple tor exit nodes and load balance",
@@ -2335,7 +2339,7 @@
     "Name": "jailbox-git",
     "NumVotes": 6,
     "PackageBase": "jailbox-git",
-    "Popularity": 2.848879,
+    "Popularity": 2.877567,
     "URL": "https://github.com/jamazi/jailbox.git",
     "Version": "v0.5.0.r0.gd82c0be-2"
    },
@@ -2350,6 +2354,18 @@
     "Popularity": 2.653405,
     "URL": "https://gitlab.com/znixian/OpenOVR",
     "Version": "r1232.cff07db-1"
+   },
+   {
+    "Description": "A tool to change and program the mapping of your input device buttons.",
+    "FirstSubmitted": 1641039015,
+    "LastModified": 1766675508,
+    "Maintainer": "sezanzeb",
+    "Name": "input-remapper-git",
+    "NumVotes": 48,
+    "PackageBase": "input-remapper-git",
+    "Popularity": 2.565266,
+    "URL": "https://github.com/sezanzeb/input-remapper/",
+    "Version": "2.2.0.r9.g0e1e0be9-1"
    },
    {
     "Description": "Display the current mouse refresh rate",
@@ -2398,18 +2414,6 @@
     "Popularity": 2.4262,
     "URL": "https://github.com/chubin/cheat.sh",
     "Version": "r819.d2b8697-1"
-   },
-   {
-    "Description": "A Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
-    "FirstSubmitted": 1602430560,
-    "LastModified": 1749972825,
-    "Maintainer": "moson",
-    "Name": "ryzen_smu-dkms-git",
-    "NumVotes": 23,
-    "PackageBase": "ryzen_smu-dkms-git",
-    "Popularity": 2.402751,
-    "URL": "https://github.com/amkillam/ryzen_smu",
-    "Version": "181.9f9569f-1"
    },
    {
     "Description": "CLI Frontend in ncurses for Tox",
@@ -2556,30 +2560,6 @@
     "Version": "1:0.0.0.r5.g399ff66-1"
    },
    {
-    "Description": "A style to bend Qt5 applications to look like they belong into GNOME Shell, git version",
-    "FirstSubmitted": 1582785195,
-    "LastModified": 1663232378,
-    "Maintainer": "redtide",
-    "Name": "adwaita-qt5-git",
-    "NumVotes": 19,
-    "PackageBase": "adwaita-qt-git",
-    "Popularity": 1.976478,
-    "URL": "https://github.com/FedoraQt/adwaita-qt",
-    "Version": "1.4.1.r17.g417df19-1"
-   },
-   {
-    "Description": "A style to bend Qt6 applications to look like they belong into GNOME Shell, git version",
-    "FirstSubmitted": 1582785195,
-    "LastModified": 1663232378,
-    "Maintainer": "redtide",
-    "Name": "adwaita-qt6-git",
-    "NumVotes": 19,
-    "PackageBase": "adwaita-qt-git",
-    "Popularity": 1.976478,
-    "URL": "https://github.com/FedoraQt/adwaita-qt",
-    "Version": "1.4.1.r17.g417df19-1"
-   },
-   {
     "Description": "Reimplementation of OpenVR, translating calls to OpenXR",
     "FirstSubmitted": 1738983114,
     "LastModified": 1780374992,
@@ -2628,18 +2608,6 @@
     "Version": "r249.b43c779-1"
    },
    {
-    "Description": "Stream your Linux desktop to a Smart TV via Miracast/WFD, DLNA, or Cast",
-    "FirstSubmitted": 1778773155,
-    "LastModified": 1783187909,
-    "Maintainer": "alba4k",
-    "Name": "fluxcast-git",
-    "NumVotes": 5,
-    "PackageBase": "fluxcast-git",
-    "Popularity": 1.781038,
-    "URL": "https://github.com/IlyaP358/fluxcast",
-    "Version": "0.1.5.r0.g38fdbc2-1"
-   },
-   {
     "Description": "xdg-desktop-portal backend for your favorite terminal file chooser (hunkyburrito fork)",
     "FirstSubmitted": 1737533242,
     "LastModified": 1781568925,
@@ -2676,28 +2644,28 @@
     "Version": "r40.e3ee9a7-2"
    },
    {
-    "Description": "Path of Exile trading app for price checking",
-    "FirstSubmitted": 1629043002,
-    "LastModified": 1784925974,
-    "Maintainer": "ninni",
-    "Name": "awakened-poe-trade-git",
-    "NumVotes": 11,
-    "PackageBase": "awakened-poe-trade-git",
-    "Popularity": 1.733212,
-    "URL": "https://github.com/SnosMe/awakened-poe-trade",
-    "Version": "3.28.104.r2.gdc41a411-1"
+    "Description": "A style to bend Qt5 applications to look like they belong into GNOME Shell, git version",
+    "FirstSubmitted": 1582785195,
+    "LastModified": 1663232378,
+    "Maintainer": "redtide",
+    "Name": "adwaita-qt5-git",
+    "NumVotes": 19,
+    "PackageBase": "adwaita-qt-git",
+    "Popularity": 1.713613,
+    "URL": "https://github.com/FedoraQt/adwaita-qt",
+    "Version": "1.4.1.r17.g417df19-1"
    },
    {
-    "Description": "Port of Facebook's LLaMA model in C/C++ (with NVIDIA CUDA optimizations)",
-    "FirstSubmitted": 1767863874,
-    "LastModified": 1785118844,
-    "Maintainer": "Bink",
-    "Name": "llama.cpp-cuda-git",
-    "NumVotes": 6,
-    "PackageBase": "llama.cpp-cuda-git",
-    "Popularity": 1.720001,
-    "URL": "https://github.com/ggml-org/llama.cpp",
-    "Version": "b10142.r1.88b47a755c-1"
+    "Description": "A style to bend Qt6 applications to look like they belong into GNOME Shell, git version",
+    "FirstSubmitted": 1582785195,
+    "LastModified": 1663232378,
+    "Maintainer": "redtide",
+    "Name": "adwaita-qt6-git",
+    "NumVotes": 19,
+    "PackageBase": "adwaita-qt-git",
+    "Popularity": 1.713613,
+    "URL": "https://github.com/FedoraQt/adwaita-qt",
+    "Version": "1.4.1.r17.g417df19-1"
    },
    {
     "Description": "A fast graphical file search utility",
@@ -2808,6 +2776,18 @@
     "Version": "r376.347a579-1"
    },
    {
+    "Description": "Stream your Linux desktop to a Smart TV via Miracast/WFD, DLNA, or Cast",
+    "FirstSubmitted": 1778773155,
+    "LastModified": 1783187909,
+    "Maintainer": "alba4k",
+    "Name": "fluxcast-git",
+    "NumVotes": 5,
+    "PackageBase": "fluxcast-git",
+    "Popularity": 1.5441,
+    "URL": "https://github.com/IlyaP358/fluxcast",
+    "Version": "0.1.5.r0.g38fdbc2-1"
+   },
+   {
     "Description": "A pulseaudio and pipewire audio routing application",
     "FirstSubmitted": 1633892252,
     "LastModified": 1784431230,
@@ -2820,18 +2800,6 @@
     "Version": "1:r754.g9004ad7-1"
    },
    {
-    "Description": "AmneziaWG is a contemporary version of the popular VPN protocol, WireGuard",
-    "FirstSubmitted": 1727877860,
-    "LastModified": 1779708296,
-    "Maintainer": "h8ray",
-    "Name": "amneziawg-tools-git",
-    "NumVotes": 3,
-    "PackageBase": "amneziawg-tools-git",
-    "Popularity": 1.517548,
-    "URL": "https://github.com/amnezia-vpn/amneziawg-tools",
-    "Version": "r517.5d6179a-2"
-   },
-   {
     "Description": "Drivers for Realtek 802.11n/802.11ac wireless chips",
     "FirstSubmitted": 1594103615,
     "LastModified": 1756787921,
@@ -2842,6 +2810,30 @@
     "Popularity": 1.508073,
     "URL": "https://github.com/lwfinger/rtw88",
     "Version": "r675.52072d8-1"
+   },
+   {
+    "Description": "Path of Exile trading app for price checking",
+    "FirstSubmitted": 1629043002,
+    "LastModified": 1784925974,
+    "Maintainer": "ninni",
+    "Name": "awakened-poe-trade-git",
+    "NumVotes": 11,
+    "PackageBase": "awakened-poe-trade-git",
+    "Popularity": 1.503613,
+    "URL": "https://github.com/SnosMe/awakened-poe-trade",
+    "Version": "3.28.104.r2.gdc41a411-1"
+   },
+   {
+    "Description": "Port of Facebook's LLaMA model in C/C++ (with NVIDIA CUDA optimizations)",
+    "FirstSubmitted": 1767863874,
+    "LastModified": 1785118844,
+    "Maintainer": "Bink",
+    "Name": "llama.cpp-cuda-git",
+    "NumVotes": 6,
+    "PackageBase": "llama.cpp-cuda-git",
+    "Popularity": 1.491248,
+    "URL": "https://github.com/ggml-org/llama.cpp",
+    "Version": "b10142.r1.88b47a755c-1"
    },
    {
     "Description": "Desktop shell for wayland compositors built with Quickshell & GO",
@@ -2903,9 +2895,21 @@
     "Popularity": 1.457022,
     "URL": "https://git.outfoxxed.me/quickshell/quickshell",
     "Version": "0.2.0.r1.g783b971-1"
+   },
+   {
+    "Description": "A JPEG encoder and decoder implementation that is API and ABI compatible with libjpeg62 (git version)",
+    "FirstSubmitted": 1720998518,
+    "LastModified": 1785002687,
+    "Maintainer": "dbermond",
+    "Name": "jpegli-git",
+    "NumVotes": 2,
+    "PackageBase": "jpegli-git",
+    "Popularity": 1.456523,
+    "URL": "https://github.com/google/jpegli/",
+    "Version": "r2989.g031a007-2"
    }
   ]
  },
- "generated": "2026-08-04T06:12:37Z",
+ "generated": "2026-08-05T06:10:15Z",
  "source": "https://aur.archlinux.org/packages-meta-ext-v1.json.gz"
 }
