@@ -7,10 +7,10 @@
     "LastModified": 1785325863,
     "Maintainer": "dcelasun",
     "Name": "visual-studio-code-bin",
-    "NumVotes": 1700,
+    "NumVotes": 1701,
     "OutOfDate": 1785925415,
     "PackageBase": "visual-studio-code-bin",
-    "Popularity": 25.87506,
+    "Popularity": 26.472587,
     "URL": "https://code.visualstudio.com/",
     "Version": "1.131.0-1"
    },
@@ -20,9 +20,10 @@
     "LastModified": 1785346832,
     "Maintainer": "lsf",
     "Name": "librewolf-bin",
-    "NumVotes": 655,
+    "NumVotes": 657,
+    "OutOfDate": 1786007132,
     "PackageBase": "librewolf-bin",
-    "Popularity": 24.019932,
+    "Popularity": 25.498564,
     "URL": "https://librewolf.net/",
     "Version": "1:153.0.1_1-1"
    },
@@ -58,9 +59,10 @@
     "LastModified": 1785433028,
     "Maintainer": "Larvey",
     "Name": "zen-browser-bin",
-    "NumVotes": 327,
+    "NumVotes": 330,
+    "OutOfDate": 1786030341,
     "PackageBase": "zen-browser-bin",
-    "Popularity": 17.513522,
+    "Popularity": 19.833735,
     "URL": "https://github.com/zen-browser/desktop",
     "Version": "1.21.10b-1"
    },
@@ -138,42 +140,6 @@
     "Version": "1.1.17-1"
    },
    {
-    "Description": "Private, fast, and honest web browser based on Chromium (Latest/Stable)",
-    "FirstSubmitted": 1757851399,
-    "LastModified": 1785507145,
-    "Maintainer": "playleft",
-    "Name": "helium-browser-bin",
-    "NumVotes": 86,
-    "PackageBase": "helium-browser-bin",
-    "Popularity": 10.435021,
-    "URL": "https://github.com/imputnet/helium-linux",
-    "Version": "0.15.1.1-1"
-   },
-   {
-    "Description": "Shelly: A Modern Arch Package Manager (prebuilt binary)",
-    "FirstSubmitted": 1773023692,
-    "LastModified": 1785555770,
-    "Maintainer": "ZoeyErinBauer",
-    "Name": "shelly-bin",
-    "NumVotes": 22,
-    "PackageBase": "shelly-bin",
-    "Popularity": 9.992944,
-    "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-    "Version": "3.0.1+1-1"
-   },
-   {
-    "Description": "Optional native Flatpak backend for Shelly (prebuilt binary)",
-    "FirstSubmitted": 1773023692,
-    "LastModified": 1785555770,
-    "Maintainer": "ZoeyErinBauer",
-    "Name": "shelly-flatpak-backend-bin",
-    "NumVotes": 22,
-    "PackageBase": "shelly-bin",
-    "Popularity": 9.992944,
-    "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-    "Version": "3.0.1+1-1"
-   },
-   {
     "Description": "Yet another remote desktop software, written in Rust. Works out of the box, no configuration required.",
     "FirstSubmitted": 1624771014,
     "LastModified": 1783423199,
@@ -184,6 +150,19 @@
     "Popularity": 9.339536,
     "URL": "https://github.com/rustdesk/rustdesk",
     "Version": "1.4.9-1"
+   },
+   {
+    "Description": "Private, fast, and honest web browser based on Chromium (Latest/Stable)",
+    "FirstSubmitted": 1757851399,
+    "LastModified": 1785507145,
+    "Maintainer": "playleft",
+    "Name": "helium-browser-bin",
+    "NumVotes": 86,
+    "OutOfDate": 1786066221,
+    "PackageBase": "helium-browser-bin",
+    "Popularity": 9.048704,
+    "URL": "https://github.com/imputnet/helium-linux",
+    "Version": "0.15.1.1-1"
    },
    {
     "Description": "Send, receive & exchange cryptocurrency with ease on the world's leading Desktop, Mobile and Hardware wallets. Bitcoin wallet",
@@ -197,6 +176,30 @@
     "Popularity": 8.807224,
     "URL": "https://exodus.com",
     "Version": "26.5.7-2"
+   },
+   {
+    "Description": "Shelly: A Modern Arch Package Manager (prebuilt binary)",
+    "FirstSubmitted": 1773023692,
+    "LastModified": 1785555770,
+    "Maintainer": "ZoeyErinBauer",
+    "Name": "shelly-bin",
+    "NumVotes": 22,
+    "PackageBase": "shelly-bin",
+    "Popularity": 8.660236,
+    "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+    "Version": "3.0.1+1-1"
+   },
+   {
+    "Description": "Optional native Flatpak backend for Shelly (prebuilt binary)",
+    "FirstSubmitted": 1773023692,
+    "LastModified": 1785555770,
+    "Maintainer": "ZoeyErinBauer",
+    "Name": "shelly-flatpak-backend-bin",
+    "NumVotes": 22,
+    "PackageBase": "shelly-bin",
+    "Popularity": 8.660236,
+    "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+    "Version": "3.0.1+1-1"
    },
    {
     "Description": "An open source cross-platform alternative to AirDrop",
@@ -333,6 +336,19 @@
     "Version": "2026.3-1"
    },
    {
+    "Description": "A lightweight approach to removing Google web service dependency",
+    "FirstSubmitted": 1661606207,
+    "LastModified": 1785046425,
+    "Maintainer": "networkException",
+    "Name": "ungoogled-chromium-bin",
+    "NumVotes": 154,
+    "OutOfDate": 1785891826,
+    "PackageBase": "ungoogled-chromium-bin",
+    "Popularity": 5.652522,
+    "URL": "https://github.com/ungoogled-software/ungoogled-chromium",
+    "Version": "150.0.7871.186-1"
+   },
+   {
     "Description": "Current/modern generation of customizable privacy-conscious web browser.",
     "FirstSubmitted": 1695162781,
     "LastModified": 1784715072,
@@ -382,6 +398,18 @@
     "Version": "3.14.7-1"
    },
    {
+    "Description": "Arduino prototyping platform IDE, rewrite based on the Theia IDE framework.",
+    "FirstSubmitted": 1663177118,
+    "LastModified": 1781082060,
+    "Maintainer": "SuperNinja_4965",
+    "Name": "arduino-ide-bin",
+    "NumVotes": 65,
+    "PackageBase": "arduino-ide-bin",
+    "Popularity": 5.210204,
+    "URL": "https://github.com/arduino/arduino-ide",
+    "Version": "2.3.10-1"
+   },
+   {
     "Description": "Official binary version Calibre",
     "FirstSubmitted": 1744983070,
     "LastModified": 1783074292,
@@ -405,31 +433,6 @@
     "Popularity": 5.096719,
     "URL": "https://github.com/AyuGram/AyuGramDesktop",
     "Version": "6.7.8-8"
-   },
-   {
-    "Description": "A simple and easy to use mod manager for several games using Thunderstore.",
-    "FirstSubmitted": 1679781342,
-    "LastModified": 1782377982,
-    "Maintainer": "oynyo",
-    "Name": "r2modman-bin",
-    "NumVotes": 47,
-    "PackageBase": "r2modman-bin",
-    "Popularity": 4.993648,
-    "URL": "https://github.com/ebkr/r2modmanPlus",
-    "Version": "3.2.18-1"
-   },
-   {
-    "Description": "A lightweight approach to removing Google web service dependency",
-    "FirstSubmitted": 1661606207,
-    "LastModified": 1785046425,
-    "Maintainer": "networkException",
-    "Name": "ungoogled-chromium-bin",
-    "NumVotes": 153,
-    "OutOfDate": 1785891826,
-    "PackageBase": "ungoogled-chromium-bin",
-    "Popularity": 4.989607,
-    "URL": "https://github.com/ungoogled-software/ungoogled-chromium",
-    "Version": "150.0.7871.186-1"
    },
    {
     "Description": "Crossplatform GUI tool for lossless trimming/cutting of video/audio files",
@@ -469,6 +472,18 @@
     "Version": "0.146.0-1"
    },
    {
+    "Description": "G-code generator for 3D printers",
+    "FirstSubmitted": 1689244987,
+    "LastModified": 1783906373,
+    "Maintainer": "JoveYu",
+    "Name": "orca-slicer-bin",
+    "NumVotes": 32,
+    "PackageBase": "orca-slicer-bin",
+    "Popularity": 4.660986,
+    "URL": "https://github.com/OrcaSlicer/OrcaSlicer",
+    "Version": "2.4.2-1"
+   },
+   {
     "Description": "Official Proton Drive command-line client (precompiled binary)",
     "FirstSubmitted": 1781025661,
     "LastModified": 1785538396,
@@ -505,29 +520,16 @@
     "Version": "0.0.8-1"
    },
    {
-    "Description": "Arduino prototyping platform IDE, rewrite based on the Theia IDE framework.",
-    "FirstSubmitted": 1663177118,
-    "LastModified": 1781082060,
-    "Maintainer": "SuperNinja_4965",
-    "Name": "arduino-ide-bin",
-    "NumVotes": 64,
-    "PackageBase": "arduino-ide-bin",
-    "Popularity": 4.283272,
-    "URL": "https://github.com/arduino/arduino-ide",
-    "Version": "2.3.10-1"
-   },
-   {
-    "Description": "A browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier",
-    "FirstSubmitted": 1635475372,
-    "LastModified": 1785341787,
-    "Maintainer": "ptr1337",
-    "Name": "microsoft-edge-stable-bin",
-    "NumVotes": 152,
-    "OutOfDate": 1785702852,
-    "PackageBase": "microsoft-edge-stable-bin",
-    "Popularity": 4.28094,
-    "URL": "https://www.microsoftedgeinsider.com/en-us/download",
-    "Version": "150.0.4078.105-1"
+    "Description": "A simple and easy to use mod manager for several games using Thunderstore.",
+    "FirstSubmitted": 1679781342,
+    "LastModified": 1782377982,
+    "Maintainer": "oynyo",
+    "Name": "r2modman-bin",
+    "NumVotes": 47,
+    "PackageBase": "r2modman-bin",
+    "Popularity": 4.328787,
+    "URL": "https://github.com/ebkr/r2modmanPlus",
+    "Version": "3.2.18-1"
    },
    {
     "Description": "A simple and elegant open-source markdown editor that focused on speed and usability",
@@ -552,18 +554,6 @@
     "Popularity": 4.129234,
     "URL": "https://anydesk.com",
     "Version": "8.0.4-1"
-   },
-   {
-    "Description": "G-code generator for 3D printers",
-    "FirstSubmitted": 1689244987,
-    "LastModified": 1783906373,
-    "Maintainer": "JoveYu",
-    "Name": "orca-slicer-bin",
-    "NumVotes": 31,
-    "PackageBase": "orca-slicer-bin",
-    "Popularity": 4.087025,
-    "URL": "https://github.com/OrcaSlicer/OrcaSlicer",
-    "Version": "2.4.2-1"
    },
    {
     "Description": "Zotero Standalone. Is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.",
@@ -603,19 +593,6 @@
     "Version": "2.15.0-10"
    },
    {
-    "Description": "OpenCode desktop client",
-    "FirstSubmitted": 1766095109,
-    "LastModified": 1785427000,
-    "Maintainer": "lapsus",
-    "Name": "opencode-desktop-bin",
-    "NumVotes": 14,
-    "OutOfDate": 1785728653,
-    "PackageBase": "opencode-desktop-bin",
-    "Popularity": 3.829224,
-    "URL": "https://opencode.ai",
-    "Version": "1.18.10-1"
-   },
-   {
     "Description": "A focused launcher for your desktop — native, fast, extensible",
     "FirstSubmitted": 1755719611,
     "LastModified": 1785437370,
@@ -652,6 +629,19 @@
     "Popularity": 3.753588,
     "URL": "https://github.com/anomalyco/opencode",
     "Version": "1.18.11-1"
+   },
+   {
+    "Description": "A browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier",
+    "FirstSubmitted": 1635475372,
+    "LastModified": 1785341787,
+    "Maintainer": "ptr1337",
+    "Name": "microsoft-edge-stable-bin",
+    "NumVotes": 152,
+    "OutOfDate": 1785702852,
+    "PackageBase": "microsoft-edge-stable-bin",
+    "Popularity": 3.714418,
+    "URL": "https://www.microsoftedgeinsider.com/en-us/download",
+    "Version": "150.0.4078.105-1"
    },
    {
     "Description": "Fork of Lightly (A modern style for Qt applications)",
@@ -737,6 +727,18 @@
     "Popularity": 3.369756,
     "URL": "https://github.com/pear-devs/pear-desktop",
     "Version": "3.12.0-1"
+   },
+   {
+    "Description": "A desktop client for Jellyfin",
+    "FirstSubmitted": 1784468927,
+    "LastModified": 1784815261,
+    "Maintainer": "siiire",
+    "Name": "jellium-desktop-bin",
+    "NumVotes": 4,
+    "PackageBase": "jellium-desktop-bin",
+    "Popularity": 3.351065,
+    "URL": "https://github.com/andrewrabert/jellium-desktop",
+    "Version": "1:0.r1093.f3ba9cd-1"
    }
   ],
   "popular": [
@@ -746,9 +748,9 @@
     "LastModified": 1784958583,
     "Maintainer": "acaibowlz",
     "Name": "aur-sync-vote",
-    "NumVotes": 224,
+    "NumVotes": 225,
     "PackageBase": "aur-sync-vote",
-    "Popularity": 65.23112,
+    "Popularity": 61.891515,
     "URL": "https://github.com/acaibowlz/aur-sync-vote",
     "Version": "0.3.0-1"
    },
@@ -770,9 +772,9 @@
     "LastModified": 1785548585,
     "Maintainer": "flxrbr",
     "Name": "faugus-launcher",
-    "NumVotes": 83,
+    "NumVotes": 84,
     "PackageBase": "faugus-launcher",
-    "Popularity": 34.330877,
+    "Popularity": 34.130204,
     "URL": "https://github.com/Faugus/faugus-launcher",
     "Version": "2.0.5-1"
    },
@@ -794,10 +796,10 @@
     "LastModified": 1785325863,
     "Maintainer": "dcelasun",
     "Name": "visual-studio-code-bin",
-    "NumVotes": 1700,
+    "NumVotes": 1701,
     "OutOfDate": 1785925415,
     "PackageBase": "visual-studio-code-bin",
-    "Popularity": 25.87506,
+    "Popularity": 26.472587,
     "URL": "https://code.visualstudio.com/",
     "Version": "1.131.0-1"
    },
@@ -807,9 +809,10 @@
     "LastModified": 1785346832,
     "Maintainer": "lsf",
     "Name": "librewolf-bin",
-    "NumVotes": 655,
+    "NumVotes": 657,
+    "OutOfDate": 1786007132,
     "PackageBase": "librewolf-bin",
-    "Popularity": 24.019932,
+    "Popularity": 25.498564,
     "URL": "https://librewolf.net/",
     "Version": "1:153.0.1_1-1"
    },
@@ -845,9 +848,10 @@
     "LastModified": 1785433028,
     "Maintainer": "Larvey",
     "Name": "zen-browser-bin",
-    "NumVotes": 327,
+    "NumVotes": 330,
+    "OutOfDate": 1786030341,
     "PackageBase": "zen-browser-bin",
-    "Popularity": 17.513522,
+    "Popularity": 19.833735,
     "URL": "https://github.com/zen-browser/desktop",
     "Version": "1.21.10b-1"
    },
@@ -918,10 +922,10 @@
     "LastModified": 1785427321,
     "Maintainer": "gromit",
     "Name": "google-chrome",
-    "NumVotes": 2365,
+    "NumVotes": 2366,
     "OutOfDate": 1785913147,
     "PackageBase": "google-chrome",
-    "Popularity": 14.063816,
+    "Popularity": 14.742986,
     "URL": "https://www.google.com/chrome",
     "Version": "151.0.7922.71-1"
    },
@@ -1023,6 +1027,18 @@
     "Version": "1.126.04524-1"
    },
    {
+    "Description": "An interactive update notifier & applier that assists you with important pre / post update tasks",
+    "FirstSubmitted": 1648670018,
+    "LastModified": 1785822738,
+    "Maintainer": "Antiz",
+    "Name": "arch-update",
+    "NumVotes": 64,
+    "PackageBase": "arch-update",
+    "Popularity": 12.639509,
+    "URL": "https://github.com/Antiz96/arch-update",
+    "Version": "4.1.3-1"
+   },
+   {
     "Description": "A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed.(Prebuilt version.Use system-wide electron)",
     "FirstSubmitted": 1705309962,
     "LastModified": 1770880306,
@@ -1033,18 +1049,6 @@
     "Popularity": 12.265477,
     "URL": "https://github.com/Vencord/Vesktop",
     "Version": "1.6.5-1"
-   },
-   {
-    "Description": "An interactive update notifier & applier that assists you with important pre / post update tasks",
-    "FirstSubmitted": 1648670018,
-    "LastModified": 1785822738,
-    "Maintainer": "Antiz",
-    "Name": "arch-update",
-    "NumVotes": 63,
-    "PackageBase": "arch-update",
-    "Popularity": 11.7454,
-    "URL": "https://github.com/Antiz96/arch-update",
-    "Version": "4.1.3-1"
    },
    {
     "Description": "EN-US // Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
@@ -1081,42 +1085,6 @@
     "Popularity": 10.524373,
     "URL": "https://gitlab.com/accounts-sso/accounts-qml-module",
     "Version": "0.7-8"
-   },
-   {
-    "Description": "Private, fast, and honest web browser based on Chromium (Latest/Stable)",
-    "FirstSubmitted": 1757851399,
-    "LastModified": 1785507145,
-    "Maintainer": "playleft",
-    "Name": "helium-browser-bin",
-    "NumVotes": 86,
-    "PackageBase": "helium-browser-bin",
-    "Popularity": 10.435021,
-    "URL": "https://github.com/imputnet/helium-linux",
-    "Version": "0.15.1.1-1"
-   },
-   {
-    "Description": "Shelly: A Modern Arch Package Manager (prebuilt binary)",
-    "FirstSubmitted": 1773023692,
-    "LastModified": 1785555770,
-    "Maintainer": "ZoeyErinBauer",
-    "Name": "shelly-bin",
-    "NumVotes": 22,
-    "PackageBase": "shelly-bin",
-    "Popularity": 9.992944,
-    "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-    "Version": "3.0.1+1-1"
-   },
-   {
-    "Description": "Optional native Flatpak backend for Shelly (prebuilt binary)",
-    "FirstSubmitted": 1773023692,
-    "LastModified": 1785555770,
-    "Maintainer": "ZoeyErinBauer",
-    "Name": "shelly-flatpak-backend-bin",
-    "NumVotes": 22,
-    "PackageBase": "shelly-bin",
-    "Popularity": 9.992944,
-    "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-    "Version": "3.0.1+1-1"
    },
    {
     "Description": "Video Conferencing and Web Conferencing Service",
@@ -1218,6 +1186,19 @@
     "Version": "580.173.02-1"
    },
    {
+    "Description": "Private, fast, and honest web browser based on Chromium (Latest/Stable)",
+    "FirstSubmitted": 1757851399,
+    "LastModified": 1785507145,
+    "Maintainer": "playleft",
+    "Name": "helium-browser-bin",
+    "NumVotes": 86,
+    "OutOfDate": 1786066221,
+    "PackageBase": "helium-browser-bin",
+    "Popularity": 9.048704,
+    "URL": "https://github.com/imputnet/helium-linux",
+    "Version": "0.15.1.1-1"
+   },
+   {
     "Description": "Official Claude AI desktop app from Anthropic — Chat, Cowork, and Claude Code",
     "FirstSubmitted": 1783216682,
     "LastModified": 1784951238,
@@ -1255,6 +1236,42 @@
     "Version": "26.5.7-2"
    },
    {
+    "Description": "A proprietary music streaming service",
+    "FirstSubmitted": 1675983116,
+    "LastModified": 1781263907,
+    "Maintainer": "gromit",
+    "Name": "spotify",
+    "NumVotes": 273,
+    "PackageBase": "spotify",
+    "Popularity": 8.74857,
+    "URL": "https://www.spotify.com",
+    "Version": "1:1.2.92.147-1"
+   },
+   {
+    "Description": "Shelly: A Modern Arch Package Manager (prebuilt binary)",
+    "FirstSubmitted": 1773023692,
+    "LastModified": 1785555770,
+    "Maintainer": "ZoeyErinBauer",
+    "Name": "shelly-bin",
+    "NumVotes": 22,
+    "PackageBase": "shelly-bin",
+    "Popularity": 8.660236,
+    "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+    "Version": "3.0.1+1-1"
+   },
+   {
+    "Description": "Optional native Flatpak backend for Shelly (prebuilt binary)",
+    "FirstSubmitted": 1773023692,
+    "LastModified": 1785555770,
+    "Maintainer": "ZoeyErinBauer",
+    "Name": "shelly-flatpak-backend-bin",
+    "NumVotes": 22,
+    "PackageBase": "shelly-bin",
+    "Popularity": 8.660236,
+    "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+    "Version": "3.0.1+1-1"
+   },
+   {
     "Description": "An open source cross-platform alternative to AirDrop",
     "FirstSubmitted": 1675022925,
     "LastModified": 1776642696,
@@ -1265,6 +1282,18 @@
     "Popularity": 8.422905,
     "URL": "https://github.com/localsend/localsend",
     "Version": "1.17.0-1"
+   },
+   {
+    "Description": "A Jellyfin Desktop Client",
+    "FirstSubmitted": 1784328580,
+    "LastModified": 1784328580,
+    "Maintainer": "nvllsvm",
+    "Name": "jellium-desktop-git",
+    "NumVotes": 24,
+    "PackageBase": "jellium-desktop-git",
+    "Popularity": 8.389381,
+    "URL": "https://github.com/andrewrabert/jellium-desktop",
+    "Version": "0.r1025.f224a4b-1"
    },
    {
     "Description": "The Open Source toolkit for Secure Sockets Layer and Transport Layer Security",
@@ -1279,18 +1308,6 @@
     "Version": "1.1.1.w-11"
    },
    {
-    "Description": "A proprietary music streaming service",
-    "FirstSubmitted": 1675983116,
-    "LastModified": 1781263907,
-    "Maintainer": "gromit",
-    "Name": "spotify",
-    "NumVotes": 272,
-    "PackageBase": "spotify",
-    "Popularity": 8.130138,
-    "URL": "https://www.spotify.com",
-    "Version": "1:1.2.92.147-1"
-   },
-   {
     "Description": "Yet another yogurt. Pacman wrapper and AUR helper written in go. Pre-compiled.",
     "FirstSubmitted": 1480777574,
     "LastModified": 1781904582,
@@ -1301,18 +1318,6 @@
     "Popularity": 8.065267,
     "URL": "https://github.com/Jguer/yay",
     "Version": "13.0.1-1"
-   },
-   {
-    "Description": "A Jellyfin Desktop Client",
-    "FirstSubmitted": 1784328580,
-    "LastModified": 1784328580,
-    "Maintainer": "nvllsvm",
-    "Name": "jellium-desktop-git",
-    "NumVotes": 23,
-    "PackageBase": "jellium-desktop-git",
-    "Popularity": 7.823312,
-    "URL": "https://github.com/andrewrabert/jellium-desktop",
-    "Version": "0.r1025.f224a4b-1"
    },
    {
     "Description": "Trust scoring for AUR packages",
@@ -1495,9 +1500,9 @@
     "LastModified": 1785822738,
     "Maintainer": "Antiz",
     "Name": "arch-update",
-    "NumVotes": 63,
+    "NumVotes": 64,
     "PackageBase": "arch-update",
-    "Popularity": 11.7454,
+    "Popularity": 12.639509,
     "URL": "https://github.com/Antiz96/arch-update",
     "Version": "4.1.3-1"
    },
@@ -1714,7 +1719,7 @@
     "Name": "gallery-dl",
     "NumVotes": 109,
     "PackageBase": "gallery-dl",
-    "Popularity": 5.505064,
+    "Popularity": 4.769455,
     "URL": "https://codeberg.org/mikf/gallery-dl",
     "Version": "1.32.9-1"
    },
@@ -1726,7 +1731,7 @@
     "Name": "chatterino2-bin",
     "NumVotes": 11,
     "PackageBase": "chatterino2-bin",
-    "Popularity": 1.700647,
+    "Popularity": 1.474645,
     "URL": "https://github.com/chatterino/chatterino2",
     "Version": "2.5.5-9"
    },
@@ -1835,6 +1840,7 @@
     "Maintainer": "Rhinoceros",
     "Name": "emote",
     "NumVotes": 34,
+    "OutOfDate": 1786008294,
     "PackageBase": "emote",
     "Popularity": 0.001931,
     "URL": "https://github.com/tom-james-watson/Emote",
@@ -1919,6 +1925,7 @@
     "Maintainer": "the-k",
     "Name": "docker-rootless-extras",
     "NumVotes": 43,
+    "OutOfDate": 1786013393,
     "PackageBase": "docker-rootless-extras",
     "Popularity": 1.038875,
     "URL": "https://docs.docker.com/engine/security/rootless/",
@@ -1980,7 +1987,7 @@
     "Name": "libelectron",
     "NumVotes": 15,
     "PackageBase": "libelectron",
-    "Popularity": 2.064486,
+    "Popularity": 1.79127,
     "URL": "https://gitlab.com/linuxbombay/libelectron",
     "Version": "2026.4-6"
    },
@@ -2028,7 +2035,7 @@
     "Name": "shelly-bin",
     "NumVotes": 22,
     "PackageBase": "shelly-bin",
-    "Popularity": 9.992944,
+    "Popularity": 8.660236,
     "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
     "Version": "3.0.1+1-1"
    },
@@ -2040,7 +2047,7 @@
     "Name": "shelly-flatpak-backend-bin",
     "NumVotes": 22,
     "PackageBase": "shelly-bin",
-    "Popularity": 9.992944,
+    "Popularity": 8.660236,
     "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
     "Version": "3.0.1+1-1"
    },
@@ -2146,9 +2153,9 @@
     "LastModified": 1785548585,
     "Maintainer": "flxrbr",
     "Name": "faugus-launcher",
-    "NumVotes": 83,
+    "NumVotes": 84,
     "PackageBase": "faugus-launcher",
-    "Popularity": 34.330877,
+    "Popularity": 34.130204,
     "URL": "https://github.com/Faugus/faugus-launcher",
     "Version": "2.0.5-1"
    },
@@ -2208,9 +2215,9 @@
     "LastModified": 1784328580,
     "Maintainer": "nvllsvm",
     "Name": "jellium-desktop-git",
-    "NumVotes": 23,
+    "NumVotes": 24,
     "PackageBase": "jellium-desktop-git",
-    "Popularity": 7.823312,
+    "Popularity": 8.389381,
     "URL": "https://github.com/andrewrabert/jellium-desktop",
     "Version": "0.r1025.f224a4b-1"
    },
@@ -2225,78 +2232,6 @@
     "Popularity": 5.004665,
     "URL": "https://github.com/cryzed/bin",
     "Version": "r150.3a626c5-1"
-   },
-   {
-    "Description": "Feature packed AUR helper",
-    "FirstSubmitted": 1603068527,
-    "LastModified": 1765515769,
-    "Maintainer": "Morganamilo",
-    "Name": "paru-git",
-    "NumVotes": 69,
-    "PackageBase": "paru-git",
-    "Popularity": 3.558279,
-    "URL": "https://github.com/morganamilo/paru",
-    "Version": "2.1.0.r41.g789bead-1"
-   },
-   {
-    "Description": "GTK explorer and editor for Hyprland keyboard shortcuts",
-    "FirstSubmitted": 1784748822,
-    "LastModified": 1784748822,
-    "Maintainer": "olalbns",
-    "Name": "hyprkeys-git",
-    "NumVotes": 4,
-    "PackageBase": "hyprkeys-git",
-    "Popularity": 3.439615,
-    "URL": "https://github.com/olalbns/HyprKeys",
-    "Version": "r5.gd632813-1"
-   },
-   {
-    "Description": "Quick GTK display mode switcher for Hyprland and X11",
-    "FirstSubmitted": 1784732620,
-    "LastModified": 1784734433,
-    "Maintainer": "olalbns",
-    "Name": "display-modes-git",
-    "NumVotes": 4,
-    "PackageBase": "display-modes-git",
-    "Popularity": 3.439085,
-    "URL": "https://github.com/olalbns/display-modes",
-    "Version": "r8.g5f149b5-1"
-   },
-   {
-    "Description": "Compact GTK quick control center for Linux desktops",
-    "FirstSubmitted": 1784741964,
-    "LastModified": 1784741964,
-    "Maintainer": "olalbns",
-    "Name": "quick-control-git",
-    "NumVotes": 4,
-    "PackageBase": "quick-control-git",
-    "Popularity": 3.438984,
-    "URL": "https://github.com/olalbns/Quick-Control",
-    "Version": "r5.g3e9932d-1"
-   },
-   {
-    "Description": "GTK4 wallpaper manager with rotation and palette exports for Hyprland",
-    "FirstSubmitted": 1784744358,
-    "LastModified": 1784744358,
-    "Maintainer": "olalbns",
-    "Name": "wallshift-git",
-    "NumVotes": 4,
-    "PackageBase": "wallshift-git",
-    "Popularity": 3.438961,
-    "URL": "https://github.com/olalbns/WallShift",
-    "Version": "r6.gff423e3-1"
-   },
-   {
-    "Description": "GTK clipboard history manager for Hyprland and Wayland",
-    "FirstSubmitted": 1784745766,
-    "LastModified": 1784745766,
-    "Maintainer": "olalbns",
-    "Name": "hyprclip-git",
-    "NumVotes": 4,
-    "PackageBase": "hyprclip-git",
-    "Popularity": 3.438952,
-    "URL": "https://github.com/olalbns/HyprClip",
-    "Version": "r3.g44c3016-1"
    },
    {
     "Description": "Nuvoton module for NCT6687-R synced with latest upstream kernel.",
@@ -2346,6 +2281,78 @@
     "Popularity": 3.249329,
     "URL": "https://github.com/amkillam/ryzen_smu",
     "Version": "181.9f9569f-1"
+   },
+   {
+    "Description": "Feature packed AUR helper",
+    "FirstSubmitted": 1603068527,
+    "LastModified": 1765515769,
+    "Maintainer": "Morganamilo",
+    "Name": "paru-git",
+    "NumVotes": 69,
+    "PackageBase": "paru-git",
+    "Popularity": 3.085676,
+    "URL": "https://github.com/morganamilo/paru",
+    "Version": "2.1.0.r41.g789bead-1"
+   },
+   {
+    "Description": "GTK explorer and editor for Hyprland keyboard shortcuts",
+    "FirstSubmitted": 1784748822,
+    "LastModified": 1784748822,
+    "Maintainer": "olalbns",
+    "Name": "hyprkeys-git",
+    "NumVotes": 4,
+    "PackageBase": "hyprkeys-git",
+    "Popularity": 2.98251,
+    "URL": "https://github.com/olalbns/HyprKeys",
+    "Version": "r5.gd632813-1"
+   },
+   {
+    "Description": "Quick GTK display mode switcher for Hyprland and X11",
+    "FirstSubmitted": 1784732620,
+    "LastModified": 1784734433,
+    "Maintainer": "olalbns",
+    "Name": "display-modes-git",
+    "NumVotes": 4,
+    "PackageBase": "display-modes-git",
+    "Popularity": 2.98205,
+    "URL": "https://github.com/olalbns/display-modes",
+    "Version": "r8.g5f149b5-1"
+   },
+   {
+    "Description": "Compact GTK quick control center for Linux desktops",
+    "FirstSubmitted": 1784741964,
+    "LastModified": 1784741964,
+    "Maintainer": "olalbns",
+    "Name": "quick-control-git",
+    "NumVotes": 4,
+    "PackageBase": "quick-control-git",
+    "Popularity": 2.981963,
+    "URL": "https://github.com/olalbns/Quick-Control",
+    "Version": "r5.g3e9932d-1"
+   },
+   {
+    "Description": "GTK4 wallpaper manager with rotation and palette exports for Hyprland",
+    "FirstSubmitted": 1784744358,
+    "LastModified": 1784744358,
+    "Maintainer": "olalbns",
+    "Name": "wallshift-git",
+    "NumVotes": 4,
+    "PackageBase": "wallshift-git",
+    "Popularity": 2.981943,
+    "URL": "https://github.com/olalbns/WallShift",
+    "Version": "r6.gff423e3-1"
+   },
+   {
+    "Description": "GTK clipboard history manager for Hyprland and Wayland",
+    "FirstSubmitted": 1784745766,
+    "LastModified": 1784745766,
+    "Maintainer": "olalbns",
+    "Name": "hyprclip-git",
+    "NumVotes": 4,
+    "PackageBase": "hyprclip-git",
+    "Popularity": 2.981935,
+    "URL": "https://github.com/olalbns/HyprClip",
+    "Version": "r3.g44c3016-1"
    },
    {
     "Description": "A sleek, customizable desktop shell crafted for Wayland",
@@ -2406,18 +2413,6 @@
     "Popularity": 2.300425,
     "URL": "https://gitlab.com/znixian/OpenOVR",
     "Version": "r1232.cff07db-1"
-   },
-   {
-    "Description": "A community-driven framework for managing your zsh configuration. Includes 180+ optional plugins and over 120 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community",
-    "FirstSubmitted": 1351080279,
-    "LastModified": 1730633350,
-    "Maintainer": "MarcinWieczorek",
-    "Name": "oh-my-zsh-git",
-    "NumVotes": 491,
-    "PackageBase": "oh-my-zsh-git",
-    "Popularity": 2.201104,
-    "URL": "https://github.com/ohmyzsh/ohmyzsh",
-    "Version": "r7424.c690f7316-1"
    },
    {
     "Description": "Rounds the corners of your windows (wayland)",
@@ -2490,18 +2485,6 @@
     "Popularity": 2.094838,
     "URL": "https://github.com/easymodo/qimgv",
     "Version": "1.0.2.r175.gdfa2c87-1"
-   },
-   {
-    "Description": "OBS Studio plugin that implements the global shortcuts portal",
-    "FirstSubmitted": 1757709635,
-    "LastModified": 1757709635,
-    "Maintainer": "MonterraByte",
-    "Name": "obs-wayland-hotkeys-git",
-    "NumVotes": 7,
-    "PackageBase": "obs-wayland-hotkeys-git",
-    "Popularity": 2.091169,
-    "URL": "https://github.com/leia-uwu/obs-wayland-hotkeys",
-    "Version": "r9.e77f8b6-1"
    },
    {
     "Description": "The theme from libadwaita ported to GTK-3",
@@ -2600,6 +2583,18 @@
     "Version": "0.5.r13.g0910a37-1"
    },
    {
+    "Description": "A community-driven framework for managing your zsh configuration. Includes 180+ optional plugins and over 120 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community",
+    "FirstSubmitted": 1351080279,
+    "LastModified": 1730633350,
+    "Maintainer": "MarcinWieczorek",
+    "Name": "oh-my-zsh-git",
+    "NumVotes": 491,
+    "PackageBase": "oh-my-zsh-git",
+    "Popularity": 1.908022,
+    "URL": "https://github.com/ohmyzsh/ohmyzsh",
+    "Version": "r7424.c690f7316-1"
+   },
+   {
     "Description": "Greetd greeter for Noctalia",
     "FirstSubmitted": 1780917885,
     "LastModified": 1784723965,
@@ -2622,6 +2617,18 @@
     "Popularity": 1.832757,
     "URL": "https://github.com/firelzrd/preload-ng",
     "Version": "r249.b43c779-1"
+   },
+   {
+    "Description": "OBS Studio plugin that implements the global shortcuts portal",
+    "FirstSubmitted": 1757709635,
+    "LastModified": 1757709635,
+    "Maintainer": "MonterraByte",
+    "Name": "obs-wayland-hotkeys-git",
+    "NumVotes": 7,
+    "PackageBase": "obs-wayland-hotkeys-git",
+    "Popularity": 1.81444,
+    "URL": "https://github.com/leia-uwu/obs-wayland-hotkeys",
+    "Version": "r9.e77f8b6-1"
    },
    {
     "Description": "xdg-desktop-portal backend for your favorite terminal file chooser (hunkyburrito fork)",
@@ -2744,18 +2751,6 @@
     "Version": "r128.03e93fe-1"
    },
    {
-    "Description": "Gruvbox theme for Kvantum",
-    "FirstSubmitted": 1744858347,
-    "LastModified": 1744859584,
-    "Maintainer": "FlowEye",
-    "Name": "kvantum-theme-gruvbox-git",
-    "NumVotes": 6,
-    "PackageBase": "kvantum-theme-gruvbox-git",
-    "Popularity": 1.583308,
-    "URL": "https://github.com/TheGlitchh/Gruvbox-Kvantum",
-    "Version": "r11.29ba1f0-2"
-   },
-   {
     "Description": "Your way to enjoy VR on Linux! Access your Wayland/X11 desktop from SteamVR/Monado (OpenVR+OpenXR support)",
     "FirstSubmitted": 1768044330,
     "LastModified": 1785385320,
@@ -2852,30 +2847,6 @@
     "Version": "1.5.0.r128.g8fc38de-1"
    },
    {
-    "Description": "Waveform Seekbar plugin for DeaDBeeF audio player GTK2",
-    "FirstSubmitted": 1446990013,
-    "LastModified": 1730761829,
-    "Maintainer": "FabioLolix",
-    "Name": "deadbeef-plugin-waveform-gtk2-git",
-    "NumVotes": 20,
-    "PackageBase": "deadbeef-plugin-waveform-git",
-    "Popularity": 1.475143,
-    "URL": "https://github.com/cboxdoerfer/ddb_waveform_seekbar",
-    "Version": "0.5.r91.g4afd845-2"
-   },
-   {
-    "Description": "Waveform Seekbar plugin for DeaDBeeF audio player GTK3",
-    "FirstSubmitted": 1446990013,
-    "LastModified": 1730761829,
-    "Maintainer": "FabioLolix",
-    "Name": "deadbeef-plugin-waveform-gtk3-git",
-    "NumVotes": 20,
-    "PackageBase": "deadbeef-plugin-waveform-git",
-    "Popularity": 1.475143,
-    "URL": "https://github.com/cboxdoerfer/ddb_waveform_seekbar",
-    "Version": "0.5.r91.g4afd845-2"
-   },
-   {
     "Description": "Flexible toolkit for making desktop shells with QtQuick",
     "FirstSubmitted": 1749624494,
     "LastModified": 1774469795,
@@ -2923,9 +2894,45 @@
     "Popularity": 1.442739,
     "URL": "https://github.com/Jeffrey-Sardina/systemd",
     "Version": "262.r90699-1"
+   },
+   {
+    "Description": "systemd resolvconf replacement — liberated fork (git version)",
+    "FirstSubmitted": 1774136325,
+    "LastModified": 1784613170,
+    "Maintainer": "zeakz",
+    "Name": "systemd-liberated-resolvconf-git",
+    "NumVotes": 16,
+    "PackageBase": "systemd-liberated-git",
+    "Popularity": 1.442739,
+    "URL": "https://github.com/Jeffrey-Sardina/systemd",
+    "Version": "262.r90699-1"
+   },
+   {
+    "Description": "sysvinit compat for systemd — liberated fork (git version)",
+    "FirstSubmitted": 1774136325,
+    "LastModified": 1784613170,
+    "Maintainer": "zeakz",
+    "Name": "systemd-liberated-sysvcompat-git",
+    "NumVotes": 16,
+    "PackageBase": "systemd-liberated-git",
+    "Popularity": 1.442739,
+    "URL": "https://github.com/Jeffrey-Sardina/systemd",
+    "Version": "262.r90699-1"
+   },
+   {
+    "Description": "systemd tests — liberated fork (git version)",
+    "FirstSubmitted": 1774136325,
+    "LastModified": 1784613170,
+    "Maintainer": "zeakz",
+    "Name": "systemd-liberated-tests-git",
+    "NumVotes": 16,
+    "PackageBase": "systemd-liberated-git",
+    "Popularity": 1.442739,
+    "URL": "https://github.com/Jeffrey-Sardina/systemd",
+    "Version": "262.r90699-1"
    }
   ]
  },
- "generated": "2026-08-06T07:56:45Z",
+ "generated": "2026-08-07T06:35:00Z",
  "source": "https://aur.archlinux.org/packages-meta-ext-v1.json.gz"
 }
