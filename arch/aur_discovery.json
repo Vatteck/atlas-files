@@ -72,24 +72,12 @@
     "LastModified": 1778891554,
     "Maintainer": "flaviofearn",
     "Name": "heroic-games-launcher-bin",
-    "NumVotes": 289,
+    "NumVotes": 290,
     "OutOfDate": 1786278037,
     "PackageBase": "heroic-games-launcher-bin",
-    "Popularity": 11.551352,
+    "Popularity": 12.138001,
     "URL": "https://heroicgameslauncher.com/",
     "Version": "2.22.0-1"
-   },
-   {
-    "Description": "EN-US // Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
-    "FirstSubmitted": 1635144512,
-    "LastModified": 1784830601,
-    "Maintainer": "Posi",
-    "Name": "betterbird-bin",
-    "NumVotes": 303,
-    "PackageBase": "betterbird-bin",
-    "Popularity": 11.416996,
-    "URL": "https://www.betterbird.eu/index.html",
-    "Version": "140.13.0esr-1"
    },
    {
     "Description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
@@ -141,6 +129,18 @@
     "Version": "1.6.5-1"
    },
    {
+    "Description": "EN-US // Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
+    "FirstSubmitted": 1635144512,
+    "LastModified": 1784830601,
+    "Maintainer": "Posi",
+    "Name": "betterbird-bin",
+    "NumVotes": 303,
+    "PackageBase": "betterbird-bin",
+    "Popularity": 9.896409,
+    "URL": "https://www.betterbird.eu/index.html",
+    "Version": "140.13.0esr-1"
+   },
+   {
     "Description": "Shelly: A Modern Arch Package Manager (prebuilt binary)",
     "FirstSubmitted": 1773023692,
     "LastModified": 1785555770,
@@ -183,6 +183,7 @@
     "Maintainer": "noureddinex",
     "Name": "localsend-bin",
     "NumVotes": 142,
+    "OutOfDate": 1786400609,
     "PackageBase": "localsend-bin",
     "Popularity": 9.179949,
     "URL": "https://github.com/localsend/localsend",
@@ -288,6 +289,18 @@
     "Version": "2026.3-1"
    },
    {
+    "Description": "Trust scoring for AUR packages (prebuilt)",
+    "FirstSubmitted": 1770493656,
+    "LastModified": 1772012995,
+    "Maintainer": "sohimaster",
+    "Name": "traur-bin",
+    "NumVotes": 24,
+    "PackageBase": "traur-bin",
+    "Popularity": 6.017126,
+    "URL": "https://github.com/Sohimaster/traur",
+    "Version": "0.4.1-1"
+   },
+   {
     "Description": "Arduino prototyping platform IDE, rewrite based on the Theia IDE framework.",
     "FirstSubmitted": 1663177118,
     "LastModified": 1781082060,
@@ -325,16 +338,16 @@
     "Version": "9.4.0-1"
    },
    {
-    "Description": "Current/modern generation of customizable privacy-conscious web browser.",
-    "FirstSubmitted": 1695162781,
-    "LastModified": 1784715072,
-    "Maintainer": "Exorcism",
-    "Name": "waterfox-bin",
-    "NumVotes": 61,
-    "PackageBase": "waterfox-bin",
-    "Popularity": 5.577717,
-    "URL": "https://www.waterfox.net",
-    "Version": "1:6.6.17-1"
+    "Description": "Crossplatform GUI tool for lossless trimming/cutting of video/audio files",
+    "FirstSubmitted": 1605013838,
+    "LastModified": 1780840425,
+    "Maintainer": "dmp1ce",
+    "Name": "losslesscut-bin",
+    "NumVotes": 87,
+    "PackageBase": "losslesscut-bin",
+    "Popularity": 5.390026,
+    "URL": "https://github.com/mifi/lossless-cut",
+    "Version": "3.69.0-1"
    },
    {
     "Description": "Tor Browser Bundle: anonymous browsing using Firefox and Tor",
@@ -347,18 +360,6 @@
     "Popularity": 5.328255,
     "URL": "https://www.torproject.org/projects/torbrowser.html",
     "Version": "15.0.17-1"
-   },
-   {
-    "Description": "Conversion between documentation formats",
-    "FirstSubmitted": 1507020337,
-    "LastModified": 1784783268,
-    "Maintainer": "a821",
-    "Name": "pandoc-bin",
-    "NumVotes": 341,
-    "PackageBase": "pandoc-bin",
-    "Popularity": 5.321761,
-    "URL": "https://pandoc.org",
-    "Version": "3.10.1-1"
    },
    {
     "Description": "Desktop Telegram client with good customization and Ghost mode",
@@ -384,18 +385,6 @@
     "Popularity": 5.312809,
     "URL": "https://brave.com/origin/download-nightly",
     "Version": "1.95.27-1"
-   },
-   {
-    "Description": "Trust scoring for AUR packages (prebuilt)",
-    "FirstSubmitted": 1770493656,
-    "LastModified": 1772012995,
-    "Maintainer": "sohimaster",
-    "Name": "traur-bin",
-    "NumVotes": 23,
-    "PackageBase": "traur-bin",
-    "Popularity": 5.305095,
-    "URL": "https://github.com/Sohimaster/traur",
-    "Version": "0.4.1-1"
    },
    {
     "Description": "AI-first coding environment",
@@ -435,29 +424,28 @@
     "Version": "0.25.1-1"
    },
    {
-    "Description": "Crossplatform GUI tool for lossless trimming/cutting of video/audio files",
-    "FirstSubmitted": 1605013838,
-    "LastModified": 1780840425,
-    "Maintainer": "dmp1ce",
-    "Name": "losslesscut-bin",
-    "NumVotes": 86,
-    "PackageBase": "losslesscut-bin",
-    "Popularity": 4.884019,
-    "URL": "https://github.com/mifi/lossless-cut",
-    "Version": "3.69.0-1"
+    "Description": "Current/modern generation of customizable privacy-conscious web browser.",
+    "FirstSubmitted": 1695162781,
+    "LastModified": 1784715072,
+    "Maintainer": "Exorcism",
+    "Name": "waterfox-bin",
+    "NumVotes": 61,
+    "PackageBase": "waterfox-bin",
+    "Popularity": 4.836361,
+    "URL": "https://www.waterfox.net",
+    "Version": "1:6.6.17-1"
    },
    {
-    "Description": "Arch Linux package for OpenAI's Codex CLI - Auto Updated",
-    "FirstSubmitted": 1753130914,
-    "LastModified": 1785315691,
-    "Maintainer": "chmouel",
-    "Name": "openai-codex-bin",
-    "NumVotes": 24,
-    "OutOfDate": 1785968648,
-    "PackageBase": "openai-codex-bin",
-    "Popularity": 4.771265,
-    "URL": "https://github.com/openai/codex",
-    "Version": "0.146.0-1"
+    "Description": "Official Proton Drive command-line client (precompiled binary)",
+    "FirstSubmitted": 1781025661,
+    "LastModified": 1785538396,
+    "Maintainer": "imnaK",
+    "Name": "proton-drive-cli-bin",
+    "NumVotes": 10,
+    "PackageBase": "proton-drive-cli-bin",
+    "Popularity": 4.774859,
+    "URL": "https://proton.me/download/drive/cli/index.html",
+    "Version": "0.7.0-1"
    },
    {
     "Description": "G-code generator for 3D printers",
@@ -470,6 +458,18 @@
     "Popularity": 4.660986,
     "URL": "https://github.com/OrcaSlicer/OrcaSlicer",
     "Version": "2.4.2-1"
+   },
+   {
+    "Description": "Conversion between documentation formats",
+    "FirstSubmitted": 1507020337,
+    "LastModified": 1784783268,
+    "Maintainer": "a821",
+    "Name": "pandoc-bin",
+    "NumVotes": 341,
+    "PackageBase": "pandoc-bin",
+    "Popularity": 4.614425,
+    "URL": "https://pandoc.org",
+    "Version": "3.10.1-1"
    },
    {
     "Description": "A browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier",
@@ -536,18 +536,6 @@
     "Version": "9.11.0-1"
    },
    {
-    "Description": "Shell script analysis tool (binary release, static)",
-    "FirstSubmitted": 1644997901,
-    "LastModified": 1754320333,
-    "Maintainer": "silvio",
-    "Name": "shellcheck-bin",
-    "NumVotes": 79,
-    "PackageBase": "shellcheck-bin",
-    "Popularity": 4.38213,
-    "URL": "https://shellcheck.net",
-    "Version": "0.11.0-1"
-   },
-   {
     "Description": "Fluxer Desktop Application",
     "FirstSubmitted": 1770853792,
     "LastModified": 1784285733,
@@ -558,6 +546,19 @@
     "Popularity": 4.365906,
     "URL": "https://fluxer.app",
     "Version": "0.0.8-1"
+   },
+   {
+    "Description": "Arch Linux package for OpenAI's Codex CLI - Auto Updated",
+    "FirstSubmitted": 1753130914,
+    "LastModified": 1785315691,
+    "Maintainer": "chmouel",
+    "Name": "openai-codex-bin",
+    "NumVotes": 23,
+    "OutOfDate": 1785968648,
+    "PackageBase": "openai-codex-bin",
+    "Popularity": 4.334172,
+    "URL": "https://github.com/openai/codex",
+    "Version": "0.146.0-1"
    },
    {
     "Description": "A simple and easy to use mod manager for several games using Thunderstore.",
@@ -597,16 +598,16 @@
     "Version": "2.0.7-1"
    },
    {
-    "Description": "Official Proton Drive command-line client (precompiled binary)",
-    "FirstSubmitted": 1781025661,
-    "LastModified": 1785538396,
-    "Maintainer": "imnaK",
-    "Name": "proton-drive-cli-bin",
-    "NumVotes": 9,
-    "PackageBase": "proton-drive-cli-bin",
-    "Popularity": 3.873287,
-    "URL": "https://proton.me/download/drive/cli/index.html",
-    "Version": "0.7.0-1"
+    "Description": "Shell script analysis tool (binary release, static)",
+    "FirstSubmitted": 1644997901,
+    "LastModified": 1754320333,
+    "Maintainer": "silvio",
+    "Name": "shellcheck-bin",
+    "NumVotes": 79,
+    "PackageBase": "shellcheck-bin",
+    "Popularity": 3.799684,
+    "URL": "https://shellcheck.net",
+    "Version": "0.11.0-1"
    },
    {
     "Description": "The Fast Remote Desktop Application",
@@ -712,6 +713,7 @@
     "Maintainer": "cilgin",
     "Name": "vicinae-bin",
     "NumVotes": 23,
+    "OutOfDate": 1786411015,
     "PackageBase": "vicinae-bin",
     "Popularity": 3.298217,
     "URL": "https://github.com/vicinaehq/vicinae",
@@ -750,9 +752,9 @@
     "LastModified": 1784958583,
     "Maintainer": "acaibowlz",
     "Name": "aur-sync-vote",
-    "NumVotes": 227,
+    "NumVotes": 228,
     "PackageBase": "aur-sync-vote",
-    "Popularity": 60.946674,
+    "Popularity": 60.488384,
     "URL": "https://github.com/acaibowlz/aur-sync-vote",
     "Version": "0.3.0-1"
    },
@@ -786,9 +788,9 @@
     "LastModified": 1765515783,
     "Maintainer": "Morganamilo",
     "Name": "paru",
-    "NumVotes": 1242,
+    "NumVotes": 1243,
     "PackageBase": "paru",
-    "Popularity": 28.400865,
+    "Popularity": 28.615698,
     "URL": "https://github.com/morganamilo/paru",
     "Version": "2.1.0-2"
    },
@@ -845,6 +847,18 @@
     "Version": "1:1.93.129-1"
    },
    {
+    "Description": "An interactive update notifier & applier that assists you with important pre / post update tasks",
+    "FirstSubmitted": 1648670018,
+    "LastModified": 1786396301,
+    "Maintainer": "Antiz",
+    "Name": "arch-update",
+    "NumVotes": 69,
+    "PackageBase": "arch-update",
+    "Popularity": 16.642008,
+    "URL": "https://github.com/Antiz96/arch-update",
+    "Version": "4.1.5-1"
+   },
+   {
     "Description": "The popular web browser by Google (Stable Channel)",
     "FirstSubmitted": 1274819156,
     "LastModified": 1785427321,
@@ -856,6 +870,18 @@
     "Popularity": 15.742005,
     "URL": "https://www.google.com/chrome",
     "Version": "151.0.7922.71-1"
+   },
+   {
+    "Description": "GObject-based multi-platform GUI toolkit (legacy)",
+    "FirstSubmitted": 1761640633,
+    "LastModified": 1761642108,
+    "Maintainer": "City-busz",
+    "Name": "gtk2",
+    "NumVotes": 95,
+    "PackageBase": "gtk2",
+    "Popularity": 15.474352,
+    "URL": "https://www.gtk.org/",
+    "Version": "2.24.33-5"
    },
    {
     "Description": "HTTP client/server library for GNOME",
@@ -895,18 +921,6 @@
     "Version": "1:GE_Proton10_34-1"
    },
    {
-    "Description": "An interactive update notifier & applier that assists you with important pre / post update tasks",
-    "FirstSubmitted": 1648670018,
-    "LastModified": 1786299834,
-    "Maintainer": "Antiz",
-    "Name": "arch-update",
-    "NumVotes": 67,
-    "PackageBase": "arch-update",
-    "Popularity": 14.777399,
-    "URL": "https://github.com/Antiz96/arch-update",
-    "Version": "4.1.4-1"
-   },
-   {
     "Description": "Bash script for downgrading one or more packages to a version in your cache or the A.L.A.",
     "FirstSubmitted": 1257990537,
     "LastModified": 1779803521,
@@ -917,18 +931,6 @@
     "Popularity": 14.705464,
     "URL": "https://github.com/archlinux-downgrade/downgrade",
     "Version": "12.0.2-1"
-   },
-   {
-    "Description": "GObject-based multi-platform GUI toolkit (legacy)",
-    "FirstSubmitted": 1761640633,
-    "LastModified": 1761642108,
-    "Maintainer": "City-busz",
-    "Name": "gtk2",
-    "NumVotes": 94,
-    "PackageBase": "gtk2",
-    "Popularity": 14.66641,
-    "URL": "https://www.gtk.org/",
-    "Version": "2.24.33-5"
    },
    {
     "Description": "An agentic coding tool that lives in your terminal",
@@ -949,11 +951,24 @@
     "LastModified": 1785445390,
     "Maintainer": "noctalia-dev",
     "Name": "noctalia",
-    "NumVotes": 21,
+    "NumVotes": 22,
     "PackageBase": "noctalia",
-    "Popularity": 13.600484,
+    "Popularity": 14.282416,
     "URL": "https://github.com/noctalia-dev/noctalia",
     "Version": "5.0.0_beta.7-1"
+   },
+   {
+    "Description": "An Open source Launcher for Epic, Amazon and GOG Games",
+    "FirstSubmitted": 1609447005,
+    "LastModified": 1778891554,
+    "Maintainer": "flaviofearn",
+    "Name": "heroic-games-launcher-bin",
+    "NumVotes": 290,
+    "OutOfDate": 1786278037,
+    "PackageBase": "heroic-games-launcher-bin",
+    "Popularity": 12.138001,
+    "URL": "https://heroicgameslauncher.com/",
+    "Version": "2.22.0-1"
    },
    {
     "Description": "Multimedia graph framework (32-bit) - core",
@@ -1002,31 +1017,6 @@
     "Popularity": 11.733623,
     "URL": "https://gstreamer.freedesktop.org/",
     "Version": "1.28.5-1"
-   },
-   {
-    "Description": "An Open source Launcher for Epic, Amazon and GOG Games",
-    "FirstSubmitted": 1609447005,
-    "LastModified": 1778891554,
-    "Maintainer": "flaviofearn",
-    "Name": "heroic-games-launcher-bin",
-    "NumVotes": 289,
-    "OutOfDate": 1786278037,
-    "PackageBase": "heroic-games-launcher-bin",
-    "Popularity": 11.551352,
-    "URL": "https://heroicgameslauncher.com/",
-    "Version": "2.22.0-1"
-   },
-   {
-    "Description": "EN-US // Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
-    "FirstSubmitted": 1635144512,
-    "LastModified": 1784830601,
-    "Maintainer": "Posi",
-    "Name": "betterbird-bin",
-    "NumVotes": 303,
-    "PackageBase": "betterbird-bin",
-    "Popularity": 11.416996,
-    "URL": "https://www.betterbird.eu/index.html",
-    "Version": "140.13.0esr-1"
    },
    {
     "Description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
@@ -1078,40 +1068,16 @@
     "Version": "1.6.5-1"
    },
    {
-    "Description": "A wireless Monado-based OpenXR runtime for standalone headsets.",
-    "FirstSubmitted": 1705107699,
-    "LastModified": 1784035397,
-    "Maintainer": "gmeunier",
-    "Name": "wivrn-server",
-    "NumVotes": 99,
-    "PackageBase": "wivrn-server",
-    "Popularity": 9.671342,
-    "URL": "https://github.com/WiVRn/WiVRn",
-    "Version": "26.6.2-1"
-   },
-   {
-    "Description": "A wireless Monado-based OpenXR runtime for standalone headsets.",
-    "FirstSubmitted": 1705107699,
-    "LastModified": 1784035397,
-    "Maintainer": "gmeunier",
-    "Name": "lib32-wivrn-server",
-    "NumVotes": 99,
-    "PackageBase": "wivrn-server",
-    "Popularity": 9.671342,
-    "URL": "https://github.com/WiVRn/WiVRn",
-    "Version": "26.6.2-1"
-   },
-   {
-    "Description": "A wireless Monado-based OpenXR runtime for standalone headsets.",
-    "FirstSubmitted": 1705107699,
-    "LastModified": 1784035397,
-    "Maintainer": "gmeunier",
-    "Name": "wivrn-dashboard",
-    "NumVotes": 99,
-    "PackageBase": "wivrn-server",
-    "Popularity": 9.671342,
-    "URL": "https://github.com/WiVRn/WiVRn",
-    "Version": "26.6.2-1"
+    "Description": "EN-US // Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
+    "FirstSubmitted": 1635144512,
+    "LastModified": 1784830601,
+    "Maintainer": "Posi",
+    "Name": "betterbird-bin",
+    "NumVotes": 303,
+    "PackageBase": "betterbird-bin",
+    "Popularity": 9.896409,
+    "URL": "https://www.betterbird.eu/index.html",
+    "Version": "140.13.0esr-1"
    },
    {
     "Description": "Video Conferencing and Web Conferencing Service",
@@ -1219,6 +1185,7 @@
     "Maintainer": "noureddinex",
     "Name": "localsend-bin",
     "NumVotes": 142,
+    "OutOfDate": 1786400609,
     "PackageBase": "localsend-bin",
     "Popularity": 9.179949,
     "URL": "https://github.com/localsend/localsend",
@@ -1274,6 +1241,42 @@
     "Version": "26.5.7-2"
    },
    {
+    "Description": "A wireless Monado-based OpenXR runtime for standalone headsets.",
+    "FirstSubmitted": 1705107699,
+    "LastModified": 1784035397,
+    "Maintainer": "gmeunier",
+    "Name": "wivrn-server",
+    "NumVotes": 99,
+    "PackageBase": "wivrn-server",
+    "Popularity": 8.391185,
+    "URL": "https://github.com/WiVRn/WiVRn",
+    "Version": "26.6.2-1"
+   },
+   {
+    "Description": "A wireless Monado-based OpenXR runtime for standalone headsets.",
+    "FirstSubmitted": 1705107699,
+    "LastModified": 1784035397,
+    "Maintainer": "gmeunier",
+    "Name": "lib32-wivrn-server",
+    "NumVotes": 99,
+    "PackageBase": "wivrn-server",
+    "Popularity": 8.391185,
+    "URL": "https://github.com/WiVRn/WiVRn",
+    "Version": "26.6.2-1"
+   },
+   {
+    "Description": "A wireless Monado-based OpenXR runtime for standalone headsets.",
+    "FirstSubmitted": 1705107699,
+    "LastModified": 1784035397,
+    "Maintainer": "gmeunier",
+    "Name": "wivrn-dashboard",
+    "NumVotes": 99,
+    "PackageBase": "wivrn-server",
+    "Popularity": 8.391185,
+    "URL": "https://github.com/WiVRn/WiVRn",
+    "Version": "26.6.2-1"
+   },
+   {
     "Description": "A Jellyfin Desktop Client",
     "FirstSubmitted": 1784328580,
     "LastModified": 1784328580,
@@ -1298,6 +1301,19 @@
     "Version": "1.1.1.w-11"
    },
    {
+    "Description": "Google's agentic development platform (CLI companion)",
+    "FirstSubmitted": 1779224548,
+    "LastModified": 1785001614,
+    "Maintainer": "viridivn",
+    "Name": "antigravity-cli",
+    "NumVotes": 24,
+    "OutOfDate": 1785244014,
+    "PackageBase": "antigravity-cli",
+    "Popularity": 8.189636,
+    "URL": "https://antigravity.google/product/antigravity-cli",
+    "Version": "1.1.7_5951805767680000-1"
+   },
+   {
     "Description": "Trust scoring for AUR packages",
     "FirstSubmitted": 1770491117,
     "LastModified": 1772012946,
@@ -1309,19 +1325,6 @@
     "Popularity": 7.744385,
     "URL": "https://github.com/Sohimaster/traur",
     "Version": "0.4.1-1"
-   },
-   {
-    "Description": "Google's agentic development platform (CLI companion)",
-    "FirstSubmitted": 1779224548,
-    "LastModified": 1785001614,
-    "Maintainer": "viridivn",
-    "Name": "antigravity-cli",
-    "NumVotes": 23,
-    "OutOfDate": 1785244014,
-    "PackageBase": "antigravity-cli",
-    "Popularity": 7.373673,
-    "URL": "https://antigravity.google/product/antigravity-cli",
-    "Version": "1.1.7_5951805767680000-1"
    },
    {
     "Description": "Build cross platform desktop apps with web technologies — prebuilt",
@@ -1440,6 +1443,7 @@
     "Maintainer": "kordianbruck",
     "Name": "android-studio",
     "NumVotes": 1137,
+    "OutOfDate": 1786393051,
     "PackageBase": "android-studio",
     "Popularity": 6.417031,
     "URL": "https://developer.android.com/",
@@ -1487,14 +1491,14 @@
    {
     "Description": "An interactive update notifier & applier that assists you with important pre / post update tasks",
     "FirstSubmitted": 1648670018,
-    "LastModified": 1786299834,
+    "LastModified": 1786396301,
     "Maintainer": "Antiz",
     "Name": "arch-update",
-    "NumVotes": 67,
+    "NumVotes": 69,
     "PackageBase": "arch-update",
-    "Popularity": 14.777399,
+    "Popularity": 16.642008,
     "URL": "https://github.com/Antiz96/arch-update",
-    "Version": "4.1.4-1"
+    "Version": "4.1.5-1"
    },
    {
     "Description": "a pacman .files metadata explorer",
@@ -1794,7 +1798,7 @@
     "Name": "jackett",
     "NumVotes": 54,
     "PackageBase": "jackett",
-    "Popularity": 0.00205,
+    "Popularity": 0.001778,
     "URL": "https://github.com/Jackett/Jackett",
     "Version": "0.24.2307-1"
    },
@@ -1806,7 +1810,7 @@
     "Name": "jackett-bin",
     "NumVotes": 27,
     "PackageBase": "jackett-bin",
-    "Popularity": 0.978579,
+    "Popularity": 0.848526,
     "URL": "https://github.com/Jackett/Jackett",
     "Version": "0.24.2307-1"
    },
@@ -1856,7 +1860,7 @@
     "NumVotes": 34,
     "OutOfDate": 1786008294,
     "PackageBase": "emote",
-    "Popularity": 0.001931,
+    "Popularity": 0.001674,
     "URL": "https://github.com/tom-james-watson/Emote",
     "Version": "4.1.0-9"
    },
@@ -1880,7 +1884,7 @@
     "Name": "aws-cli-bin",
     "NumVotes": 19,
     "PackageBase": "aws-cli-bin",
-    "Popularity": 0.862424,
+    "Popularity": 0.747779,
     "URL": "https://github.com/aws/aws-cli/tree/v2",
     "Version": "1:2.36.14-1"
    },
@@ -1892,7 +1896,7 @@
     "Name": "rstudio-desktop-daily-bin",
     "NumVotes": 7,
     "PackageBase": "rstudio-desktop-daily-bin",
-    "Popularity": 0.240843,
+    "Popularity": 0.208808,
     "URL": "http://www.rstudio.org/",
     "Version": "2026.08.0.daily.173-2"
    },
@@ -1977,7 +1981,7 @@
     "Name": "zen-twilight-bin",
     "NumVotes": 12,
     "PackageBase": "zen-twilight-bin",
-    "Popularity": 0.200584,
+    "Popularity": 0.173904,
     "URL": "https://github.com/zen-browser/desktop",
     "Version": "1.22t.2026.07.31-1"
    },
@@ -1989,7 +1993,7 @@
     "Name": "vintagestory",
     "NumVotes": 71,
     "PackageBase": "vintagestory",
-    "Popularity": 3.416615,
+    "Popularity": 2.962358,
     "URL": "https://www.vintagestory.at/",
     "Version": "1.22.6-1"
    },
@@ -2013,7 +2017,7 @@
     "Name": "shelly",
     "NumVotes": 14,
     "PackageBase": "shelly",
-    "Popularity": 5.498016,
+    "Popularity": 4.771004,
     "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
     "Version": "3.0.1+1-2"
    },
@@ -2025,7 +2029,7 @@
     "Name": "shelly-flatpak-backend",
     "NumVotes": 14,
     "PackageBase": "shelly",
-    "Popularity": 5.498016,
+    "Popularity": 4.771004,
     "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
     "Version": "3.0.1+1-2"
    },
@@ -2145,7 +2149,7 @@
     "Name": "codex-app-unofficial",
     "NumVotes": 8,
     "PackageBase": "codex-app-unofficial",
-    "Popularity": 2.697445,
+    "Popularity": 2.338799,
     "URL": "https://github.com/better-slop/codex-app-linux",
     "Version": "26.727.51351_launcher.35-1"
    },
@@ -2231,7 +2235,7 @@
     "Name": "aur-auto-vote-git",
     "NumVotes": 695,
     "PackageBase": "aur-auto-vote-git",
-    "Popularity": 5.004665,
+    "Popularity": 4.338436,
     "URL": "https://github.com/cryzed/bin",
     "Version": "r150.3a626c5-1"
    },
@@ -2405,18 +2409,6 @@
     "Version": "2.2.0.r9.g0e1e0be9-1"
    },
    {
-    "Description": "The only cheat sheet you need (command line client for cheat.sh)",
-    "FirstSubmitted": 1589531772,
-    "LastModified": 1674861012,
-    "Maintainer": "fsyy",
-    "Name": "cht.sh-git",
-    "NumVotes": 16,
-    "PackageBase": "cht.sh-git",
-    "Popularity": 2.4262,
-    "URL": "https://github.com/chubin/cheat.sh",
-    "Version": "r819.d2b8697-1"
-   },
-   {
     "Description": "Reimplementation of OpenVR, translating calls to OpenXR.",
     "FirstSubmitted": 1687153332,
     "LastModified": 1756398224,
@@ -2439,18 +2431,6 @@
     "Popularity": 2.282041,
     "URL": "https://github.com/google/jpegli/",
     "Version": "r2989.g031a007-2"
-   },
-   {
-    "Description": "An LD_PRELOAD library to disable CSD in GTK3/4, LibHandy, and LibAdwaita apps.",
-    "FirstSubmitted": 1762986742,
-    "LastModified": 1785061926,
-    "Maintainer": "morsmortium",
-    "Name": "gtk-nocsd-git",
-    "NumVotes": 13,
-    "PackageBase": "gtk-nocsd-git",
-    "Popularity": 2.177854,
-    "URL": "https://codeberg.org/MorsMortium/gtk-nocsd",
-    "Version": "r257.9176683-1"
    },
    {
     "Description": "Display the current mouse refresh rate",
@@ -2477,6 +2457,18 @@
     "Version": "r36.bb3a78d-1"
    },
    {
+    "Description": "The only cheat sheet you need (command line client for cheat.sh)",
+    "FirstSubmitted": 1589531772,
+    "LastModified": 1674861012,
+    "Maintainer": "fsyy",
+    "Name": "cht.sh-git",
+    "NumVotes": 16,
+    "PackageBase": "cht.sh-git",
+    "Popularity": 2.103487,
+    "URL": "https://github.com/chubin/cheat.sh",
+    "Version": "r819.d2b8697-1"
+   },
+   {
     "Description": "The theme from libadwaita ported to GTK-3",
     "FirstSubmitted": 1723475698,
     "LastModified": 1754156308,
@@ -2487,18 +2479,6 @@
     "Popularity": 2.044008,
     "URL": "https://github.com/lassekongo83/adw-gtk3",
     "Version": "5.10.r2.g5962743-1"
-   },
-   {
-    "Description": "A Wayland compositor with smooth animation",
-    "FirstSubmitted": 1772334545,
-    "LastModified": 1785122785,
-    "Maintainer": "DreamMaoMao",
-    "Name": "mangowm-git",
-    "NumVotes": 9,
-    "PackageBase": "mangowm-git",
-    "Popularity": 2.0329,
-    "URL": "https://github.com/mangowm/mango",
-    "Version": "1b6e01d7-1.7"
    },
    {
     "Description": "Adjust your Moza Racing gear settings",
@@ -2537,6 +2517,18 @@
     "Version": "r7424.c690f7316-1"
    },
    {
+    "Description": "An LD_PRELOAD library to disable CSD in GTK3/4, LibHandy, and LibAdwaita apps.",
+    "FirstSubmitted": 1762986742,
+    "LastModified": 1785061926,
+    "Maintainer": "morsmortium",
+    "Name": "gtk-nocsd-git",
+    "NumVotes": 13,
+    "PackageBase": "gtk-nocsd-git",
+    "Popularity": 1.88826,
+    "URL": "https://codeberg.org/MorsMortium/gtk-nocsd",
+    "Version": "r257.9176683-1"
+   },
+   {
     "Description": "Greetd greeter for Noctalia",
     "FirstSubmitted": 1780917885,
     "LastModified": 1784723965,
@@ -2547,18 +2539,6 @@
     "Popularity": 1.861871,
     "URL": "https://github.com/noctalia-dev/noctalia-greeter",
     "Version": "1.0.0.r32.g34599488c-4"
-   },
-   {
-    "Description": "An optimized preload-rs fork with aggressive prefetching (Git version)",
-    "FirstSubmitted": 1772118058,
-    "LastModified": 1772118058,
-    "Maintainer": "openglfreak",
-    "Name": "preload-ng-git",
-    "NumVotes": 2,
-    "PackageBase": "preload-ng-git",
-    "Popularity": 1.832757,
-    "URL": "https://github.com/firelzrd/preload-ng",
-    "Version": "r249.b43c779-1"
    },
    {
     "Description": "Qt6 image viewer with video playback",
@@ -2607,6 +2587,18 @@
     "Popularity": 1.76795,
     "URL": "https://github.com/casualsnek/waydroid_script",
     "Version": "1:r186.fcb1562-3"
+   },
+   {
+    "Description": "A Wayland compositor with smooth animation",
+    "FirstSubmitted": 1772334545,
+    "LastModified": 1785122785,
+    "Maintainer": "DreamMaoMao",
+    "Name": "mangowm-git",
+    "NumVotes": 9,
+    "PackageBase": "mangowm-git",
+    "Popularity": 1.762635,
+    "URL": "https://github.com/mangowm/mango",
+    "Version": "1b6e01d7-1.7"
    },
    {
     "Description": "Text-based user interface for Mastodon, Pleroma and friends (development version)",
@@ -2715,6 +2707,18 @@
     "Popularity": 1.604796,
     "URL": "https://github.com/citron-neo/emulator",
     "Version": "2026.04.27.r134.g05e7127-1"
+   },
+   {
+    "Description": "An optimized preload-rs fork with aggressive prefetching (Git version)",
+    "FirstSubmitted": 1772118058,
+    "LastModified": 1772118058,
+    "Maintainer": "openglfreak",
+    "Name": "preload-ng-git",
+    "NumVotes": 2,
+    "PackageBase": "preload-ng-git",
+    "Popularity": 1.589052,
+    "URL": "https://github.com/firelzrd/preload-ng",
+    "Version": "r249.b43c779-1"
    },
    {
     "Description": "Tailscale tray menu and UI for the KDE Plasma Desktop",
@@ -2861,6 +2865,18 @@
     "Version": "20260518.r1-1"
    },
    {
+    "Description": "Implementation of Peter Shirley's Ray Tracing In One Weekend book",
+    "FirstSubmitted": 1618972071,
+    "LastModified": 1743710052,
+    "Maintainer": "PedroHLC",
+    "Name": "raytracinginvulkan-git",
+    "NumVotes": 4,
+    "PackageBase": "raytracinginvulkan-git",
+    "Popularity": 1.38296,
+    "URL": "https://github.com/GPSnoopy/RayTracingInVulkan",
+    "Version": "7.r32.g92170b6-1"
+   },
+   {
     "Description": "High-performance on-the-fly thumbnailer for mpv",
     "FirstSubmitted": 1664721420,
     "LastModified": 1707679288,
@@ -2919,21 +2935,9 @@
     "Popularity": 1.364699,
     "URL": "http://www.openmw.org",
     "Version": "0.51.0.r270.g64dc94c560-1"
-   },
-   {
-    "Description": "The 'Activate Windows' watermark ported to Linux with Xlib and cairo in C",
-    "FirstSubmitted": 1649064717,
-    "LastModified": 1770591455,
-    "Maintainer": "FabioLolix",
-    "Name": "activate-linux-git",
-    "NumVotes": 16,
-    "PackageBase": "activate-linux-git",
-    "Popularity": 1.3608,
-    "URL": "https://github.com/MrGlockenspiel/activate-linux",
-    "Version": "r376.347a579-1"
    }
   ]
  },
- "generated": "2026-08-10T06:44:04Z",
+ "generated": "2026-08-11T06:07:02Z",
  "source": "https://aur.archlinux.org/packages-meta-ext-v1.json.gz"
 }
