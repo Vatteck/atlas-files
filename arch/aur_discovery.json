@@ -16,26 +16,26 @@
    {
     "Description": "Layer-based image and photo editor (prebuilt binaries)",
     "FirstSubmitted": 1791190156,
-    "LastModified": 1793867447,
+    "LastModified": 1794037610,
     "Maintainer": "modinfo",
     "Name": "photocraft-bin",
     "NumVotes": 19,
     "PackageBase": "photocraft-bin",
     "Popularity": 12.101841,
     "URL": "https://github.com/storytold/photocraft",
-    "Version": "0.20.2-1"
+    "Version": "0.21.0-1"
    },
    {
     "Description": "Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)",
     "FirstSubmitted": 1513624448,
-    "LastModified": 1793947758,
+    "LastModified": 1793987758,
     "Maintainer": "dcelasun",
     "Name": "visual-studio-code-bin",
-    "NumVotes": 1712,
+    "NumVotes": 1713,
     "PackageBase": "visual-studio-code-bin",
-    "Popularity": 11.282373,
+    "Popularity": 11.975223,
     "URL": "https://code.visualstudio.com/",
-    "Version": "1.145.1-1"
+    "Version": "1.145.2-1"
    },
    {
     "Description": "Web browser that blocks ads and trackers by default (binary release)",
@@ -48,18 +48,6 @@
     "Popularity": 11.12683,
     "URL": "https://brave.com",
     "Version": "1:1.99.55-1"
-   },
-   {
-    "Description": "Official package for Zen, a privacy-focused, feature packed Firefox-based web browser",
-    "FirstSubmitted": 1722341490,
-    "LastModified": 1793309783,
-    "Maintainer": "Larvey",
-    "Name": "zen-browser-bin",
-    "NumVotes": 342,
-    "PackageBase": "zen-browser-bin",
-    "Popularity": 8.853608,
-    "URL": "https://github.com/zen-browser/desktop",
-    "Version": "1.24b-1"
    },
    {
     "Description": "EN-US // Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
@@ -81,21 +69,21 @@
     "Name": "rustdesk-bin",
     "NumVotes": 177,
     "PackageBase": "rustdesk-bin",
-    "Popularity": 8.360549,
+    "Popularity": 8.25707,
     "URL": "https://github.com/rustdesk/rustdesk",
     "Version": "1.5.1-1"
    },
    {
     "Description": "Open-source native PDF workbench, Acrobat alternative (prebuilt binary)",
     "FirstSubmitted": 1791570662,
-    "LastModified": 1793849513,
+    "LastModified": 1794006671,
     "Maintainer": "elonux",
     "Name": "pdfcraft-bin",
     "NumVotes": 11,
     "PackageBase": "pdfcraft-bin",
     "Popularity": 8.204467,
     "URL": "https://github.com/storytold/pdfcraft",
-    "Version": "0.18.2-1"
+    "Version": "0.19.0-1"
    },
    {
     "Description": "A fancy custom distribution of Valves Proton with various patches",
@@ -110,6 +98,18 @@
     "Version": "1:GE_Proton11_12-1"
    },
    {
+    "Description": "Official package for Zen, a privacy-focused, feature packed Firefox-based web browser",
+    "FirstSubmitted": 1722341490,
+    "LastModified": 1794000063,
+    "Maintainer": "Larvey",
+    "Name": "zen-browser-bin",
+    "NumVotes": 342,
+    "PackageBase": "zen-browser-bin",
+    "Popularity": 7.681426,
+    "URL": "https://github.com/zen-browser/desktop",
+    "Version": "1.24.1b-1"
+   },
+   {
     "Description": "An open source cross-platform alternative to AirDrop",
     "FirstSubmitted": 1675022925,
     "LastModified": 1791724814,
@@ -120,18 +120,6 @@
     "Popularity": 7.66723,
     "URL": "https://github.com/localsend/localsend",
     "Version": "1.18.2-2"
-   },
-   {
-    "Description": "An Open Source Launcher for GOG, Epic Games and Amazon Games",
-    "FirstSubmitted": 1609447005,
-    "LastModified": 1792031323,
-    "Maintainer": "flaviofearn",
-    "Name": "heroic-games-launcher-bin",
-    "NumVotes": 297,
-    "PackageBase": "heroic-games-launcher-bin",
-    "Popularity": 7.348898,
-    "URL": "https://heroicgameslauncher.com/",
-    "Version": "2.22.4-1"
    },
    {
     "Description": "A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed.",
@@ -158,16 +146,16 @@
     "Version": "2.3.10-1"
    },
    {
-    "Description": "Official Epic Games Store launcher (Preview)",
-    "FirstSubmitted": 1791996796,
-    "LastModified": 1793919840,
-    "Maintainer": "minpeter",
-    "Name": "epic-games-launcher-bin",
-    "NumVotes": 8,
-    "PackageBase": "epic-games-launcher-bin",
-    "Popularity": 6.331197,
-    "URL": "https://launcher.epicgames.com/",
-    "Version": "0.112.0-1"
+    "Description": "An Open Source Launcher for GOG, Epic Games and Amazon Games",
+    "FirstSubmitted": 1609447005,
+    "LastModified": 1792031323,
+    "Maintainer": "flaviofearn",
+    "Name": "heroic-games-launcher-bin",
+    "NumVotes": 297,
+    "PackageBase": "heroic-games-launcher-bin",
+    "Popularity": 6.375826,
+    "URL": "https://heroicgameslauncher.com/",
+    "Version": "2.22.4-1"
    },
    {
     "Description": "Private, fast, and honest web browser based on Chromium (Latest/Stable)",
@@ -182,16 +170,28 @@
     "Version": "0.21.1.1-1"
    },
    {
+    "Description": "Official Epic Games Store launcher (Preview)",
+    "FirstSubmitted": 1791996796,
+    "LastModified": 1794004452,
+    "Maintainer": "minpeter",
+    "Name": "epic-games-launcher-bin",
+    "NumVotes": 8,
+    "PackageBase": "epic-games-launcher-bin",
+    "Popularity": 5.486725,
+    "URL": "https://launcher.epicgames.com/",
+    "Version": "0.113.0-1"
+   },
+   {
     "Description": "Zotero Standalone. Is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.",
     "FirstSubmitted": 1648358351,
-    "LastModified": 1793339566,
+    "LastModified": 1793993725,
     "Maintainer": "juanmah",
     "Name": "zotero-bin",
     "NumVotes": 465,
     "PackageBase": "zotero-bin",
     "Popularity": 5.254141,
     "URL": "https://www.zotero.org/download",
-    "Version": "10.0.7-1"
+    "Version": "10.0.8-1"
    },
    {
     "Description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
@@ -266,6 +266,18 @@
     "Version": "0.17.1-1"
    },
    {
+    "Description": "Official binary version Calibre",
+    "FirstSubmitted": 1744983070,
+    "LastModified": 1793979136,
+    "Maintainer": "alllexx88",
+    "Name": "calibre-bin",
+    "NumVotes": 37,
+    "PackageBase": "calibre-bin",
+    "Popularity": 4.388914,
+    "URL": "https://download.calibre-ebook.com",
+    "Version": "9.18.0-1"
+   },
+   {
     "Description": "Photo library and non-destructive raw development (prebuilt binaries)",
     "FirstSubmitted": 1791191229,
     "LastModified": 1793864970,
@@ -276,18 +288,6 @@
     "Popularity": 4.211024,
     "URL": "https://github.com/storytold/lightcraft",
     "Version": "0.18.1-1"
-   },
-   {
-    "Description": "Office suite for documents, spreadsheets, presentations and PDFs, forked from ONLYOFFICE (upstream binary)",
-    "FirstSubmitted": 1791676986,
-    "LastModified": 1792967309,
-    "Maintainer": "Felitendo",
-    "Name": "euro-office-bin",
-    "NumVotes": 5,
-    "PackageBase": "euro-office-bin",
-    "Popularity": 4.162003,
-    "URL": "https://github.com/Euro-Office/DesktopEditors",
-    "Version": "9.3.6-1"
    },
    {
     "Description": "Shell script analysis tool (binary release, static)",
@@ -340,38 +340,38 @@
    {
     "Description": "Fast filesystem search service (prebuilt binary)",
     "FirstSubmitted": 1792777150,
-    "LastModified": 1793756888,
+    "LastModified": 1793985957,
     "Maintainer": "bbedward",
     "Name": "dux-search-bin",
     "NumVotes": 17,
     "PackageBase": "dux-search-bin",
     "Popularity": 3.864894,
     "URL": "https://github.com/duxlabs-dev/dux-search",
-    "Version": "2.1.0-1"
+    "Version": "2.1.1-1"
    },
    {
     "Description": "Local, Google, Microsoft, and CalDAV calendars for the Dux desktop (prebuilt binary)",
     "FirstSubmitted": 1792777287,
-    "LastModified": 1793756871,
+    "LastModified": 1793985933,
     "Maintainer": "bbedward",
     "Name": "dux-calendar-bin",
     "NumVotes": 7,
     "PackageBase": "dux-calendar-bin",
     "Popularity": 3.859581,
     "URL": "https://github.com/duxlabs-dev/dux-calendar",
-    "Version": "2.1.0-1"
+    "Version": "2.1.1-1"
    },
    {
     "Description": "A browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier",
     "FirstSubmitted": 1635475372,
-    "LastModified": 1793456053,
+    "LastModified": 1794037626,
     "Maintainer": "ptr1337",
     "Name": "microsoft-edge-stable-bin",
     "NumVotes": 160,
     "PackageBase": "microsoft-edge-stable-bin",
     "Popularity": 3.843384,
     "URL": "https://www.microsoftedgeinsider.com/en-us/download",
-    "Version": "156.0.4314.58-1"
+    "Version": "157.0.4341.42-1"
    },
    {
     "Description": "Cloudflare Warp Client",
@@ -388,26 +388,14 @@
    {
     "Description": "Grok Bot desktop agent",
     "FirstSubmitted": 1787207880,
-    "LastModified": 1793843549,
+    "LastModified": 1794017584,
     "Maintainer": "falser",
     "Name": "grok-bot-bin",
     "NumVotes": 8,
     "PackageBase": "grok-bot-bin",
     "Popularity": 3.74786,
     "URL": "https://cursor.com",
-    "Version": "0.78.5-1"
-   },
-   {
-    "Description": "Official binary version Calibre",
-    "FirstSubmitted": 1744983070,
-    "LastModified": 1792760303,
-    "Maintainer": "alllexx88",
-    "Name": "calibre-bin",
-    "NumVotes": 36,
-    "PackageBase": "calibre-bin",
-    "Popularity": 3.706073,
-    "URL": "https://download.calibre-ebook.com",
-    "Version": "9.17.0-1"
+    "Version": "0.79.3-1"
    },
    {
     "Description": "A fast, keyboard-first file manager for Linux",
@@ -434,6 +422,18 @@
     "Version": "8.6.0-1"
    },
    {
+    "Description": "Office suite for documents, spreadsheets, presentations and PDFs, forked from ONLYOFFICE (upstream binary)",
+    "FirstSubmitted": 1791676986,
+    "LastModified": 1792967309,
+    "Maintainer": "Felitendo",
+    "Name": "euro-office-bin",
+    "NumVotes": 5,
+    "PackageBase": "euro-office-bin",
+    "Popularity": 3.608801,
+    "URL": "https://github.com/Euro-Office/DesktopEditors",
+    "Version": "9.3.6-1"
+   },
+   {
     "Description": "Official DeepSeek Harness desktop packaging ported to Linux (prebuilt)",
     "FirstSubmitted": 1790838448,
     "LastModified": 1793894022,
@@ -456,18 +456,6 @@
     "Popularity": 3.515388,
     "URL": "https://github.com/Jguer/yay",
     "Version": "13.1.0-1"
-   },
-   {
-    "Description": "A lightweight approach to removing Google web service dependency",
-    "FirstSubmitted": 1661606207,
-    "LastModified": 1793837669,
-    "Maintainer": "networkException",
-    "Name": "ungoogled-chromium-bin",
-    "NumVotes": 159,
-    "PackageBase": "ungoogled-chromium-bin",
-    "Popularity": 3.460522,
-    "URL": "https://github.com/ungoogled-software/ungoogled-chromium",
-    "Version": "156.0.8078.79-1"
    },
    {
     "Description": "Fast native WhatsApp client built with Rust and egui",
@@ -496,26 +484,26 @@
    {
     "Description": "OpenCode desktop client",
     "FirstSubmitted": 1766095109,
-    "LastModified": 1793407792,
+    "LastModified": 1794017252,
     "Maintainer": "lapsus",
     "Name": "opencode-desktop-bin",
     "NumVotes": 20,
     "PackageBase": "opencode-desktop-bin",
     "Popularity": 3.13141,
     "URL": "https://opencode.ai",
-    "Version": "2.2.5-1"
+    "Version": "2.2.6-1"
    },
    {
     "Description": "Open-source native word processor, Word alternative (prebuilt binary)",
     "FirstSubmitted": 1791570691,
-    "LastModified": 1793849560,
+    "LastModified": 1794006725,
     "Maintainer": "elonux",
     "Name": "wordcraft-bin",
     "NumVotes": 4,
     "PackageBase": "wordcraft-bin",
     "Popularity": 3.099625,
     "URL": "https://github.com/storytold/wordcraft",
-    "Version": "0.15.2-1"
+    "Version": "0.16.0-1"
    },
    {
     "Description": "An integrated development environment (IDE) for R (binary from RStudio official repository)",
@@ -556,14 +544,14 @@
    {
     "Description": "File manager for Wayland from Dux Labs (prebuilt binary)",
     "FirstSubmitted": 1792528036,
-    "LastModified": 1793756877,
+    "LastModified": 1793985940,
     "Maintainer": "bbedward",
     "Name": "dux-files-bin",
     "NumVotes": 4,
     "PackageBase": "dux-files-bin",
     "Popularity": 3.026958,
     "URL": "https://github.com/duxlabs-dev/dux-files",
-    "Version": "2.1.0-1"
+    "Version": "2.1.1-1"
    },
    {
     "Description": "An open source desktop YouTube player built with privacy in mind.",
@@ -576,6 +564,18 @@
     "Popularity": 3.013581,
     "URL": "https://github.com/FreeTubeApp/FreeTube",
     "Version": "0.26.0-1"
+   },
+   {
+    "Description": "A lightweight approach to removing Google web service dependency",
+    "FirstSubmitted": 1661606207,
+    "LastModified": 1793837669,
+    "Maintainer": "networkException",
+    "Name": "ungoogled-chromium-bin",
+    "NumVotes": 159,
+    "PackageBase": "ungoogled-chromium-bin",
+    "Popularity": 3.002363,
+    "URL": "https://github.com/ungoogled-software/ungoogled-chromium",
+    "Version": "156.0.8078.79-1"
    },
    {
     "Description": "A lightweight, fast terminal-based text editor with LSP support and TypeScript plugins",
@@ -614,28 +614,16 @@
     "Version": "16.0-1"
    },
    {
-    "Description": "Free and Open Source AI Image Upscaler",
-    "FirstSubmitted": 1661738978,
-    "LastModified": 1778637711,
-    "Maintainer": "prurigro",
-    "Name": "upscayl-bin",
-    "NumVotes": 66,
-    "PackageBase": "upscayl-bin",
-    "Popularity": 2.819419,
-    "URL": "https://github.com/upscayl/upscayl",
-    "Version": "2.15.0-10"
-   },
-   {
-    "Description": "Coding agent CLI with read, bash, edit, write tools and session management (prebuilt binary)",
-    "FirstSubmitted": 1784361328,
-    "LastModified": 1793620063,
-    "Maintainer": "bhyoo",
-    "Name": "pi-coding-agent-bin",
-    "NumVotes": 23,
-    "PackageBase": "pi-coding-agent-bin",
-    "Popularity": 2.812512,
-    "URL": "https://github.com/earendil-works/pi",
-    "Version": "1.5.0-2"
+    "Description": "Continuation of Clash Verge | A Clash Meta GUI based on Tauri",
+    "FirstSubmitted": 1700840864,
+    "LastModified": 1793724284,
+    "Maintainer": "AzureZeng",
+    "Name": "clash-verge-rev-bin",
+    "NumVotes": 39,
+    "PackageBase": "clash-verge-rev-bin",
+    "Popularity": 2.82753,
+    "URL": "https://github.com/clash-verge-rev/clash-verge-rev",
+    "Version": "2.5.10-1"
    },
    {
     "Description": "Shelly: A Modern Arch Package Manager (prebuilt binary)",
@@ -660,19 +648,6 @@
     "Popularity": 2.789234,
     "URL": "https://github.com/Seafoam-Labs/Shelly-ALPM",
     "Version": "3.2.0-1"
-   },
-   {
-    "Description": "Xbox-inspired launcher for Microsoft Store PC games on Linux, built on Xodus",
-    "FirstSubmitted": 1792432991,
-    "LastModified": 1793658874,
-    "Maintainer": "Edu4rdSHL",
-    "Name": "xodus-nexus-bin",
-    "NumVotes": 3,
-    "OutOfDate": 1793901402,
-    "PackageBase": "xodus-nexus-bin",
-    "Popularity": 2.779122,
-    "URL": "https://github.com/domsvoboda/xodus-nexus",
-    "Version": "0.4.2-1"
    },
    {
     "Description": "Official Proton Drive command-line client (precompiled binary)",
@@ -721,6 +696,30 @@
     "Popularity": 2.716097,
     "URL": "https://throneproj.github.io",
     "Version": "1.4.0-1"
+   },
+   {
+    "Description": "Run Minecraft Bedrock for Windows on Linux with native Microsoft identity and multiplayer",
+    "FirstSubmitted": 1784313567,
+    "LastModified": 1793137952,
+    "Maintainer": "corrm",
+    "Name": "bedrock-on-linux-bin",
+    "NumVotes": 8,
+    "PackageBase": "bedrock-on-linux-bin",
+    "Popularity": 2.70929,
+    "URL": "https://github.com/Wyze3306/BedrockOnLinux",
+    "Version": "2.2.10-1"
+   },
+   {
+    "Description": "Converter for all formats video|audio|image professionnals codecs and standards - swiss knife tool for Linux.",
+    "FirstSubmitted": 1689845822,
+    "LastModified": 1793851658,
+    "Maintainer": "zxp19821005",
+    "Name": "shutter-encoder-bin",
+    "NumVotes": 23,
+    "PackageBase": "shutter-encoder-bin",
+    "Popularity": 2.683331,
+    "URL": "https://www.shutterencoder.com",
+    "Version": "20.5-1"
    }
   ],
   "popular": [
@@ -730,9 +729,9 @@
     "LastModified": 1784958583,
     "Maintainer": "acaibowlz",
     "Name": "aur-sync-vote",
-    "NumVotes": 274,
+    "NumVotes": 275,
     "PackageBase": "aur-sync-vote",
-    "Popularity": 31.662105,
+    "Popularity": 31.80071,
     "URL": "https://github.com/acaibowlz/aur-sync-vote",
     "Version": "0.3.0-1"
    },
@@ -787,14 +786,26 @@
    {
     "Description": "Layer-based image and photo editor (prebuilt binaries)",
     "FirstSubmitted": 1791190156,
-    "LastModified": 1793867447,
+    "LastModified": 1794037610,
     "Maintainer": "modinfo",
     "Name": "photocraft-bin",
     "NumVotes": 19,
     "PackageBase": "photocraft-bin",
     "Popularity": 12.101841,
     "URL": "https://github.com/storytold/photocraft",
-    "Version": "0.20.2-1"
+    "Version": "0.21.0-1"
+   },
+   {
+    "Description": "Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)",
+    "FirstSubmitted": 1513624448,
+    "LastModified": 1793987758,
+    "Maintainer": "dcelasun",
+    "Name": "visual-studio-code-bin",
+    "NumVotes": 1713,
+    "PackageBase": "visual-studio-code-bin",
+    "Popularity": 11.975223,
+    "URL": "https://code.visualstudio.com/",
+    "Version": "1.145.2-1"
    },
    {
     "Description": "ChatGPT desktop application for Linux (repackaged from the official binary)",
@@ -809,18 +820,6 @@
     "Version": "26.1027.51404-1"
    },
    {
-    "Description": "Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)",
-    "FirstSubmitted": 1513624448,
-    "LastModified": 1793947758,
-    "Maintainer": "dcelasun",
-    "Name": "visual-studio-code-bin",
-    "NumVotes": 1712,
-    "PackageBase": "visual-studio-code-bin",
-    "Popularity": 11.282373,
-    "URL": "https://code.visualstudio.com/",
-    "Version": "1.145.1-1"
-   },
-   {
     "Description": "Web browser that blocks ads and trackers by default (binary release)",
     "FirstSubmitted": 1459948564,
     "LastModified": 1793898958,
@@ -833,28 +832,16 @@
     "Version": "1:1.99.55-1"
    },
    {
-    "Description": "The popular web browser by Google (Stable Channel)",
-    "FirstSubmitted": 1274819156,
-    "LastModified": 1793747307,
-    "Maintainer": "gromit",
-    "Name": "google-chrome",
-    "NumVotes": 2376,
-    "PackageBase": "google-chrome",
-    "Popularity": 9.242064,
-    "URL": "https://www.google.com/chrome",
-    "Version": "157.0.8103.38-1"
-   },
-   {
-    "Description": "Official package for Zen, a privacy-focused, feature packed Firefox-based web browser",
-    "FirstSubmitted": 1722341490,
-    "LastModified": 1793309783,
-    "Maintainer": "Larvey",
-    "Name": "zen-browser-bin",
-    "NumVotes": 342,
-    "PackageBase": "zen-browser-bin",
-    "Popularity": 8.853608,
-    "URL": "https://github.com/zen-browser/desktop",
-    "Version": "1.24b-1"
+    "Description": "An agentic coding tool that lives in your terminal",
+    "FirstSubmitted": 1740425758,
+    "LastModified": 1793984706,
+    "Maintainer": "cg505",
+    "Name": "claude-code",
+    "NumVotes": 100,
+    "PackageBase": "claude-code",
+    "Popularity": 8.770814,
+    "URL": "https://github.com/anthropics/claude-code",
+    "Version": "2.1.319-1"
    },
    {
     "Description": "EN-US // Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.",
@@ -869,30 +856,6 @@
     "Version": "153.6.0esr-1"
    },
    {
-    "Description": "An agentic coding tool that lives in your terminal",
-    "FirstSubmitted": 1740425758,
-    "LastModified": 1793750545,
-    "Maintainer": "cg505",
-    "Name": "claude-code",
-    "NumVotes": 99,
-    "PackageBase": "claude-code",
-    "Popularity": 8.446505,
-    "URL": "https://github.com/anthropics/claude-code",
-    "Version": "2.1.318-1"
-   },
-   {
-    "Description": "Yet another remote desktop software, written in Rust. Works out of the box, no configuration required.",
-    "FirstSubmitted": 1624771014,
-    "LastModified": 1793647251,
-    "Maintainer": "kuhtoxo",
-    "Name": "rustdesk-bin",
-    "NumVotes": 177,
-    "PackageBase": "rustdesk-bin",
-    "Popularity": 8.360549,
-    "URL": "https://github.com/rustdesk/rustdesk",
-    "Version": "1.5.1-1"
-   },
-   {
     "Description": "GObject-based multi-platform GUI toolkit (legacy)",
     "FirstSubmitted": 1761640633,
     "LastModified": 1761642108,
@@ -905,16 +868,40 @@
     "Version": "2.24.33-5"
    },
    {
+    "Description": "Yet another remote desktop software, written in Rust. Works out of the box, no configuration required.",
+    "FirstSubmitted": 1624771014,
+    "LastModified": 1793647251,
+    "Maintainer": "kuhtoxo",
+    "Name": "rustdesk-bin",
+    "NumVotes": 177,
+    "PackageBase": "rustdesk-bin",
+    "Popularity": 8.25707,
+    "URL": "https://github.com/rustdesk/rustdesk",
+    "Version": "1.5.1-1"
+   },
+   {
     "Description": "Open-source native PDF workbench, Acrobat alternative (prebuilt binary)",
     "FirstSubmitted": 1791570662,
-    "LastModified": 1793849513,
+    "LastModified": 1794006671,
     "Maintainer": "elonux",
     "Name": "pdfcraft-bin",
     "NumVotes": 11,
     "PackageBase": "pdfcraft-bin",
     "Popularity": 8.204467,
     "URL": "https://github.com/storytold/pdfcraft",
-    "Version": "0.18.2-1"
+    "Version": "0.19.0-1"
+   },
+   {
+    "Description": "The popular web browser by Google (Stable Channel)",
+    "FirstSubmitted": 1274819156,
+    "LastModified": 1793747307,
+    "Maintainer": "gromit",
+    "Name": "google-chrome",
+    "NumVotes": 2375,
+    "PackageBase": "google-chrome",
+    "Popularity": 8.022208,
+    "URL": "https://www.google.com/chrome",
+    "Version": "157.0.8103.38-1"
    },
    {
     "Description": "Fast and lightweight HTML/CSS rendering engine",
@@ -941,6 +928,18 @@
     "Version": "1:GE_Proton11_12-1"
    },
    {
+    "Description": "Official package for Zen, a privacy-focused, feature packed Firefox-based web browser",
+    "FirstSubmitted": 1722341490,
+    "LastModified": 1794000063,
+    "Maintainer": "Larvey",
+    "Name": "zen-browser-bin",
+    "NumVotes": 342,
+    "PackageBase": "zen-browser-bin",
+    "Popularity": 7.681426,
+    "URL": "https://github.com/zen-browser/desktop",
+    "Version": "1.24.1b-1"
+   },
+   {
     "Description": "An open source cross-platform alternative to AirDrop",
     "FirstSubmitted": 1675022925,
     "LastModified": 1791724814,
@@ -953,39 +952,14 @@
     "Version": "1.18.2-2"
    },
    {
-    "Description": "The official Android IDE (Stable branch)",
-    "FirstSubmitted": 1368647110,
-    "LastModified": 1793221736,
-    "Maintainer": "kordianbruck",
-    "Name": "android-studio",
-    "NumVotes": 1146,
-    "OutOfDate": 1793900737,
-    "PackageBase": "android-studio",
-    "Popularity": 7.473892,
-    "URL": "https://developer.android.com/",
-    "Version": "2026.2.2.8-1"
-   },
-   {
-    "Description": "An Open Source Launcher for GOG, Epic Games and Amazon Games",
-    "FirstSubmitted": 1609447005,
-    "LastModified": 1792031323,
-    "Maintainer": "flaviofearn",
-    "Name": "heroic-games-launcher-bin",
-    "NumVotes": 297,
-    "PackageBase": "heroic-games-launcher-bin",
-    "Popularity": 7.348898,
-    "URL": "https://heroicgameslauncher.com/",
-    "Version": "2.22.4-1"
-   },
-   {
     "Description": "Official Claude AI desktop app from Anthropic — Chat, Cowork, and Claude Code",
     "FirstSubmitted": 1783216682,
     "LastModified": 1793916184,
     "Maintainer": "diazkev314",
     "Name": "claude-desktop",
-    "NumVotes": 25,
+    "NumVotes": 26,
     "PackageBase": "claude-desktop",
-    "Popularity": 7.324132,
+    "Popularity": 7.312208,
     "URL": "https://claude.com/download",
     "Version": "4.23118.0-1"
    },
@@ -1000,6 +974,18 @@
     "Popularity": 7.026569,
     "URL": "https://github.com/archlinux-downgrade/downgrade",
     "Version": "12.0.4-1"
+   },
+   {
+    "Description": "Google's agentic development platform (CLI companion)",
+    "FirstSubmitted": 1779224548,
+    "LastModified": 1793899403,
+    "Maintainer": "viridivn",
+    "Name": "antigravity-cli",
+    "NumVotes": 35,
+    "PackageBase": "antigravity-cli",
+    "Popularity": 6.899681,
+    "URL": "https://antigravity.google/product/antigravity-cli",
+    "Version": "1.5.1_4523430503120896-1"
    },
    {
     "Description": "AI coding agent for the terminal — minimal, extensible and optimized for tool use",
@@ -1038,6 +1024,19 @@
     "Version": "2.29.0-1"
    },
    {
+    "Description": "The official Android IDE (Stable branch)",
+    "FirstSubmitted": 1368647110,
+    "LastModified": 1793221736,
+    "Maintainer": "kordianbruck",
+    "Name": "android-studio",
+    "NumVotes": 1146,
+    "OutOfDate": 1793900737,
+    "PackageBase": "android-studio",
+    "Popularity": 6.478986,
+    "URL": "https://developer.android.com/",
+    "Version": "2026.2.2.8-1"
+   },
+   {
     "Description": "Arduino prototyping platform IDE, rewrite based on the Theia IDE framework.",
     "FirstSubmitted": 1663177118,
     "LastModified": 1781082060,
@@ -1050,16 +1049,16 @@
     "Version": "2.3.10-1"
    },
    {
-    "Description": "Google's agentic development platform (CLI companion)",
-    "FirstSubmitted": 1779224548,
-    "LastModified": 1793899403,
-    "Maintainer": "viridivn",
-    "Name": "antigravity-cli",
-    "NumVotes": 34,
-    "PackageBase": "antigravity-cli",
-    "Popularity": 6.373807,
-    "URL": "https://antigravity.google/product/antigravity-cli",
-    "Version": "1.5.1_4523430503120896-1"
+    "Description": "An Open Source Launcher for GOG, Epic Games and Amazon Games",
+    "FirstSubmitted": 1609447005,
+    "LastModified": 1792031323,
+    "Maintainer": "flaviofearn",
+    "Name": "heroic-games-launcher-bin",
+    "NumVotes": 297,
+    "PackageBase": "heroic-games-launcher-bin",
+    "Popularity": 6.375826,
+    "URL": "https://heroicgameslauncher.com/",
+    "Version": "2.22.4-1"
    },
    {
     "Description": "vibe coded clean-room reimplementation of Adobe Photoshop",
@@ -1072,18 +1071,6 @@
     "Popularity": 6.33665,
     "URL": "https://getartcraft.com/apps/photocraft",
     "Version": "0.20.2-1"
-   },
-   {
-    "Description": "Official Epic Games Store launcher (Preview)",
-    "FirstSubmitted": 1791996796,
-    "LastModified": 1793919840,
-    "Maintainer": "minpeter",
-    "Name": "epic-games-launcher-bin",
-    "NumVotes": 8,
-    "PackageBase": "epic-games-launcher-bin",
-    "Popularity": 6.331197,
-    "URL": "https://launcher.epicgames.com/",
-    "Version": "0.112.0-1"
    },
    {
     "Description": "Cross-platform 3D audio library, software implementation (32-bit)",
@@ -1158,16 +1145,28 @@
     "Version": "1:0.1.0.r1225.2339fc3-2"
    },
    {
+    "Description": "Official Epic Games Store launcher (Preview)",
+    "FirstSubmitted": 1791996796,
+    "LastModified": 1794004452,
+    "Maintainer": "minpeter",
+    "Name": "epic-games-launcher-bin",
+    "NumVotes": 8,
+    "PackageBase": "epic-games-launcher-bin",
+    "Popularity": 5.486725,
+    "URL": "https://launcher.epicgames.com/",
+    "Version": "0.113.0-1"
+   },
+   {
     "Description": "Zotero Standalone. Is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.",
     "FirstSubmitted": 1648358351,
-    "LastModified": 1793339566,
+    "LastModified": 1793993725,
     "Maintainer": "juanmah",
     "Name": "zotero-bin",
     "NumVotes": 465,
     "PackageBase": "zotero-bin",
     "Popularity": 5.254141,
     "URL": "https://www.zotero.org/download",
-    "Version": "10.0.7-1"
+    "Version": "10.0.8-1"
    },
    {
     "Description": "Core TTF Fonts from Microsoft",
@@ -1326,6 +1325,18 @@
     "Version": "37.5.1-1"
    },
    {
+    "Description": "Official binary version Calibre",
+    "FirstSubmitted": 1744983070,
+    "LastModified": 1793979136,
+    "Maintainer": "alllexx88",
+    "Name": "calibre-bin",
+    "NumVotes": 37,
+    "PackageBase": "calibre-bin",
+    "Popularity": 4.388914,
+    "URL": "https://download.calibre-ebook.com",
+    "Version": "9.18.0-1"
+   },
+   {
     "Description": "Photo library and non-destructive raw development (prebuilt binaries)",
     "FirstSubmitted": 1791191229,
     "LastModified": 1793864970,
@@ -1348,18 +1359,6 @@
     "Popularity": 4.17013,
     "URL": "https://github.com/TheAssassin/AppImageLauncher",
     "Version": "3.0.0_beta_3-1"
-   },
-   {
-    "Description": "Office suite for documents, spreadsheets, presentations and PDFs, forked from ONLYOFFICE (upstream binary)",
-    "FirstSubmitted": 1791676986,
-    "LastModified": 1792967309,
-    "Maintainer": "Felitendo",
-    "Name": "euro-office-bin",
-    "NumVotes": 5,
-    "PackageBase": "euro-office-bin",
-    "Popularity": 4.162003,
-    "URL": "https://github.com/Euro-Office/DesktopEditors",
-    "Version": "9.3.6-1"
    },
    {
     "Description": "A CLI system information tool written in BASH that supports displaying images.",
@@ -1448,724 +1447,724 @@
   ],
   "recently_updated": [
    {
-    "Description": "Stellarium without GPS and Telescope Control support (no gpsd and libindi dependencies)",
-    "FirstSubmitted": 1679774149,
-    "LastModified": 1793969246,
-    "Maintainer": "dimich",
-    "Name": "stellarium-lite",
-    "NumVotes": 5,
-    "PackageBase": "stellarium-lite",
-    "Popularity": 0.02842,
-    "URL": "https://stellarium.org",
-    "Version": "26.3-2"
-   },
-   {
-    "Description": "Community maintained variant of Linley's Dungeon Crawl (tiles) - git version",
-    "FirstSubmitted": 1492438738,
-    "LastModified": 1793968002,
-    "Maintainer": "FredBezies",
-    "Name": "stone-soup-tiles-git",
-    "NumVotes": 15,
-    "PackageBase": "stone-soup-tiles-git",
-    "Popularity": 0.0,
-    "URL": "http://crawl.develz.org",
-    "Version": "0.35.a0.r1468.gb9b84643cf-1"
-   },
-   {
-    "Description": "The popular web browser by Google (Canary Channel)",
-    "FirstSubmitted": 1729858619,
-    "LastModified": 1793967096,
-    "Maintainer": "navarroaxel",
-    "Name": "google-chrome-canary",
+    "Description": "The Linux kernel and modules with Xanmod patches",
+    "FirstSubmitted": 1572194891,
+    "LastModified": 1794050947,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod-rt",
     "NumVotes": 7,
-    "PackageBase": "google-chrome-canary",
-    "Popularity": 0.007133,
-    "URL": "https://www.google.com/chrome",
-    "Version": "159.0.8145.0-1"
+    "PackageBase": "linux-xanmod-rt",
+    "Popularity": 0.0,
+    "URL": "http://www.xanmod.org/",
+    "Version": "6.18.62-1"
    },
    {
-    "Description": "JavaScript IDE and HTML editor. Early Access Program.",
-    "FirstSubmitted": 1440441701,
-    "LastModified": 1793967089,
-    "Maintainer": "janek",
-    "Name": "webstorm-eap",
-    "NumVotes": 10,
-    "PackageBase": "webstorm-eap",
-    "Popularity": 0.000258,
-    "URL": "http://www.jetbrains.com/webstorm",
-    "Version": "263.7307.202-1"
+    "Description": "Headers and scripts for building modules for the Linux Xanmod real-time version kernel",
+    "FirstSubmitted": 1572194891,
+    "LastModified": 1794050947,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod-rt-headers",
+    "NumVotes": 7,
+    "PackageBase": "linux-xanmod-rt",
+    "Popularity": 0.0,
+    "URL": "http://www.xanmod.org/",
+    "Version": "6.18.62-1"
    },
    {
-    "Description": "JBR (JetBrains Runtime) for WebStorm EAP - a patched JRE",
-    "FirstSubmitted": 1440441701,
-    "LastModified": 1793967089,
-    "Maintainer": "janek",
-    "Name": "webstorm-eap-jre",
-    "NumVotes": 10,
-    "PackageBase": "webstorm-eap",
-    "Popularity": 0.000258,
-    "URL": "https://github.com/JetBrains/JetBrainsRuntime",
-    "Version": "263.7307.202-1"
+    "Description": "Wrapper for managing clean chroot builds with local repo therein.",
+    "FirstSubmitted": 1376844776,
+    "LastModified": 1794050858,
+    "Maintainer": "graysky",
+    "Name": "clean-chroot-manager",
+    "NumVotes": 72,
+    "PackageBase": "clean-chroot-manager",
+    "Popularity": 1.102818,
+    "URL": "https://github.com/graysky2/clean-chroot-manager",
+    "Version": "4.2-1"
+   },
+   {
+    "Description": "The Linux kernel and modules with Xanmod patches",
+    "FirstSubmitted": 1511316002,
+    "LastModified": 1794050740,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod-lts",
+    "NumVotes": 15,
+    "PackageBase": "linux-xanmod-lts",
+    "Popularity": 7e-06,
+    "URL": "http://www.xanmod.org/",
+    "Version": "6.18.62-1"
+   },
+   {
+    "Description": "Headers and scripts for building modules for the Linux Xanmod - Long Term Support [LTS] kernel",
+    "FirstSubmitted": 1511316002,
+    "LastModified": 1794050740,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod-lts-headers",
+    "NumVotes": 15,
+    "PackageBase": "linux-xanmod-lts",
+    "Popularity": 7e-06,
+    "URL": "http://www.xanmod.org/",
+    "Version": "6.18.62-1"
+   },
+   {
+    "Description": "PostgreSQL Database Modeler: an open source CASE tool for modeling PostgreSQL databases",
+    "FirstSubmitted": 1388813546,
+    "LastModified": 1794050651,
+    "Maintainer": "marco44",
+    "Name": "pgmodeler",
+    "NumVotes": 55,
+    "PackageBase": "pgmodeler",
+    "Popularity": 1.3e-05,
+    "URL": "https://pgmodeler.io",
+    "Version": "3:2.0.0-1"
+   },
+   {
+    "Description": "The Linux kernel and modules with Xanmod patches",
+    "FirstSubmitted": 1689805504,
+    "LastModified": 1794050277,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod-edge",
+    "NumVotes": 6,
+    "PackageBase": "linux-xanmod-edge",
+    "Popularity": 1.000489,
+    "URL": "http://www.xanmod.org/",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "Headers and scripts for building modules for the Linux Xanmod - Rolling Release [EDGE] kernel",
+    "FirstSubmitted": 1689805504,
+    "LastModified": 1794050277,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod-edge-headers",
+    "NumVotes": 6,
+    "PackageBase": "linux-xanmod-edge",
+    "Popularity": 1.000489,
+    "URL": "http://www.xanmod.org/",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "The Linux kernel and modules with Xanmod patches",
+    "FirstSubmitted": 1487065240,
+    "LastModified": 1794050270,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod",
+    "NumVotes": 131,
+    "PackageBase": "linux-xanmod",
+    "Popularity": 0.006838,
+    "URL": "http://www.xanmod.org/",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "Headers and scripts for building modules for the Linux Xanmod - Stable Mainline [MAIN] kernel",
+    "FirstSubmitted": 1487065240,
+    "LastModified": 1794050270,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod-headers",
+    "NumVotes": 131,
+    "PackageBase": "linux-xanmod",
+    "Popularity": 0.006838,
+    "URL": "http://www.xanmod.org/",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "A self-hosted game stream host for Moonlight",
+    "FirstSubmitted": 1729335877,
+    "LastModified": 1794049970,
+    "Maintainer": "Archttila",
+    "Name": "sunshine-beta-bin",
+    "NumVotes": 6,
+    "PackageBase": "sunshine-beta-bin",
+    "Popularity": 0.068914,
+    "URL": "https://app.lizardbyte.dev",
+    "Version": "2026.1106.201906-1"
+   },
+   {
+    "Description": "Unofficial Microsoft Teams for Linux client (binary version)",
+    "FirstSubmitted": 1688210105,
+    "LastModified": 1794049362,
+    "Maintainer": "AlphaJack",
+    "Name": "teams-for-linux-bin",
+    "NumVotes": 32,
+    "PackageBase": "teams-for-linux-bin",
+    "Popularity": 0.572644,
+    "URL": "https://github.com/IsmaelMartinez/teams-for-linux",
+    "Version": "2.29.0-1"
    },
    {
     "Description": "Nextcloud desktop client (official daily AppImage build)",
     "FirstSubmitted": 1530394912,
-    "LastModified": 1793966476,
+    "LastModified": 1794049220,
     "Maintainer": "AkechiShiro",
     "Name": "nextcloud-client-appimage-daily",
     "NumVotes": 7,
     "PackageBase": "nextcloud-client-appimage-daily",
     "Popularity": 0.066785,
     "URL": "https://download.nextcloud.com/desktop/daily/linux",
-    "Version": "1:20261106-1"
+    "Version": "1:20261107-1"
    },
    {
-    "Description": "Claude Desktop (official Linux build) with extra features: Computer Use, custom themes, multi-profile, Quick Entry - for distros upstream does not ship",
-    "FirstSubmitted": 1785417785,
-    "LastModified": 1793965889,
-    "Maintainer": "patrickjaja",
-    "Name": "claude-desktop-extra",
-    "NumVotes": 8,
-    "PackageBase": "claude-desktop-extra",
-    "Popularity": 2.583793,
-    "URL": "https://github.com/patrickjaja/claude-desktop-extra",
-    "Version": "4.23118.0-5"
-   },
-   {
-    "Description": "Fork of the Telegram Desktop messaging app",
-    "FirstSubmitted": 1644077131,
-    "LastModified": 1793965820,
-    "Maintainer": "xiota",
-    "Name": "forkgram",
-    "NumVotes": 6,
-    "PackageBase": "forkgram",
-    "Popularity": 0.008098,
-    "URL": "https://github.com/Forkgram/tdesktop",
-    "Version": "7.4.0-1"
-   },
-   {
-    "Description": "A media request tool that automatically syncs with your media servers",
-    "FirstSubmitted": 1731525706,
-    "LastModified": 1793965517,
-    "Maintainer": "txtsd",
-    "Name": "ombi-develop-bin",
+    "Description": "Application for patching Android A/B-style OTA images for root access",
+    "FirstSubmitted": 1693949912,
+    "LastModified": 1794047589,
+    "Maintainer": "zynex",
+    "Name": "avbroot",
     "NumVotes": 5,
-    "PackageBase": "ombi-develop-bin",
-    "Popularity": 0.0,
-    "URL": "https://ombi.io",
-    "Version": "4.60.20-1"
+    "PackageBase": "avbroot",
+    "Popularity": 0.006828,
+    "URL": "https://github.com/chenxiaolong/avbroot",
+    "Version": "3.37.1-1"
    },
    {
-    "Description": "The cutest instant messenger in the [matrix]",
-    "FirstSubmitted": 1603969160,
-    "LastModified": 1793964875,
-    "Maintainer": "xiota",
-    "Name": "fluffychat",
-    "NumVotes": 32,
-    "PackageBase": "fluffychat",
-    "Popularity": 1.437583,
-    "URL": "https://github.com/krille-chan/fluffychat",
-    "Version": "2.11.5-1"
+    "Description": "Kingsoft Office (WPS Office) - an office productivity suite",
+    "FirstSubmitted": 1408276656,
+    "LastModified": 1794046903,
+    "Maintainer": "Universebenzene",
+    "Name": "wps-office",
+    "NumVotes": 488,
+    "PackageBase": "wps-office",
+    "Popularity": 0.000691,
+    "URL": "https://www.wps.com/office/linux",
+    "Version": "12.1.2.29183-1"
    },
    {
-    "Description": "A distribution of the gcloud CLI that strips unnecessary dependencies to reduce the size by > 75%",
-    "FirstSubmitted": 1713428841,
-    "LastModified": 1793964384,
-    "Maintainer": "mmoya",
-    "Name": "google-cloud-cli-lite",
-    "NumVotes": 5,
-    "PackageBase": "google-cloud-cli-lite",
-    "Popularity": 0.320454,
-    "URL": "https://github.com/tonymet/gcloud-lite",
-    "Version": "592.0.0-1"
-   },
-   {
-    "Description": "Chromium-Gost — веб-браузер с открытым исходным кодом на основе Chromium с поддержкой криптографических алгоритмов ГОСТ при установке защищённых соединений через интерфейс msspi",
-    "FirstSubmitted": 1749637223,
-    "LastModified": 1793962650,
-    "Maintainer": "leoneii",
-    "Name": "chromium-gost",
-    "NumVotes": 6,
-    "PackageBase": "chromium-gost",
-    "Popularity": 0.130076,
-    "URL": "https://github.com/deemru/Chromium-Gost",
-    "Version": "156.0.8078.88-1"
-   },
-   {
-    "Description": "Ultra-fast, modern download manager (Official Release)",
-    "FirstSubmitted": 1747569637,
-    "LastModified": 1793962378,
-    "Maintainer": "aminbhst",
-    "Name": "brisk",
-    "NumVotes": 5,
-    "PackageBase": "brisk",
-    "Popularity": 0.005285,
-    "URL": "https://github.com/BrisklyDev/brisk",
-    "Version": "2.3.9-1"
-   },
-   {
-    "Description": "A next-generation data science IDE. Positron is an extensible, polyglot tool for writing code and exploring data in Python, R, and other languages.",
-    "FirstSubmitted": 1719721485,
-    "LastModified": 1793961636,
-    "Maintainer": "ponte-vecchio",
-    "Name": "positron-ide-devel-bin",
-    "NumVotes": 10,
-    "PackageBase": "positron-ide-devel-bin",
-    "Popularity": 0.323421,
-    "URL": "https://github.com/posit-dev/positron",
-    "Version": "2026.11.0.308-1"
-   },
-   {
-    "Description": "Fast, Private & Safe Web Browser from Mozilla — Nightly Build (en-US)",
-    "FirstSubmitted": 1658940149,
-    "LastModified": 1793961438,
-    "Maintainer": "VitalyR",
-    "Name": "firefox-nightly-bin",
-    "NumVotes": 18,
-    "PackageBase": "firefox-nightly-bin",
-    "Popularity": 0.358569,
-    "URL": "https://www.mozilla.org/en-US/firefox/nightly",
-    "Version": "162.0a1.20261106.044122-1"
-   },
-   {
-    "Description": "A lightweight, fast terminal-based text editor with LSP support and TypeScript plugins",
-    "FirstSubmitted": 1764919219,
-    "LastModified": 1793960634,
-    "Maintainer": "sinelaw",
-    "Name": "fresh-editor",
-    "NumVotes": 13,
-    "PackageBase": "fresh-editor",
-    "Popularity": 1.272729,
-    "URL": "https://sinelaw.github.io/fresh/",
-    "Version": "0.5.8-1"
-   },
-   {
-    "Description": "A lightweight, fast terminal-based text editor with LSP support and TypeScript plugins",
-    "FirstSubmitted": 1765839016,
-    "LastModified": 1793960623,
-    "Maintainer": "sinelaw",
-    "Name": "fresh-editor-bin",
-    "NumVotes": 23,
-    "PackageBase": "fresh-editor-bin",
-    "Popularity": 2.942232,
-    "URL": "https://sinelaw.github.io/fresh/",
-    "Version": "0.5.8-1"
-   },
-   {
-    "Description": "desktop app for Trezor hardware wallets",
-    "FirstSubmitted": 1603125667,
-    "LastModified": 1793957495,
-    "Maintainer": "pizzaman",
-    "Name": "trezor-suite-appimage",
-    "NumVotes": 20,
-    "PackageBase": "trezor-suite-appimage",
-    "Popularity": 0.075837,
-    "URL": "https://suite.trezor.io/",
-    "Version": "26.10.3-1"
+    "Description": "Mime files provided by Kingsoft Office (WPS Office)",
+    "FirstSubmitted": 1408276656,
+    "LastModified": 1794046903,
+    "Maintainer": "Universebenzene",
+    "Name": "wps-office-mime",
+    "NumVotes": 488,
+    "PackageBase": "wps-office",
+    "Popularity": 0.000691,
+    "URL": "https://www.wps.com/office/linux",
+    "Version": "12.1.2.29183-1"
    },
    {
     "Description": "Fork of Vim aiming to improve user experience, plugins, and GUIs (nightly build)",
     "FirstSubmitted": 1609096081,
-    "LastModified": 1793957364,
+    "LastModified": 1794046455,
     "Maintainer": "agony4001",
     "Name": "neovim-nightly-bin",
     "NumVotes": 63,
     "PackageBase": "neovim-nightly-bin",
     "Popularity": 1.003185,
     "URL": "https://neovim.io",
-    "Version": "0.13.0+dev+2032+g254bec339c-1"
-   },
-   {
-    "Description": "The web browser from NAVER",
-    "FirstSubmitted": 1653152150,
-    "LastModified": 1793957359,
-    "Maintainer": "ls4154",
-    "Name": "naver-whale-stable",
-    "NumVotes": 5,
-    "PackageBase": "naver-whale-stable",
-    "Popularity": 0.000162,
-    "URL": "https://whale.naver.com",
-    "Version": "5.41.429.3-1"
+    "Version": "0.13.0+dev+2042+g74f3ce7970-1"
    },
    {
     "Description": "Visual Studio Code Insiders (vscode): Editor for building and debugging modern web and cloud applications (official binary version)",
     "FirstSubmitted": 1605642833,
-    "LastModified": 1793956961,
+    "LastModified": 1794045755,
     "Maintainer": "dcelasun",
     "Name": "visual-studio-code-insiders-bin",
     "NumVotes": 43,
     "PackageBase": "visual-studio-code-insiders-bin",
     "Popularity": 1.368054,
     "URL": "https://code.visualstudio.com/",
-    "Version": "1793943106-1"
+    "Version": "1793993931-1"
    },
    {
-    "Description": "An automated scene switcher for OBS Studio",
-    "FirstSubmitted": 1612113095,
-    "LastModified": 1793956813,
-    "Maintainer": "migrev",
-    "Name": "obs-advanced-scene-switcher",
-    "NumVotes": 14,
-    "PackageBase": "obs-advanced-scene-switcher",
-    "Popularity": 0.284356,
-    "URL": "https://obsproject.com/forum/resources/advanced-scene-switcher.395/",
-    "Version": "1.37.2-1"
-   },
-   {
-    "Description": "Plugin-driven server agent for reporting metrics into InfluxDB",
-    "FirstSubmitted": 1441217143,
-    "LastModified": 1793955810,
-    "Maintainer": "ogarcia",
-    "Name": "telegraf",
-    "NumVotes": 44,
-    "PackageBase": "telegraf",
-    "Popularity": 0.028685,
-    "URL": "http://influxdb.org/",
-    "Version": "1.40.3-1"
-   },
-   {
-    "Description": "Command-line utility and REPL for Open Policy Agent",
-    "FirstSubmitted": 1574568573,
-    "LastModified": 1793955051,
-    "Maintainer": "jonathanio",
-    "Name": "opa",
-    "NumVotes": 6,
-    "PackageBase": "opa",
-    "Popularity": 0.0,
-    "URL": "https://github.com/open-policy-agent/opa",
-    "Version": "1.22.2-1"
-   },
-   {
-    "Description": "Save your dotfiles once, deploy them everywhere",
-    "FirstSubmitted": 1518011517,
-    "LastModified": 1793955006,
-    "Maintainer": "deadc0de6",
-    "Name": "dotdrop",
-    "NumVotes": 18,
-    "PackageBase": "dotdrop",
-    "Popularity": 0.652445,
-    "URL": "https://github.com/deadc0de6/dotdrop",
-    "Version": "1.18.1-1"
-   },
-   {
-    "Description": "Open source portable SIP softphone for Windows based on PJSIP stack",
-    "FirstSubmitted": 1514127630,
-    "LastModified": 1793954451,
-    "Maintainer": "ynnsn",
-    "Name": "microsip",
-    "NumVotes": 8,
-    "PackageBase": "microsip",
-    "Popularity": 0.000394,
-    "URL": "https://www.microsip.org",
-    "Version": "3.22.23-1"
-   },
-   {
-    "Description": "AniLibria client for major desktop platforms (stable)",
-    "FirstSubmitted": 1633096612,
-    "LastModified": 1793954164,
-    "Maintainer": "QwertyAdrian",
-    "Name": "anilibria-winmaclinux",
-    "NumVotes": 6,
-    "PackageBase": "anilibria-winmaclinux",
-    "Popularity": 6e-06,
-    "URL": "https://github.com/anilibria/anilibria-winmaclinux",
-    "Version": "2.2.36-1"
-   },
-   {
-    "Description": "An advanced subtitle editor and converter",
-    "FirstSubmitted": 1468061489,
-    "LastModified": 1793953934,
-    "Maintainer": "Nocifer",
-    "Name": "subtitleedit",
-    "NumVotes": 47,
-    "PackageBase": "subtitleedit",
-    "Popularity": 1.573993,
-    "URL": "https://www.nikse.dk/subtitleedit",
-    "Version": "5.4.0-1"
-   },
-   {
-    "Description": "SLADE3 Doom editor",
-    "FirstSubmitted": 1390942895,
-    "LastModified": 1793953844,
-    "Maintainer": "kinker31",
-    "Name": "slade-git",
-    "NumVotes": 6,
-    "PackageBase": "slade-git",
-    "Popularity": 0.000606,
-    "URL": "http://slade.mancubus.net/",
-    "Version": "3.3.0+r3972+g48a0187ce-2"
-   },
-   {
-    "Description": "Defguard VPN Multi-Factor Authentication Desktop Client",
-    "FirstSubmitted": 1705175013,
-    "LastModified": 1793953334,
-    "Maintainer": "teon",
-    "Name": "defguard-client",
-    "NumVotes": 5,
-    "PackageBase": "defguard-client",
-    "Popularity": 0.044482,
-    "URL": "https://github.com/DefGuard/client",
-    "Version": "2.2.0-6"
-   },
-   {
-    "Description": "Qoder 全新形态，以编程智能体为核心引擎，从想法到实现，轻松搞定。",
-    "FirstSubmitted": 1780449354,
-    "LastModified": 1793952951,
-    "Maintainer": "zxp19821005",
-    "Name": "qoder-cn-bin",
-    "NumVotes": 5,
-    "PackageBase": "qoder-cn-bin",
-    "Popularity": 1.346284,
-    "URL": "https://qoder.cn",
-    "Version": "0.5.5-1"
-   },
-   {
-    "Description": "A next-generation data science IDE from Posit",
-    "FirstSubmitted": 1774686694,
-    "LastModified": 1793952078,
-    "Maintainer": "Qingxu",
-    "Name": "positron-ide-bin",
-    "NumVotes": 6,
-    "PackageBase": "positron-ide-bin",
-    "Popularity": 0.687316,
-    "URL": "https://github.com/posit-dev/positron",
-    "Version": "2026.11.0.308-1"
+    "Description": "Your connected workspace for wiki, docs & projects",
+    "FirstSubmitted": 1697743756,
+    "LastModified": 1794044984,
+    "Maintainer": "AsukaMinato",
+    "Name": "notion-app-electron",
+    "NumVotes": 29,
+    "PackageBase": "notion-app-electron",
+    "Popularity": 0.135908,
+    "URL": "https://www.notion.so/desktop",
+    "Version": "7.42.3-1"
    },
    {
     "Description": "Nightly desktop control surface for local coding agents",
     "FirstSubmitted": 1776470037,
-    "LastModified": 1793951360,
+    "LastModified": 1794044910,
     "Maintainer": "maria_rcks",
     "Name": "t3code-nightly-bin",
     "NumVotes": 7,
     "PackageBase": "t3code-nightly-bin",
     "Popularity": 1.608757,
     "URL": "https://github.com/pingdotgg/t3code",
-    "Version": "0.1.8_nightly.20261106.4262-1"
+    "Version": "0.1.8_nightly.20261107.4314-1"
    },
    {
-    "Description": "Arch Linux package for OpenAI's Codex CLI - Auto Updated",
-    "FirstSubmitted": 1753130914,
-    "LastModified": 1793950729,
-    "Maintainer": "chmouel",
-    "Name": "openai-codex-bin",
-    "NumVotes": 25,
-    "PackageBase": "openai-codex-bin",
-    "Popularity": 1.803234,
-    "URL": "https://github.com/openai/codex",
-    "Version": "0.167.0-1"
-   },
-   {
-    "Description": "Unofficial Figma desktop app for Linux with native Wayland support and GPU acceleration",
-    "FirstSubmitted": 1774349060,
-    "LastModified": 1793949696,
-    "Maintainer": "arximus",
-    "Name": "figma-linux-next",
-    "NumVotes": 7,
-    "PackageBase": "figma-linux-next",
-    "Popularity": 0.23529,
-    "URL": "https://github.com/arximus88/figma-linux-next",
-    "Version": "0.24.0-1"
-   },
-   {
-    "Description": "Fluxer Canary Desktop Application",
-    "FirstSubmitted": 1777139696,
-    "LastModified": 1793948059,
-    "Maintainer": "Caus",
-    "Name": "fluxer-canary-bin",
-    "NumVotes": 9,
-    "PackageBase": "fluxer-canary-bin",
-    "Popularity": 2.087317,
-    "URL": "https://fluxer.app",
-    "Version": "2026.1106.11354-1"
-   },
-   {
-    "Description": "Fluxer Desktop Application",
-    "FirstSubmitted": 1770853792,
-    "LastModified": 1793947976,
-    "Maintainer": "Felitendo",
-    "Name": "fluxer-bin",
-    "NumVotes": 25,
-    "PackageBase": "fluxer-bin",
-    "Popularity": 2.100397,
-    "URL": "https://fluxer.app",
-    "Version": "2026.1106.11400-1"
-   },
-   {
-    "Description": "Powerful free audio player, converter and tag editor (v6 Beta, Unstable)",
-    "FirstSubmitted": 1668284340,
-    "LastModified": 1793947777,
-    "Maintainer": "badcast",
-    "Name": "aimp",
-    "NumVotes": 23,
-    "PackageBase": "aimp",
-    "Popularity": 1.313414,
-    "URL": "https://www.aimp.ru",
-    "Version": "6.00.3094-1"
-   },
-   {
-    "Description": "Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)",
-    "FirstSubmitted": 1513624448,
-    "LastModified": 1793947758,
-    "Maintainer": "dcelasun",
-    "Name": "visual-studio-code-bin",
-    "NumVotes": 1712,
-    "PackageBase": "visual-studio-code-bin",
-    "Popularity": 11.282373,
-    "URL": "https://code.visualstudio.com/",
-    "Version": "1.145.1-1"
-   },
-   {
-    "Description": "Stably AI Orca - Electron-based agentic coding IDE (prebuilt AppImage)",
-    "FirstSubmitted": 1776373530,
-    "LastModified": 1793947200,
-    "Maintainer": "thenomadcode",
-    "Name": "stably-orca-bin",
-    "NumVotes": 5,
-    "PackageBase": "stably-orca-bin",
-    "Popularity": 1.597827,
-    "URL": "https://github.com/stablyai/orca",
-    "Version": "1.4.251-1"
-   },
-   {
-    "Description": "PowerShell Core is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework",
-    "FirstSubmitted": 1636809734,
-    "LastModified": 1793946302,
-    "Maintainer": "kistlin",
-    "Name": "powershell-lts-bin",
-    "NumVotes": 5,
-    "PackageBase": "powershell-lts-bin",
-    "Popularity": 0.037076,
-    "URL": "https://github.com/Powershell/Powershell",
-    "Version": "7.6.9-1"
-   },
-   {
-    "Description": "An agentic AI IDE with spec-driven development from prototype to production",
-    "FirstSubmitted": 1764485884,
-    "LastModified": 1793944485,
-    "Maintainer": "AlphaLynx",
-    "Name": "kiro-ide",
-    "NumVotes": 14,
-    "PackageBase": "kiro-ide",
-    "Popularity": 0.144487,
-    "URL": "https://kiro.dev/",
-    "Version": "2:1.4.121-1"
-   },
-   {
-    "Description": "Isolate applications over Tor using Linux namespaces",
-    "FirstSubmitted": 1747340027,
-    "LastModified": 1793944454,
-    "Maintainer": "AlphaLynx",
-    "Name": "oniux",
-    "NumVotes": 8,
-    "PackageBase": "oniux",
-    "Popularity": 0.07095,
-    "URL": "https://gitlab.torproject.org/tpo/core/oniux",
-    "Version": "0.15.0-1"
-   },
-   {
-    "Description": "Flash OS images to SD cards & USB drives, safely and easily",
-    "FirstSubmitted": 1523565889,
-    "LastModified": 1793944281,
-    "Maintainer": "ali.molaei",
-    "Name": "etcher-bin",
-    "NumVotes": 174,
-    "PackageBase": "etcher-bin",
-    "Popularity": 0.209371,
-    "URL": "https://www.balena.io/etcher/",
-    "Version": "2.1.9-1"
-   },
-   {
-    "Description": "TUI for journalctl, file system logs, as well Docker and Podman containers for quick viewing and filtering with fuzzy find and regex support",
-    "FirstSubmitted": 1734181288,
-    "LastModified": 1793944016,
-    "Maintainer": "malteo",
-    "Name": "lazyjournal",
-    "NumVotes": 6,
-    "PackageBase": "lazyjournal",
-    "Popularity": 0.080695,
-    "URL": "https://github.com/Lifailon/lazyjournal",
-    "Version": "0.8.7-1"
-   },
-   {
-    "Description": "Prompt to code to deployment in your terminal",
-    "FirstSubmitted": 1764484255,
-    "LastModified": 1793944002,
-    "Maintainer": "AlphaLynx",
-    "Name": "kiro-cli",
-    "NumVotes": 8,
-    "PackageBase": "kiro-cli",
-    "Popularity": 1.021519,
-    "URL": "https://kiro.dev/cli/",
-    "Version": "3.0.0-1"
-   },
-   {
-    "Description": "An interactive shell to connect with MongoDB with syntax highlighting, autocomplete, contextual help and error messages.",
-    "FirstSubmitted": 1626545254,
-    "LastModified": 1793943544,
-    "Maintainer": "alexandro",
-    "Name": "mongosh-bin",
-    "NumVotes": 34,
-    "PackageBase": "mongosh-bin",
-    "Popularity": 0.867767,
-    "URL": "https://github.com/mongodb-js/mongosh.git",
-    "Version": "2.14.1-1"
-   },
-   {
-    "Description": "API Client and Design Platform for GraphQL and REST",
-    "FirstSubmitted": 1600634795,
-    "LastModified": 1793943427,
-    "Maintainer": "ali.molaei",
-    "Name": "insomnia-bin",
-    "NumVotes": 162,
-    "PackageBase": "insomnia-bin",
-    "Popularity": 0.022724,
-    "URL": "https://insomnia.rest",
-    "Version": "1:13.4.0-1"
-   },
-   {
-    "Description": "Smart KDE Plasma 6 Wallpaper plugin to play videos on your Desktop/Lock Screen",
-    "FirstSubmitted": 1716839244,
-    "LastModified": 1793943210,
-    "Maintainer": "luisbocanegra",
-    "Name": "plasma6-wallpapers-smart-video-wallpaper-reborn",
-    "NumVotes": 9,
-    "PackageBase": "plasma6-wallpapers-smart-video-wallpaper-reborn",
-    "Popularity": 0.121222,
-    "URL": "https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn",
-    "Version": "2.17.0-1"
-   },
-   {
-    "Description": "Coding agent with the IDE wired in (release binary)",
-    "FirstSubmitted": 1774258556,
-    "LastModified": 1793942486,
-    "Maintainer": "bjin",
-    "Name": "oh-my-pi-bin",
-    "NumVotes": 8,
-    "PackageBase": "oh-my-pi-bin",
-    "Popularity": 1.455786,
-    "URL": "https://omp.sh/",
-    "Version": "18.17.0-1"
-   },
-   {
-    "Description": "Professional Antigravity Account Manager & Switcher",
-    "FirstSubmitted": 1767081825,
-    "LastModified": 1793941548,
-    "Maintainer": "theorangeguo",
-    "Name": "antigravity-tools-bin",
-    "NumVotes": 6,
-    "PackageBase": "antigravity-tools-bin",
-    "Popularity": 1.306335,
-    "URL": "https://github.com/lbjlaq/Antigravity-Manager",
-    "Version": "5.0.3-1"
-   },
-   {
-    "Description": "The Official Android IDE (Canary branch)",
-    "FirstSubmitted": 1389263272,
-    "LastModified": 1793940369,
-    "Maintainer": "lalitm",
-    "Name": "android-studio-canary",
-    "NumVotes": 65,
-    "PackageBase": "android-studio-canary",
-    "Popularity": 1e-06,
-    "URL": "http://tools.android.com/",
-    "Version": "2026.2.3.3-1"
-   },
-   {
-    "Description": "Think tmux, then aim... lower",
-    "FirstSubmitted": 1718290927,
-    "LastModified": 1793940261,
-    "Maintainer": "tarball",
-    "Name": "shpool",
-    "NumVotes": 6,
-    "PackageBase": "shpool",
-    "Popularity": 0.025668,
-    "URL": "https://github.com/shell-pool/shpool",
-    "Version": "0.11.6-1"
-   },
-   {
-    "Description": "Library to easily interface with LLM API providers.",
-    "FirstSubmitted": 1696777625,
-    "LastModified": 1793939898,
-    "Maintainer": "AlphaJack",
-    "Name": "litellm",
-    "NumVotes": 7,
-    "PackageBase": "litellm",
-    "Popularity": 0.207808,
-    "URL": "https://github.com/BerriAI/litellm",
-    "Version": "1.108.1-1"
-   },
-   {
-    "Description": "The command line interface for Vercel",
-    "FirstSubmitted": 1590361323,
-    "LastModified": 1793939648,
-    "Maintainer": "asermax",
-    "Name": "vercel",
-    "NumVotes": 5,
-    "PackageBase": "vercel",
-    "Popularity": 0.000649,
-    "URL": "https://github.com/vercel/vercel",
-    "Version": "65.12.1-1"
-   },
-   {
-    "Description": "A meta package for electron and electron dependencies.",
-    "FirstSubmitted": 1668772518,
-    "LastModified": 1793939504,
-    "Maintainer": "gameslayer",
-    "Name": "libelectron",
+    "Description": "Fast, Private & Safe Web Browser from Mozilla — Nightly Build (en-US)",
+    "FirstSubmitted": 1658940149,
+    "LastModified": 1794044894,
+    "Maintainer": "VitalyR",
+    "Name": "firefox-nightly-bin",
     "NumVotes": 18,
-    "PackageBase": "libelectron",
-    "Popularity": 1.973156,
-    "URL": "https://gitlab.com/linuxbombay/libelectron",
-    "Version": "2026.8-1"
+    "PackageBase": "firefox-nightly-bin",
+    "Popularity": 0.358569,
+    "URL": "https://www.mozilla.org/en-US/firefox/nightly",
+    "Version": "162.0a1.20261106.171655-1"
+   },
+   {
+    "Description": "Session persistence for terminal processes",
+    "FirstSubmitted": 1771704238,
+    "LastModified": 1794044730,
+    "Maintainer": "malteo",
+    "Name": "zmx",
+    "NumVotes": 7,
+    "PackageBase": "zmx",
+    "Popularity": 0.414022,
+    "URL": "https://zmx.sh/",
+    "Version": "1.0.1-1"
+   },
+   {
+    "Description": "The Linux kernel and modules with Xanmod patches - Current Stable (MAIN) - Prebuilt version - x64v3",
+    "FirstSubmitted": 1666904370,
+    "LastModified": 1794043785,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod-linux-bin-x64v3",
+    "NumVotes": 17,
+    "PackageBase": "linux-xanmod-linux-bin-x64v3",
+    "Popularity": 0.324388,
+    "URL": "http://www.xanmod.org/",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "The Linux kernel and modules with Xanmod patches - Current Stable (MAIN) - Prebuilt version - x64v3",
+    "FirstSubmitted": 1666904370,
+    "LastModified": 1794043785,
+    "Maintainer": "figue",
+    "Name": "linux-xanmod-linux-headers-bin-x64v3",
+    "NumVotes": 17,
+    "PackageBase": "linux-xanmod-linux-bin-x64v3",
+    "Popularity": 0.324388,
+    "URL": "http://www.xanmod.org/",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "a library to create language servers",
+    "FirstSubmitted": 1709197448,
+    "LastModified": 1794042907,
+    "Maintainer": "Freed",
+    "Name": "python-lsp-tree-sitter",
+    "NumVotes": 5,
+    "PackageBase": "python-lsp-tree-sitter",
+    "Popularity": 0.435174,
+    "URL": "https://github.com/neomutt/lsp-tree-sitter",
+    "Version": "0.2.20-1"
+   },
+   {
+    "Description": "Distributed, fault-tolerant storage platform delivering object, block, and file system",
+    "FirstSubmitted": 1660493163,
+    "LastModified": 1794042541,
+    "Maintainer": "pbazaah",
+    "Name": "ceph-bin",
+    "NumVotes": 10,
+    "PackageBase": "ceph-bin",
+    "Popularity": 1e-06,
+    "URL": "https://ceph.com/",
+    "Version": "20.2.5-1"
+   },
+   {
+    "Description": "Distributed, fault-tolerant storage platform delivering object, block, and file system",
+    "FirstSubmitted": 1660493163,
+    "LastModified": 1794042541,
+    "Maintainer": "pbazaah",
+    "Name": "ceph-libs-bin",
+    "NumVotes": 10,
+    "PackageBase": "ceph-bin",
+    "Popularity": 1e-06,
+    "URL": "https://ceph.com/",
+    "Version": "20.2.5-1"
    },
    {
     "Description": "All-in-one voice and text chat for gamers - alpha build",
     "FirstSubmitted": 1667183154,
-    "LastModified": 1793939406,
+    "LastModified": 1794042007,
     "Maintainer": "timschumi",
     "Name": "discord-canary",
     "NumVotes": 36,
     "PackageBase": "discord-canary",
     "Popularity": 0.076727,
     "URL": "https://discord.com",
-    "Version": "1.0.2461-1"
+    "Version": "1.0.2472-1"
    },
    {
-    "Description": "An open-source, concise, and aesthetically pleasing third-party client for KuGou.一款开源简洁高颜值的酷狗第三方客户端",
-    "FirstSubmitted": 1731317678,
-    "LastModified": 1793939276,
-    "Maintainer": "zxp19821005",
-    "Name": "moekoemusic-bin",
+    "Description": "Official Yandex Music App for Linux",
+    "FirstSubmitted": 1761680757,
+    "LastModified": 1794041564,
+    "Maintainer": "dmitrysvd",
+    "Name": "yandex-music",
+    "NumVotes": 19,
+    "PackageBase": "yandex-music",
+    "Popularity": 0.198725,
+    "URL": "https://music.yandex.ru/download/",
+    "Version": "5.126.1-1"
+   },
+   {
+    "Description": "Temurin 11 (OpenJDK 11 Java binaries by Adoptium, formerly AdoptOpenJDK)",
+    "FirstSubmitted": 1636403101,
+    "LastModified": 1794040577,
+    "Maintainer": "Bevan",
+    "Name": "jdk11-temurin",
+    "NumVotes": 18,
+    "PackageBase": "jdk11-temurin",
+    "Popularity": 0.000264,
+    "URL": "https://adoptium.net/",
+    "Version": "11.0.33.u10-1"
+   },
+   {
+    "Description": "Bitrix24 unified workspace app (CRM, comms, tasks, and more)",
+    "FirstSubmitted": 1662035854,
+    "LastModified": 1794040339,
+    "Maintainer": "Ganin",
+    "Name": "bitrix24",
+    "NumVotes": 8,
+    "PackageBase": "bitrix24",
+    "Popularity": 0.000739,
+    "URL": "https://www.bitrix24.com/apps/desktop.php",
+    "Version": "24.0.38.92-1"
+   },
+   {
+    "Description": "OpenSSL based Authenticode signing for PE/MSI/Java CAB files",
+    "FirstSubmitted": 1452431035,
+    "LastModified": 1794038510,
+    "Maintainer": "zen",
+    "Name": "osslsigncode",
+    "NumVotes": 16,
+    "PackageBase": "osslsigncode",
+    "Popularity": 1.112765,
+    "URL": "https://github.com/mtrojnar/osslsigncode",
+    "Version": "2.15-2"
+   },
+   {
+    "Description": "The Perl Data Language",
+    "FirstSubmitted": 1196075560,
+    "LastModified": 1794038224,
+    "Maintainer": "jthvai",
+    "Name": "perl-pdl",
+    "NumVotes": 7,
+    "PackageBase": "perl-pdl",
+    "Popularity": 0.0,
+    "URL": "https://metacpan.org/dist/PDL",
+    "Version": "2.106-3"
+   },
+   {
+    "Description": "A browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier",
+    "FirstSubmitted": 1635475372,
+    "LastModified": 1794037626,
+    "Maintainer": "ptr1337",
+    "Name": "microsoft-edge-stable-bin",
+    "NumVotes": 160,
+    "PackageBase": "microsoft-edge-stable-bin",
+    "Popularity": 3.843384,
+    "URL": "https://www.microsoftedgeinsider.com/en-us/download",
+    "Version": "157.0.4341.42-1"
+   },
+   {
+    "Description": "Prompt to code to deployment in your terminal",
+    "FirstSubmitted": 1764484255,
+    "LastModified": 1794037621,
+    "Maintainer": "AlphaLynx",
+    "Name": "kiro-cli",
+    "NumVotes": 8,
+    "PackageBase": "kiro-cli",
+    "Popularity": 1.021519,
+    "URL": "https://kiro.dev/cli/",
+    "Version": "3.1.0-1"
+   },
+   {
+    "Description": "Layer-based image and photo editor (prebuilt binaries)",
+    "FirstSubmitted": 1791190156,
+    "LastModified": 1794037610,
+    "Maintainer": "modinfo",
+    "Name": "photocraft-bin",
+    "NumVotes": 19,
+    "PackageBase": "photocraft-bin",
+    "Popularity": 12.101841,
+    "URL": "https://github.com/storytold/photocraft",
+    "Version": "0.21.0-1"
+   },
+   {
+    "Description": "The Linux EEVDF + LTO + AutoFDO + Propeller Cachy Sauce Kernel by CachyOS with other patches and improvements. kernel and modules",
+    "FirstSubmitted": 1634063473,
+    "LastModified": 1794037053,
+    "Maintainer": "ptr1337",
+    "Name": "linux-cachyos",
+    "NumVotes": 57,
+    "PackageBase": "linux-cachyos",
+    "Popularity": 2.660529,
+    "URL": "https://github.com/CachyOS/linux-cachyos",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "Headers and scripts for building modules for the Linux EEVDF + LTO + AutoFDO + Propeller Cachy Sauce Kernel by CachyOS with other patches and improvements. kernel",
+    "FirstSubmitted": 1634063473,
+    "LastModified": 1794037053,
+    "Maintainer": "ptr1337",
+    "Name": "linux-cachyos-headers",
+    "NumVotes": 57,
+    "PackageBase": "linux-cachyos",
+    "Popularity": 2.660529,
+    "URL": "https://github.com/CachyOS/linux-cachyos",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "The Linux Clang ThinLTO + AutoFDO + Cachy Sauce Kernel by CachyOS with other patches and improvements - Release Candidate kernel and modules",
+    "FirstSubmitted": 1638988063,
+    "LastModified": 1794037031,
+    "Maintainer": "ptr1337",
+    "Name": "linux-cachyos-rc",
+    "NumVotes": 11,
+    "PackageBase": "linux-cachyos-rc",
+    "Popularity": 0.018722,
+    "URL": "https://github.com/CachyOS/linux-cachyos",
+    "Version": "7.4.rc1-2"
+   },
+   {
+    "Description": "Headers and scripts for building modules for the Linux Clang ThinLTO + AutoFDO + Cachy Sauce Kernel by CachyOS with other patches and improvements - Release Candidate kernel",
+    "FirstSubmitted": 1638988063,
+    "LastModified": 1794037031,
+    "Maintainer": "ptr1337",
+    "Name": "linux-cachyos-rc-headers",
+    "NumVotes": 11,
+    "PackageBase": "linux-cachyos-rc",
+    "Popularity": 0.018722,
+    "URL": "https://github.com/CachyOS/linux-cachyos",
+    "Version": "7.4.rc1-2"
+   },
+   {
+    "Description": "The Linux EEVDF + Cachy Sauce Kernel by CachyOS with other patches and improvements - Long Term Service kernel and modules",
+    "FirstSubmitted": 1676899498,
+    "LastModified": 1794037024,
+    "Maintainer": "ptr1337",
+    "Name": "linux-cachyos-lts",
+    "NumVotes": 8,
+    "PackageBase": "linux-cachyos-lts",
+    "Popularity": 0.962751,
+    "URL": "https://github.com/CachyOS/linux-cachyos",
+    "Version": "6.18.60-2"
+   },
+   {
+    "Description": "Headers and scripts for building modules for the Linux EEVDF + Cachy Sauce Kernel by CachyOS with other patches and improvements - Long Term Service kernel",
+    "FirstSubmitted": 1676899498,
+    "LastModified": 1794037024,
+    "Maintainer": "ptr1337",
+    "Name": "linux-cachyos-lts-headers",
+    "NumVotes": 8,
+    "PackageBase": "linux-cachyos-lts",
+    "Popularity": 0.962751,
+    "URL": "https://github.com/CachyOS/linux-cachyos",
+    "Version": "6.18.60-2"
+   },
+   {
+    "Description": "The Linux BORE + Cachy Sauce scheduler Kernel by CachyOS with other patches and improvements kernel and modules",
+    "FirstSubmitted": 1638987993,
+    "LastModified": 1794036995,
+    "Maintainer": "ptr1337",
+    "Name": "linux-cachyos-bore",
+    "NumVotes": 17,
+    "PackageBase": "linux-cachyos-bore",
+    "Popularity": 1.10466,
+    "URL": "https://github.com/CachyOS/linux-cachyos",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "Headers and scripts for building modules for the Linux BORE + Cachy Sauce scheduler Kernel by CachyOS with other patches and improvements kernel",
+    "FirstSubmitted": 1638987993,
+    "LastModified": 1794036995,
+    "Maintainer": "ptr1337",
+    "Name": "linux-cachyos-bore-headers",
+    "NumVotes": 17,
+    "PackageBase": "linux-cachyos-bore",
+    "Popularity": 1.10466,
+    "URL": "https://github.com/CachyOS/linux-cachyos",
+    "Version": "7.3.3-1"
+   },
+   {
+    "Description": "G-code generator for 3D printers (versions including beta, release candidates and stable versions)",
+    "FirstSubmitted": 1710252675,
+    "LastModified": 1794036097,
+    "Maintainer": "AndyHazz",
+    "Name": "orca-slicer-unstable-bin",
+    "NumVotes": 9,
+    "PackageBase": "orca-slicer-unstable-bin",
+    "Popularity": 1.947877,
+    "URL": "https://github.com/OrcaSlicer/OrcaSlicer",
+    "Version": "2.5.0-1"
+   },
+   {
+    "Description": "Binary diff and patch using the BSDIFF4-format",
+    "FirstSubmitted": 1612614430,
+    "LastModified": 1794035153,
+    "Maintainer": "morgenstern",
+    "Name": "python-bsdiff4",
+    "NumVotes": 10,
+    "PackageBase": "python-bsdiff4",
+    "Popularity": 1.541517,
+    "URL": "https://github.com/ilanschnell/bsdiff4",
+    "Version": "1.4.2-1"
+   },
+   {
+    "Description": "The Most Comprehensive Media Software",
+    "FirstSubmitted": 1400528685,
+    "LastModified": 1794033698,
+    "Maintainer": "blackhole",
+    "Name": "jriver-media-center",
+    "NumVotes": 16,
+    "PackageBase": "jriver-media-center",
+    "Popularity": 0.000194,
+    "URL": "http://www.jriver.com/",
+    "Version": "36.0.51-1"
+   },
+   {
+    "Description": "Fast, secure, easy-to-use web browser (Developer Stream)",
+    "FirstSubmitted": 1403514475,
+    "LastModified": 1794033103,
+    "Maintainer": "MojArch",
+    "Name": "opera-developer",
+    "NumVotes": 91,
+    "PackageBase": "opera-developer",
+    "Popularity": 0.000224,
+    "URL": "https://www.opera.com/computer",
+    "Version": "140.0.6072.0-1"
+   },
+   {
+    "Description": "Stably AI Orca - Electron-based agentic coding IDE (prebuilt AppImage)",
+    "FirstSubmitted": 1776373530,
+    "LastModified": 1794031012,
+    "Maintainer": "thenomadcode",
+    "Name": "stably-orca-bin",
+    "NumVotes": 5,
+    "PackageBase": "stably-orca-bin",
+    "Popularity": 1.597827,
+    "URL": "https://github.com/stablyai/orca",
+    "Version": "1.4.252-1"
+   },
+   {
+    "Description": "Library to easily interface with LLM API providers.",
+    "FirstSubmitted": 1696777625,
+    "LastModified": 1794026907,
+    "Maintainer": "AlphaJack",
+    "Name": "litellm",
+    "NumVotes": 7,
+    "PackageBase": "litellm",
+    "Popularity": 0.207808,
+    "URL": "https://github.com/BerriAI/litellm",
+    "Version": "1.108.2-1"
+   },
+   {
+    "Description": "LANraragi build package",
+    "FirstSubmitted": 1599350518,
+    "LastModified": 1794025761,
+    "Maintainer": "luckyluke",
+    "Name": "lanraragi",
+    "NumVotes": 5,
+    "PackageBase": "lanraragi",
+    "Popularity": 0.0,
+    "URL": "https://github.com/Difegue/LANraragi",
+    "Version": "v.0.9.82-1"
+   },
+   {
+    "Description": "A VLSI layout system",
+    "FirstSubmitted": 1210877154,
+    "LastModified": 1794025511,
+    "Maintainer": "tskaar",
+    "Name": "magic",
+    "NumVotes": 9,
+    "PackageBase": "magic",
+    "Popularity": 0.102234,
+    "URL": "http://opencircuitdesign.com/magic/",
+    "Version": "8.3.695-1"
+   },
+   {
+    "Description": "AI-native system for spec-driven development",
+    "FirstSubmitted": 1760002130,
+    "LastModified": 1794022991,
+    "Maintainer": "robertfoster",
+    "Name": "openspec",
     "NumVotes": 6,
-    "PackageBase": "moekoemusic-bin",
-    "Popularity": 0.107612,
-    "URL": "https://music.moekoe.cn/",
-    "Version": "1.7.2-1"
+    "PackageBase": "openspec",
+    "Popularity": 1.033954,
+    "URL": "https://github.com/Fission-AI/OpenSpec",
+    "Version": "1.16.1-1"
    },
    {
-    "Description": "Bilibili official desktop client.哔哩哔哩官方客户端linux移植版。",
-    "FirstSubmitted": 1652265396,
-    "LastModified": 1793937704,
-    "Maintainer": "bilibili_xiaok",
-    "Name": "bilibili-bin",
-    "NumVotes": 31,
-    "PackageBase": "bilibili-bin",
-    "Popularity": 0.343208,
-    "URL": "https://github.com/msojocs/bilibili-linux",
-    "Version": "5:1.20.0_2-1"
+    "Description": "Fork of the Telegram Desktop messaging app",
+    "FirstSubmitted": 1644077131,
+    "LastModified": 1794022773,
+    "Maintainer": "xiota",
+    "Name": "forkgram",
+    "NumVotes": 6,
+    "PackageBase": "forkgram",
+    "Popularity": 0.007026,
+    "URL": "https://github.com/Forkgram/tdesktop",
+    "Version": "7.4.1-1"
    },
    {
     "Description": "AMD ROCm Nightly Release (gfx1151) - Monolithic Install",
     "FirstSubmitted": 1769616391,
-    "LastModified": 1793936909,
+    "LastModified": 1794021700,
     "Maintainer": "Orion-zhen",
     "Name": "rocm-nightly-gfx1151-bin",
     "NumVotes": 5,
     "PackageBase": "rocm-nightly-gfx1151-bin",
     "Popularity": 0.094279,
     "URL": "https://nightly.repo.amd.com",
-    "Version": "10.3.0a20261105-1"
+    "Version": "10.3.0a20261106-1"
+   },
+   {
+    "Description": "Firefox-based web browser built from upstream release source snapshot",
+    "FirstSubmitted": 1731995049,
+    "LastModified": 1794018522,
+    "Maintainer": "noureddinex",
+    "Name": "zen-browser",
+    "NumVotes": 50,
+    "PackageBase": "zen-browser",
+    "Popularity": 1.22532,
+    "URL": "https://zen-browser.app",
+    "Version": "1.24.1b-1"
+   },
+   {
+    "Description": "Grok Bot desktop agent",
+    "FirstSubmitted": 1787207880,
+    "LastModified": 1794017584,
+    "Maintainer": "falser",
+    "Name": "grok-bot-bin",
+    "NumVotes": 8,
+    "PackageBase": "grok-bot-bin",
+    "Popularity": 3.74786,
+    "URL": "https://cursor.com",
+    "Version": "0.79.3-1"
+   },
+   {
+    "Description": "OpenCode desktop client",
+    "FirstSubmitted": 1766095109,
+    "LastModified": 1794017252,
+    "Maintainer": "lapsus",
+    "Name": "opencode-desktop-bin",
+    "NumVotes": 20,
+    "PackageBase": "opencode-desktop-bin",
+    "Popularity": 3.13141,
+    "URL": "https://opencode.ai",
+    "Version": "2.2.6-1"
+   },
+   {
+    "Description": "World of Warcraft addon manager. F/OSS, ad-free and privacy respecting.",
+    "FirstSubmitted": 1590935383,
+    "LastModified": 1794017171,
+    "Maintainer": "torkus",
+    "Name": "strongbox",
+    "NumVotes": 5,
+    "PackageBase": "strongbox",
+    "Popularity": 0.0,
+    "URL": "https://github.com/ogri-la/strongbox",
+    "Version": "7.8.1-1"
+   },
+   {
+    "Description": "Coding agent with the IDE wired in (release binary)",
+    "FirstSubmitted": 1774258556,
+    "LastModified": 1794016289,
+    "Maintainer": "bjin",
+    "Name": "oh-my-pi-bin",
+    "NumVotes": 8,
+    "PackageBase": "oh-my-pi-bin",
+    "Popularity": 1.455786,
+    "URL": "https://omp.sh/",
+    "Version": "18.18.0-1"
    }
   ],
   "vcs": [
@@ -2213,7 +2212,7 @@
     "Name": "jailbox-git",
     "NumVotes": 6,
     "PackageBase": "jailbox-git",
-    "Popularity": 2.877567,
+    "Popularity": 2.865633,
     "URL": "https://github.com/jamazi/jailbox.git",
     "Version": "v0.5.0.r0.gd82c0be-2"
    },
@@ -2398,66 +2397,6 @@
     "Version": "0.14.0.r505.g22c83b5-1"
    },
    {
-    "Description": "Run Qwen3.8-Flash-Next (125B MoE) on one consumer NVIDIA GPU plus system RAM, with a local OpenAI/Anthropic-compatible API (git version)",
-    "FirstSubmitted": 1791246742,
-    "LastModified": 1791246742,
-    "Maintainer": "zeakz",
-    "Name": "strata-engine-git",
-    "NumVotes": 2,
-    "PackageBase": "strata-engine-git",
-    "Popularity": 1.455565,
-    "URL": "https://github.com/Niko1221/Strata",
-    "Version": "0.1.39.r845.g6f32ec07-1"
-   },
-   {
-    "Description": "vibe coded clean-room reimplementation of Adobe InDesign (Git HEAD)",
-    "FirstSubmitted": 1791376705,
-    "LastModified": 1793355694,
-    "Maintainer": "alerque",
-    "Name": "designcraft-git",
-    "NumVotes": 2,
-    "PackageBase": "designcraft-git",
-    "Popularity": 1.400149,
-    "URL": "https://getartcraft.com/apps/designcraft",
-    "Version": "0.14.0.r129.gea08e4c-1"
-   },
-   {
-    "Description": "vibe coded clean-room reimplementation of Adobe After Effects (Git HEAD)",
-    "FirstSubmitted": 1791377055,
-    "LastModified": 1793356593,
-    "Maintainer": "alerque",
-    "Name": "effectcraft-git",
-    "NumVotes": 2,
-    "PackageBase": "effectcraft-git",
-    "Popularity": 1.400148,
-    "URL": "https://getartcraft.com/apps/effectcraft",
-    "Version": "0.18.0.r1272.g3d28511-1"
-   },
-   {
-    "Description": "vibe coded clean-room reimplementation of Adobe Premiere Pro (Git HEAD)",
-    "FirstSubmitted": 1791377251,
-    "LastModified": 1793361438,
-    "Maintainer": "alerque",
-    "Name": "filmcraft-git",
-    "NumVotes": 2,
-    "PackageBase": "filmcraft-git",
-    "Popularity": 1.400147,
-    "URL": "https://getartcraft.com/apps/filmcraft",
-    "Version": "0.14.0.r42.gfed0f42-1"
-   },
-   {
-    "Description": "vibe coded clean-room reimplementation of Adobe Photoshop (Git HEAD)",
-    "FirstSubmitted": 1791377436,
-    "LastModified": 1793368273,
-    "Maintainer": "alerque",
-    "Name": "photocraft-git",
-    "NumVotes": 2,
-    "PackageBase": "photocraft-git",
-    "Popularity": 1.400145,
-    "URL": "https://getartcraft.com/apps/photocraft",
-    "Version": "0.17.0.r894.gb1cfff9-1"
-   },
-   {
     "Description": "A visual, interactive configuration interface for the niri Wayland compositor",
     "FirstSubmitted": 1776509143,
     "LastModified": 1778233462,
@@ -2566,6 +2505,18 @@
     "Version": "r1853.22f2f49-1"
    },
    {
+    "Description": "Text-based user interface for Mastodon, Pleroma and friends (development version)",
+    "FirstSubmitted": 1770628448,
+    "LastModified": 1785563248,
+    "Maintainer": "kseistrup",
+    "Name": "tooi-git",
+    "NumVotes": 4,
+    "PackageBase": "tooi-git",
+    "Popularity": 1.282766,
+    "URL": "https://codeberg.org/ihabunek/tooi",
+    "Version": "0.27.0.r0.gba969ce-2"
+   },
+   {
     "Description": "A script to automate some relatively safe cleaning activities for Linux users.",
     "FirstSubmitted": 1767341261,
     "LastModified": 1767341261,
@@ -2576,6 +2527,18 @@
     "Popularity": 1.271838,
     "URL": "https://gitlab.com/cscs/maclean",
     "Version": "r111.87d490c-1"
+   },
+   {
+    "Description": "Run Qwen3.8-Flash-Next (125B MoE) on one consumer NVIDIA GPU plus system RAM, with a local OpenAI/Anthropic-compatible API (git version)",
+    "FirstSubmitted": 1791246742,
+    "LastModified": 1791246742,
+    "Maintainer": "zeakz",
+    "Name": "strata-engine-git",
+    "NumVotes": 2,
+    "PackageBase": "strata-engine-git",
+    "Popularity": 1.262929,
+    "URL": "https://github.com/Niko1221/Strata",
+    "Version": "0.1.39.r845.g6f32ec07-1"
    },
    {
     "Description": "A community-driven framework for managing your zsh configuration. Includes 180+ optional plugins and over 120 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community",
@@ -2627,6 +2590,54 @@
     "Version": "4.2.0.r5350.g6c9c8981f-1"
    },
    {
+    "Description": "vibe coded clean-room reimplementation of Adobe InDesign (Git HEAD)",
+    "FirstSubmitted": 1791376705,
+    "LastModified": 1793355694,
+    "Maintainer": "alerque",
+    "Name": "designcraft-git",
+    "NumVotes": 2,
+    "PackageBase": "designcraft-git",
+    "Popularity": 1.21473,
+    "URL": "https://getartcraft.com/apps/designcraft",
+    "Version": "0.14.0.r129.gea08e4c-1"
+   },
+   {
+    "Description": "vibe coded clean-room reimplementation of Adobe After Effects (Git HEAD)",
+    "FirstSubmitted": 1791377055,
+    "LastModified": 1793356593,
+    "Maintainer": "alerque",
+    "Name": "effectcraft-git",
+    "NumVotes": 2,
+    "PackageBase": "effectcraft-git",
+    "Popularity": 1.214729,
+    "URL": "https://getartcraft.com/apps/effectcraft",
+    "Version": "0.18.0.r1272.g3d28511-1"
+   },
+   {
+    "Description": "vibe coded clean-room reimplementation of Adobe Premiere Pro (Git HEAD)",
+    "FirstSubmitted": 1791377251,
+    "LastModified": 1793361438,
+    "Maintainer": "alerque",
+    "Name": "filmcraft-git",
+    "NumVotes": 2,
+    "PackageBase": "filmcraft-git",
+    "Popularity": 1.214728,
+    "URL": "https://getartcraft.com/apps/filmcraft",
+    "Version": "0.14.0.r42.gfed0f42-1"
+   },
+   {
+    "Description": "vibe coded clean-room reimplementation of Adobe Photoshop (Git HEAD)",
+    "FirstSubmitted": 1791377436,
+    "LastModified": 1793368273,
+    "Maintainer": "alerque",
+    "Name": "photocraft-git",
+    "NumVotes": 2,
+    "PackageBase": "photocraft-git",
+    "Popularity": 1.214726,
+    "URL": "https://getartcraft.com/apps/photocraft",
+    "Version": "0.17.0.r894.gb1cfff9-1"
+   },
+   {
     "Description": "A Wayland compositor with smooth animation",
     "FirstSubmitted": 1772334545,
     "LastModified": 1790815943,
@@ -2639,18 +2650,6 @@
     "Version": "0.17.4.r2.ge979638-2"
    },
    {
-    "Description": "An imitation of sudo, using run0 internally - WARNING: !!! THIS REPLACES SUDO !!!",
-    "FirstSubmitted": 1754494820,
-    "LastModified": 1793222743,
-    "Maintainer": "lynastral",
-    "Name": "run0-sudo-shim-git",
-    "NumVotes": 5,
-    "PackageBase": "run0-sudo-shim-git",
-    "Popularity": 1.209571,
-    "URL": "https://github.com/GrimmTheShrimp/run0-sudo-shim",
-    "Version": "1.4.2.r0.g9fa985d-1"
-   },
-   {
     "Description": "A shell script which checks your $HOME for unwanted files and directories.",
     "FirstSubmitted": 1652521978,
     "LastModified": 1762870602,
@@ -2661,6 +2660,18 @@
     "Popularity": 1.140638,
     "URL": "https://github.com/b3nj5m1n/xdg-ninja",
     "Version": "r560.cb09ebd-1"
+   },
+   {
+    "Description": "Apple exclusive AirPods Pro features for Linux (Rust Rewrite Branch)",
+    "FirstSubmitted": 1777923936,
+    "LastModified": 1777923936,
+    "Maintainer": "arthuring",
+    "Name": "librepods-rust-git",
+    "NumVotes": 2,
+    "PackageBase": "librepods-rust-git",
+    "Popularity": 1.13976,
+    "URL": "https://github.com/kavishdevar/librepods",
+    "Version": "r526.4a9a2e7-1"
    },
    {
     "Description": "Always auto select the niri dynamic cast target without any prompts",
@@ -2713,14 +2724,14 @@
    {
     "Description": "Development version of the Linux-native Wayland terminal built on Ghostty terminal core",
     "FirstSubmitted": 1784126658,
-    "LastModified": 1793449069,
+    "LastModified": 1794020344,
     "Maintainer": "rockorager",
     "Name": "monstar-git",
     "NumVotes": 2,
     "PackageBase": "monstar-git",
     "Popularity": 1.103598,
     "URL": "https://github.com/rockorager/monstar",
-    "Version": "1.0.1.r125.gcbabc5d-1"
+    "Version": "1.0.1.r134.g92a0e6a-1"
    },
    {
     "Description": "Alternative Discord client made in C++ with Qt 6",
@@ -2747,6 +2758,18 @@
     "Version": "1:7.12.2.r239.g3495e082-1"
    },
    {
+    "Description": "An imitation of sudo, using run0 internally - WARNING: !!! THIS REPLACES SUDO !!!",
+    "FirstSubmitted": 1754494820,
+    "LastModified": 1793222743,
+    "Maintainer": "lynastral",
+    "Name": "run0-sudo-shim-git",
+    "NumVotes": 5,
+    "PackageBase": "run0-sudo-shim-git",
+    "Popularity": 1.05003,
+    "URL": "https://github.com/GrimmTheShrimp/run0-sudo-shim",
+    "Version": "1.4.2.r0.g9fa985d-1"
+   },
+   {
     "Description": "A cross-platform, GPU-accelerated terminal emulator",
     "FirstSubmitted": 1642926656,
     "LastModified": 1780031911,
@@ -2757,18 +2780,6 @@
     "Popularity": 1.041157,
     "URL": "https://github.com/ayosec/alacritty",
     "Version": "1:0.17.0.2561.g3d658d2e-1"
-   },
-   {
-    "Description": "A tool to change and program the mapping of your input device buttons.",
-    "FirstSubmitted": 1641039015,
-    "LastModified": 1792572629,
-    "Maintainer": "sezanzeb",
-    "Name": "input-remapper-git",
-    "NumVotes": 49,
-    "PackageBase": "input-remapper-git",
-    "Popularity": 1.039766,
-    "URL": "https://github.com/sezanzeb/input-remapper/",
-    "Version": "2.2.1.r16.g54b7784b-1"
    },
    {
     "Description": "Complete solution to record, convert and stream audio and video (git version)",
@@ -2877,21 +2888,9 @@
     "Popularity": 1.008318,
     "URL": "https://gitlab.freedesktop.org/monado/utilities/vulkan-layers",
     "Version": "0.9.0.29.git.ae43cdc-1"
-   },
-   {
-    "Description": "A GTK theme based on the Tokyo Night colour palette.",
-    "FirstSubmitted": 1704325962,
-    "LastModified": 1720125085,
-    "Maintainer": "fuljo",
-    "Name": "tokyonight-gtk-theme-git",
-    "NumVotes": 4,
-    "PackageBase": "tokyonight-gtk-theme-git",
-    "Popularity": 1.004465,
-    "URL": "https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme",
-    "Version": "r70.2f566d89-2"
    }
   ]
  },
- "generated": "2026-11-06T13:00:10Z",
+ "generated": "2026-11-07T11:46:59Z",
  "source": "https://aur.archlinux.org/packages-meta-ext-v1.json.gz"
 }
